@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "এই ট্যাব"
+},
+"ad1_extension_desc": {
+"message": "কম দাম স্বয়ংক্রিয়ভাবে আবিষ্কর্তা, মূল্য ছাড়ের আবিষ্কর্তা, কেনাকাটা জন্য মূল্য ফিল্টার."
+},
+"ad1_extension_name": {
+"message": "ফেং অর্থ সংরক্ষণ মাস্টার"
+},
+"advise": {
+"message": "ব্লগ"
+},
+"aimg_tooltip": {
+"message": "টিক চিহ্ন তুলে দেয়া বা পরীক্ষা করার জন্য ইমেজ ক্লিক করুন"
+},
+"all_tab": {
+"message": "সকল ট্যাব"
+},
+"apply": {
+"message": "প্রয়োগ করা"
+},
+"chrome_download_settings_url": {
+"message": "ডাউনলোড করার আগে কোথায় ফাইল সংরক্ষণ করতে হবে জিজ্ঞাসা"
+},
+"default_title": {
+"message": "Fatkun ব্যাচ ডাউনলোড চিত্র"
+},
+"default_title_desc": {
+"message": "ShortKey: Alt + Z টিপুন"
+},
+"description": {
+"message": "একটি দরকারী এবং সহজ ইমেজ ডাউনলোড extension.You রেজল্যুশন বা লিঙ্ক দ্বারা ফিল্টার করতে পারেন."
+},
+"do_not_show_again": {
+"message": "আমি জানি এটা, না এই ডায়লগ কোনো আরো দেন."
+},
+"donate": {
+"message": "দান করা"
+},
+"export_btn": {
+"message": "রপ্তানি"
+},
+"export_close": {
+"message": "ঘনিষ্ঠ"
+},
+"export_format": {
+"message": "বিন্যাস"
+},
+"export_format_tips": {
+"message": "আপনি এই ভেরিয়েবল ব্যবহার করতে পারেন: {no} অর্থ ক্রম numberï¼\u003e {LINK এ} ইমেজ লিংক মানে"
+},
+"export_link": {
+"message": "লিংক রপ্তানি"
+},
+"filter_link": {
+"message": "ফিল্টার লিংক দ্বারা"
+},
+"five_stars": {
+"message": "5 তারার হার"
+},
+"height": {
+"message": "উচ্চতা"
+},
+"height_short": {
+"message": "ন্যূনতম উচ্চতা"
+},
+"inverse": {
+"message": "টগ্ল"
+},
+"min_display": {
+"message": "সর্বাধিক সাইড"
+},
+"more_options": {
+"message": "আরও বিকল্প"
+},
+"not_rename": {
+"message": "নামান্তর না"
+},
+"open_multiple_page": {
+"message": "ওপেন মাল্টি পৃষ্ঠা?"
+},
+"open_multiple_page_action": {
+"message": "খোলা পাতা"
+},
+"open_multiple_page_tips": {
+"message": "মাল্টি সারি URL এবং ওয়াইল্ডকার্ড অক্ষর অনুমতি দিন. "
+},
+"popup_tips": {
+"message": "সংক্ষিপ্ত কী: Alt + Z টিপুন"
+},
+"process_end": {
+"message": "চিত্র"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "ইমেজ পেয়ে রেজল্যুশন"
+},
+"rename_by_this_format": {
+"message": "পুনঃনামকরণ উপর ভিত্তি করে"
+},
+"rename_tips": {
+"message": "আপনি এই ভেরিয়েবল ব্যবহার করতে পারেন: {no} অর্থ ক্রম numberï¼\u003e {EXT} বর্ধিত নামের অর্থ"
+},
+"right_click_to_open": {
+"message": "(খুলুন এবং মানসমূহ পরীক্ষা করতে ডান-ক্লিক করুন)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "সংরক্ষণ করুন"
+},
+"save_image": {
+"message": "ছবি সংরক্ষন করুন"
+},
+"save_tips": {
+"message": "ক্রোম Downlods Setting.Otherwise মধ্যে বিকল্প \"যেখানে ডাউনলোড করার আগে প্রতিটি ফাইল সংরক্ষণ করতে হবে জিজ্ঞাসা\""
+},
+"save_tips_cancel": {
+"message": "বাতিল"
+},
+"save_tips_do_not_check": {
+"message": "নির্বাচন না"
+},
+"save_tips_done": {
+"message": "ছবি সংরক্ষন করুন"
+},
+"save_tips_open_setting": {
+"message": "ওপেন সেটিংস পৃষ্ঠা"
+},
+"settings": {
+"message": "সেটিংস"
+},
+"settings_add_rules": {
+"message": "নিয়ম যোগ"
+},
+"settings_already_save": {
+"message": "সেটিং সংরক্ষিত."
+},
+"settings_collect_one_page": {
+"message": "পাতা সংগ্রহ"
+},
+"settings_download": {
+"message": "ক্রোম ডাউনলোড করুন"
+},
+"settings_import_rules": {
+"message": "আমদানি নিয়ম"
+},
+"settings_min_display": {
+"message": "ডিফল্ট মিনিট রেজল্যুশন"
+},
+"settings_rule_delete": {
+"message": "মুছে ফেলা"
+},
+"settings_rule_example": {
+"message": "উদাহরণস্বরূপ Rule"
+},
+"settings_rule_example_title2": {
+"message": "রুল সমর্থন রেগুলার এক্সপ্রেশন"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "নিয়ম চিত্র url প্যাটার্ন"
+},
+"settings_rule_last_update_time": {
+"message": "সর্বশেষ আপডেট:"
+},
+"settings_rule_last_update_time_none": {
+"message": "না"
+},
+"settings_rule_name": {
+"message": "রুল নাম"
+},
+"settings_rule_test": {
+"message": "পরীক্ষা"
+},
+"settings_rule_url_replace_code": {
+"message": "ছবির url কোড প্রতিস্থাপন"
+},
+"settings_rules_empty": {
+"message": "খালি"
+},
+"settings_save_folder": {
+"message": "ফোল্ডার নাম সংরক্ষণ (Ctrl + S জন্য)"
+},
+"settings_save_use_fixed_name": {
+"message": "নির্দিষ্ট নাম ব্যবহার"
+},
+"settings_save_use_title": {
+"message": "ব্যবহারের ওয়েবসাইট শিরোনাম"
+},
+"settings_show_website": {
+"message": "দেখান লিংক"
+},
+"settings_simple": {
+"message": "নরমাল সেটিং"
+},
+"settings_special_support": {
+"message": "বিশেষ সমর্থন"
+},
+"settings_special_support_desc": {
+"message": "সাধারণ নিয়ম"
+},
+"settings_update": {
+"message": "এখন হালনাগাদ করুন"
+},
+"settings_use_shortcut_key": {
+"message": "সংক্ষিপ্ত কী ব্যবহার করুন: Alt + Z টিপুন"
+},
+"settings_user_rule_desc": {
+"message": "কাস্টম নিয়ম"
+},
+"sort": {
+"message": "সাজান"
+},
+"sort_big_first": {
+"message": "বড় ইমেজ প্রথম"
+},
+"sort_normal": {
+"message": "সাইট সাজানোর ক্রম"
+},
+"sort_small_first": {
+"message": "ছোট ইমেজ প্রথম"
+},
+"switch_view": {
+"message": "Switch দেখুন"
+},
+"update_declaration": {
+"message": "এই এক্সটেনশনটি ° ä¹ একটি\u003e ¾å® ¢ \u003c/a\u003e zzllrr এর \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e একটি কিছু কোড রেফারেন্সড"
+},
+"update_description": {
+"message": "1 ইংরেজি অনুবাদ \u003cbr /\u003e 2 Chrome ডাউনলোড করার সেটিংস আপডেট টুলটিপ"
+},
+"update_title": {
+"message": "Fatkun ব্যাচ ডাউনলোড চিত্র সংস্করণ 1.8.3"
+},
+"width": {
+"message": "প্রস্থ"
+},
+"width_short": {
+"message": "ন্যূনতম প্রস্থ"
+}
+}

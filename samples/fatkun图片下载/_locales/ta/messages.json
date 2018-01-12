@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "இந்த தாவல்"
+},
+"ad1_extension_desc": {
+"message": "குறைந்த விலை தானாக தேடுங்கள், தள்ளுபடி தேடுங்கள், ஷாப்பிங் விலை வடிகட்டி."
+},
+"ad1_extension_name": {
+"message": "ஃபெங் பணம் சேமிப்பு மாஸ்டர்"
+},
+"advise": {
+"message": "வலைப்பதிவு"
+},
+"aimg_tooltip": {
+"message": "தேர்வு நீக்கவும் அல்லது சரிபார்க்க படத்தை கிளிக் செய்யவும்"
+},
+"all_tab": {
+"message": "அனைத்து தாவல்கள்"
+},
+"apply": {
+"message": "விண்ணப்பிக்க"
+},
+"chrome_download_settings_url": {
+"message": "பதிவிறக்கும் முன் ஒவ்வொரு கோப்பையும் எங்கு சேமிக்க வேண்டும் எனக் கேட்கவும்"
+},
+"default_title": {
+"message": "Fatkun தொகுதி பதிவிறக்க பட"
+},
+"default_title_desc": {
+"message": "ShortKey: Alt + Z ஐ"
+},
+"description": {
+"message": "ஒரு பயனுள்ள மற்றும் எளிய படத்தை பதிவிறக்க extension.You தீர்மானம் அல்லது இணைப்பு மூலம் வடிகட்ட முடியும்."
+},
+"do_not_show_again": {
+"message": "நான் அதை, இனிமேல் இந்த உரையாடல் காட்ட முடியாது என்று எனக்கு தெரியும்."
+},
+"donate": {
+"message": "நன்கொடை"
+},
+"export_btn": {
+"message": "ஏற்றுமதி"
+},
+"export_close": {
+"message": "நெருக்கமான"
+},
+"export_format": {
+"message": "வடிவம்"
+},
+"export_format_tips": {
+"message": "நீங்கள் இந்த மாறிகள் பயன்படுத்த முடியும்: {இலக்கம்} பொருள் வரிசை numberï¼\u003e {இணைப்பு} பட இணைப்பு பொருள்"
+},
+"export_link": {
+"message": "ஏற்றுமதி இணைப்பை"
+},
+"filter_link": {
+"message": "இணைப்பு மூலம் வடிகட்டி"
+},
+"five_stars": {
+"message": "5 நட்சத்திரங்கள் வீதம்"
+},
+"height": {
+"message": "உயரம்"
+},
+"height_short": {
+"message": "நிமிடம் உயரம்"
+},
+"inverse": {
+"message": "மாற்று"
+},
+"min_display": {
+"message": "மேக்ஸ் சைட்"
+},
+"more_options": {
+"message": "மேலும் விருப்பங்கள்"
+},
+"not_rename": {
+"message": "மறுபெயர் இல்லை"
+},
+"open_multiple_page": {
+"message": "திறந்த பல பக்கம்?"
+},
+"open_multiple_page_action": {
+"message": "திறந்த பக்கம்"
+},
+"open_multiple_page_tips": {
+"message": "பல வரிசைகள் URL கள் மற்றும் பல்லுரு எழுத்துக்குறி அனுமதி. "
+},
+"popup_tips": {
+"message": "குறுகிய விசை: Alt + Z ஐ"
+},
+"process_end": {
+"message": "படங்கள்"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "படத்தை பெறுவது தீர்மானம்"
+},
+"rename_by_this_format": {
+"message": "மறுபெயரிடு அடிப்படையில்"
+},
+"rename_tips": {
+"message": "நீங்கள் இந்த மாறிகள் பயன்படுத்த முடியும்: {இலக்கம்} பொருள் வரிசை numberï¼\u003e {EXT} நீட்டிக்கப்பட்ட பெயர் பொருள்"
+},
+"right_click_to_open": {
+"message": "(திறக்க அமைப்புகளை சரி பார்க்க வலது கிளிக்)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "சேமி"
+},
+"save_image": {
+"message": "பட சேமி"
+},
+"save_tips": {
+"message": "குரோம் Downlods Setting.Otherwise உள்ள விருப்பத்தை \"பதிவிறக்கும் முன் ஒவ்வொரு கோப்பையும் எங்கு சேமிக்க வேண்டும் எனக் கேட்கவும்\""
+},
+"save_tips_cancel": {
+"message": "ரத்து"
+},
+"save_tips_do_not_check": {
+"message": "தேர்ந்தெடுக்க வேண்டாம்"
+},
+"save_tips_done": {
+"message": "பட சேமி"
+},
+"save_tips_open_setting": {
+"message": "திறந்த அமைப்புகள் பக்கம்"
+},
+"settings": {
+"message": "அமைப்புகள்"
+},
+"settings_add_rules": {
+"message": "விதிகளை சேர்க்க"
+},
+"settings_already_save": {
+"message": "அமைப்பு சேமிக்கப்பட்டது."
+},
+"settings_collect_one_page": {
+"message": "பக்கத்தில் சேகரிக்க"
+},
+"settings_download": {
+"message": "குரோம் இறக்கம் அமைக்கிறது"
+},
+"settings_import_rules": {
+"message": "விதிகள் இறக்குமதி"
+},
+"settings_min_display": {
+"message": "இயல்புநிலை நிமிடம் தீர்மானம்"
+},
+"settings_rule_delete": {
+"message": "அழி"
+},
+"settings_rule_example": {
+"message": "உதாரணமாக ஆட்சி"
+},
+"settings_rule_example_title2": {
+"message": "விதி ஆதரவு வழக்கமான வெளிப்படு"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "விதி பட url முறை"
+},
+"settings_rule_last_update_time": {
+"message": "கடைசியாக புதுப்பிக்கப்பட்டது:"
+},
+"settings_rule_last_update_time_none": {
+"message": "யாரும்"
+},
+"settings_rule_name": {
+"message": "விதி பெயர்"
+},
+"settings_rule_test": {
+"message": "டெஸ்ட்"
+},
+"settings_rule_url_replace_code": {
+"message": "பட url குறியீடு பதிலாக"
+},
+"settings_rules_empty": {
+"message": "காலியாக"
+},
+"settings_save_folder": {
+"message": "கோப்புறை பெயரை காப்பாற்ற (Ctrl + S ஐ க்கான)"
+},
+"settings_save_use_fixed_name": {
+"message": "நிலையான பெயரை பயன்படுத்த"
+},
+"settings_save_use_title": {
+"message": "பயன்படுத்த வலைத்தளம் தலைப்பு"
+},
+"settings_show_website": {
+"message": "இணைப்பு காட்டு"
+},
+"settings_simple": {
+"message": "இயல்பான அமைப்புகள்"
+},
+"settings_special_support": {
+"message": "சிறப்பு ஆதரவு"
+},
+"settings_special_support_desc": {
+"message": "பொதுவான விதியாகும்"
+},
+"settings_update": {
+"message": "இப்பொழுது மேம்படுத்து"
+},
+"settings_use_shortcut_key": {
+"message": "குறுகிய முக்கிய பயன்படுத்தவும்: Alt + Z ஐ"
+},
+"settings_user_rule_desc": {
+"message": "விருப்ப விதிகள்"
+},
+"sort": {
+"message": "வரிசைப்படுத்த"
+},
+"sort_big_first": {
+"message": "பிக் படம் முதல்"
+},
+"sort_normal": {
+"message": "தளம் மூலம் வரிசைப்படுத்த"
+},
+"sort_small_first": {
+"message": "சிறு பட முதல்"
+},
+"switch_view": {
+"message": "பார்வை மாற"
+},
+"update_declaration": {
+"message": "இந்த நீட்டிப்பு ° ä¹ a\u003e ¾å® ¢ \u003c/a\u003e zzllrr இன் \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e ஒரு சில குறியீடு குறிப்பிடப்பட்ட"
+},
+"update_description": {
+"message": "1 ஆங்கில மொழிபெயர்ப்பு \u003cbr /\u003e 2 குரோம் பதிவிறக்கம் அமைப்புகளை மேம்படுத்தப்பட்டது குறிப்புகளில்"
+},
+"update_title": {
+"message": "Fatkun தொகுதி பதிவிறக்க பட பதிப்பு 1.8.3"
+},
+"width": {
+"message": "அகலம்"
+},
+"width_short": {
+"message": "நிமிடம் அகலம்"
+}
+}

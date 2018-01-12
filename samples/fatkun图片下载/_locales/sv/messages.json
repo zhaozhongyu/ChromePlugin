@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "denna flik"
+},
+"ad1_extension_desc": {
+"message": "Lägre pris automatiskt finder, rabatt finder, Pris filter för shopping."
+},
+"ad1_extension_name": {
+"message": "Feng Money Saving master"
+},
+"advise": {
+"message": "blogg"
+},
+"aimg_tooltip": {
+"message": "Klicka på bilden för att avmarkera eller kontrollera"
+},
+"all_tab": {
+"message": "alla flikar"
+},
+"apply": {
+"message": "Tillämpa"
+},
+"chrome_download_settings_url": {
+"message": "Be om att spara varje fil före nedladdning"
+},
+"default_title": {
+"message": "Fatkun Batch Ladda ner bild"
+},
+"default_title_desc": {
+"message": "Shortkey: Alt + Z"
+},
+"description": {
+"message": "En användbar och enkel nedladdning extension.You kan filtrera efter upplösning eller länk."
+},
+"do_not_show_again": {
+"message": "Jag vet att det inte visa denna dialog längre."
+},
+"donate": {
+"message": "Donera"
+},
+"export_btn": {
+"message": "Exportera"
+},
+"export_close": {
+"message": "Stänga"
+},
+"export_format": {
+"message": "formatera"
+},
+"export_format_tips": {
+"message": "Du kan använda dessa variabler: {NO} betyder sekvens numberï¼\u003e {LINK} betyder bildlänk"
+},
+"export_link": {
+"message": "export länk"
+},
+"filter_link": {
+"message": "Filtret genom länken"
+},
+"five_stars": {
+"message": "5 stjärnor hastighet"
+},
+"height": {
+"message": "Höjd"
+},
+"height_short": {
+"message": "min Höjd"
+},
+"inverse": {
+"message": "toggle"
+},
+"min_display": {
+"message": "max Side"
+},
+"more_options": {
+"message": "Fler alternativ"
+},
+"not_rename": {
+"message": "inte byta namn"
+},
+"open_multiple_page": {
+"message": "Öppna flersidig?"
+},
+"open_multiple_page_action": {
+"message": "öppen sida"
+},
+"open_multiple_page_tips": {
+"message": "Tillåt flera rader webbadresser och jokertecken. "
+},
+"popup_tips": {
+"message": "Kort Key: Alt + Z"
+},
+"process_end": {
+"message": "bilder"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "bild få upplösning"
+},
+"rename_by_this_format": {
+"message": "Byta namn baserat på"
+},
+"rename_tips": {
+"message": "Du kan använda dessa variabler: {NO} betyder sekvens numberï¼\u003e {EXT} innebär utökad namn"
+},
+"right_click_to_open": {
+"message": "(Högerklicka för att öppna och kontrollera inställningarna)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Spara"
+},
+"save_image": {
+"message": "Spara bild"
+},
+"save_tips": {
+"message": "\"Fråga var du vill spara varje fil innan du laddar ner\" i Chrome Downlods Setting.Otherwise, många många bekräftelsedialogrutor flock."
+},
+"save_tips_cancel": {
+"message": "Annullera"
+},
+"save_tips_do_not_check": {
+"message": "Välj inte"
+},
+"save_tips_done": {
+"message": "Spara bild"
+},
+"save_tips_open_setting": {
+"message": "Öppna Inställningar Page"
+},
+"settings": {
+"message": "inställningar"
+},
+"settings_add_rules": {
+"message": "lägga till regler"
+},
+"settings_already_save": {
+"message": "Inställningen har sparats."
+},
+"settings_collect_one_page": {
+"message": "Samla till på sidan"
+},
+"settings_download": {
+"message": "Krom överför Setting"
+},
+"settings_import_rules": {
+"message": "importregler"
+},
+"settings_min_display": {
+"message": "Standardvärden för lägsta upplösning"
+},
+"settings_rule_delete": {
+"message": "Radera"
+},
+"settings_rule_example": {
+"message": "Regel exempel"
+},
+"settings_rule_example_title2": {
+"message": "Regel stöd reguljärt uttryck"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "Regel bild url mönster"
+},
+"settings_rule_last_update_time": {
+"message": "Senaste uppdateringen:"
+},
+"settings_rule_last_update_time_none": {
+"message": "Ingen"
+},
+"settings_rule_name": {
+"message": "Regelnamn"
+},
+"settings_rule_test": {
+"message": "Testa"
+},
+"settings_rule_url_replace_code": {
+"message": "Bild url ersätta kod"
+},
+"settings_rules_empty": {
+"message": "Tömma"
+},
+"settings_save_folder": {
+"message": "spara mappnamn (för Ctrl + S)"
+},
+"settings_save_use_fixed_name": {
+"message": "Använd fast namn"
+},
+"settings_save_use_title": {
+"message": "användning webbplats titel"
+},
+"settings_show_website": {
+"message": "show länk"
+},
+"settings_simple": {
+"message": "normala inställningar"
+},
+"settings_special_support": {
+"message": "Särskilt stöd"
+},
+"settings_special_support_desc": {
+"message": "gemensam regel"
+},
+"settings_update": {
+"message": "Uppdatera nu"
+},
+"settings_use_shortcut_key": {
+"message": "Använd Short Key: Alt + Z"
+},
+"settings_user_rule_desc": {
+"message": "anpassade regler"
+},
+"sort": {
+"message": "Sortera"
+},
+"sort_big_first": {
+"message": "Stor bild först"
+},
+"sort_normal": {
+"message": "Sortera efter plats"
+},
+"sort_small_first": {
+"message": "Liten image första"
+},
+"switch_view": {
+"message": "växla View"
+},
+"update_declaration": {
+"message": "Denna utvidgning refereras lite kod av zzllrr \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e å ° A ^ å\u003e ¾å® ¢ \u003c/a\u003e"
+},
+"update_description": {
+"message": "1 engelsk översättning \u003cbr /\u003e 2 Chrome hämtar inställningar verktygstips uppdaterad"
+},
+"update_title": {
+"message": "Fatkun Batch Download Image version 1.8.3"
+},
+"width": {
+"message": "Bredd"
+},
+"width_short": {
+"message": "min Bredd"
+}
+}

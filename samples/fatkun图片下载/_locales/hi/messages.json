@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "इस टैब"
+},
+"ad1_extension_desc": {
+"message": "कम कीमत स्वचालित रूप से खोजक, डिस्काउंट खोजक, खरीदारी के लिए कीमत फिल्टर।"
+},
+"ad1_extension_name": {
+"message": "फेंग पैसे की बचत मास्टर"
+},
+"advise": {
+"message": "ब्लॉग"
+},
+"aimg_tooltip": {
+"message": "अचयनित या जाँच करने के लिए छवि पर क्लिक करें"
+},
+"all_tab": {
+"message": "सभी टैब"
+},
+"apply": {
+"message": "लागू करें"
+},
+"chrome_download_settings_url": {
+"message": "जहां डाउनलोड करने से पहले प्रत्येक फ़ाइल को बचाने के लिए पूछो"
+},
+"default_title": {
+"message": "Fatkun बैच डाउनलोड छवि"
+},
+"default_title_desc": {
+"message": "Shortkey: Alt + Z"
+},
+"description": {
+"message": "एक उपयोगी और सरल छवि डाउनलोड extension.You संकल्प या लिंक द्वारा फ़िल्टर कर सकते हैं।"
+},
+"do_not_show_again": {
+"message": "मुझे पता है यह, नहीं इस संवाद में किसी भी अधिक दिखा।"
+},
+"donate": {
+"message": "दान करना"
+},
+"export_btn": {
+"message": "निर्यात"
+},
+"export_close": {
+"message": "बंद करे"
+},
+"export_format": {
+"message": "प्रारूप"
+},
+"export_format_tips": {
+"message": "आप इन चर का उपयोग कर सकते हैं: {} कोई मतलब है अनुक्रम numberï¼\u003e {लिंक} छवि लिंक का मतलब"
+},
+"export_link": {
+"message": "लिंक निर्यात"
+},
+"filter_link": {
+"message": "फ़िल्टर लिंक द्वारा"
+},
+"five_stars": {
+"message": "5 स्टार दर"
+},
+"height": {
+"message": "ऊंचाई"
+},
+"height_short": {
+"message": "न्यूनतम ऊंचाई"
+},
+"inverse": {
+"message": "टॉगल"
+},
+"min_display": {
+"message": "मैक्स साइड"
+},
+"more_options": {
+"message": "अधिक विकल्प"
+},
+"not_rename": {
+"message": "नाम नहीं"
+},
+"open_multiple_page": {
+"message": "ओपन बहु पेज?"
+},
+"open_multiple_page_action": {
+"message": "ओपन पेज"
+},
+"open_multiple_page_tips": {
+"message": "बहु-पंक्तियों यूआरएल और वाइल्डकार्ड वर्ण की अनुमति दें। "
+},
+"popup_tips": {
+"message": "कम महत्वपूर्ण: Alt + Z"
+},
+"process_end": {
+"message": "इमेजिस"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "छवि होने संकल्प"
+},
+"rename_by_this_format": {
+"message": "नाम बदलें पर आधारित"
+},
+"rename_tips": {
+"message": "आप इन चर का उपयोग कर सकते हैं: {} कोई मतलब है अनुक्रम numberï¼\u003e {} EXT बढ़ाया नाम का अर्थ"
+},
+"right_click_to_open": {
+"message": "(खुला और सेटिंग्स की जाँच करने के लिए राइट क्लिक करें)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "बचाना"
+},
+"save_image": {
+"message": "चित्र को सेव करें"
+},
+"save_tips": {
+"message": "क्रोम Downlods Setting.Otherwise में विकल्प \"जहां डाउनलोड करने से पहले प्रत्येक फ़ाइल को बचाने के लिए पूछो\""
+},
+"save_tips_cancel": {
+"message": "रद्द करना"
+},
+"save_tips_do_not_check": {
+"message": "चयन न करें"
+},
+"save_tips_done": {
+"message": "चित्र को सेव करें"
+},
+"save_tips_open_setting": {
+"message": "ओपन सेटिंग्स पृष्ठ"
+},
+"settings": {
+"message": "सेटिंग्स"
+},
+"settings_add_rules": {
+"message": "नियमों को जोड़ने"
+},
+"settings_already_save": {
+"message": "बचाया सेटिंग।"
+},
+"settings_collect_one_page": {
+"message": "पेज पर करने के लिए ले लीजिए"
+},
+"settings_download": {
+"message": "क्रोम डाउनलोड सेटिंग"
+},
+"settings_import_rules": {
+"message": "आयात नियमों"
+},
+"settings_min_display": {
+"message": "डिफ़ॉल्ट मिनट संकल्प"
+},
+"settings_rule_delete": {
+"message": "मिटाना"
+},
+"settings_rule_example": {
+"message": "उदाहरण के नियम"
+},
+"settings_rule_example_title2": {
+"message": "नियम समर्थन नियमित अभिव्यक्ति"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "नियम छवि के URL पैटर्न"
+},
+"settings_rule_last_update_time": {
+"message": "आखिरी अपडेट:"
+},
+"settings_rule_last_update_time_none": {
+"message": "कोई नहीं"
+},
+"settings_rule_name": {
+"message": "नियम का नाम"
+},
+"settings_rule_test": {
+"message": "परीक्षण"
+},
+"settings_rule_url_replace_code": {
+"message": "छवि यूआरएल कोड की जगह"
+},
+"settings_rules_empty": {
+"message": "खाली"
+},
+"settings_save_folder": {
+"message": "फ़ोल्डर नाम बचाने के लिए (Ctrl + S के लिए)"
+},
+"settings_save_use_fixed_name": {
+"message": "निश्चित नाम का उपयोग"
+},
+"settings_save_use_title": {
+"message": "उपयोग वेबसाइट के शीर्षक"
+},
+"settings_show_website": {
+"message": "शो लिंक"
+},
+"settings_simple": {
+"message": "सामान्य सेटिंग्स"
+},
+"settings_special_support": {
+"message": "विशेष समर्थन"
+},
+"settings_special_support_desc": {
+"message": "सामान्य नियम"
+},
+"settings_update": {
+"message": "अभी अद्यतन करें"
+},
+"settings_use_shortcut_key": {
+"message": "कम महत्वपूर्ण का उपयोग करें: Alt + Z"
+},
+"settings_user_rule_desc": {
+"message": "कस्टम नियमों"
+},
+"sort": {
+"message": "तरह"
+},
+"sort_big_first": {
+"message": "बिग छवि पहले"
+},
+"sort_normal": {
+"message": "साइट के द्वारा क्रमबद्ध करें"
+},
+"sort_small_first": {
+"message": "छोटी सी छवि पहले"
+},
+"switch_view": {
+"message": "स्विच देखें"
+},
+"update_declaration": {
+"message": "इस विस्तार ° à¹ a\u003e ¾å® ¢ \u003c/a\u003e zzllrr का \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e ए के कुछ कोड संदर्भित"
+},
+"update_description": {
+"message": "1 अंग्रेजी अनुवाद \u003cbr /\u003e 2 क्रोम को डाउनलोड करने सेटिंग्स अद्यतन टूलटिप्स"
+},
+"update_title": {
+"message": "Fatkun बैच डाउनलोड छवि संस्करण 1.8.3"
+},
+"width": {
+"message": "चौड़ाई"
+},
+"width_short": {
+"message": "न्यूनतम चौड़ाई"
+}
+}

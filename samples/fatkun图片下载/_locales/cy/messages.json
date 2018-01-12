@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "Mae'r Tab"
+},
+"ad1_extension_desc": {
+"message": "pris is yn awtomatig darganfyddwr, darganfyddwr Disgownt, hidlo Pris ar gyfer Siopa."
+},
+"ad1_extension_name": {
+"message": "Feng Arbed Arian Master"
+},
+"advise": {
+"message": "blog"
+},
+"aimg_tooltip": {
+"message": "Cliciwch ar y llun i uncheck neu siec"
+},
+"all_tab": {
+"message": "pob Tabiau"
+},
+"apply": {
+"message": "Gwneud cais"
+},
+"chrome_download_settings_url": {
+"message": "Gofynnwch ble i arbed pob ffeil cyn lawrlwytho"
+},
+"default_title": {
+"message": "Swp Fatkun Download Image"
+},
+"default_title_desc": {
+"message": "ShortKey: Alt + Z"
+},
+"description": {
+"message": "Delwedd download defnyddiol a syml y gall extension.You hidlo drwy benderfyniad neu i gysylltu."
+},
+"do_not_show_again": {
+"message": "Dwi'n gwybod ei fod, nid yn dangos yr ymgom yma mwyach."
+},
+"donate": {
+"message": "Cyfrannwch"
+},
+"export_btn": {
+"message": "allforio"
+},
+"export_close": {
+"message": "Close"
+},
+"export_format": {
+"message": "fformat"
+},
+"export_format_tips": {
+"message": "Gallwch ddefnyddio'r newidynnau hyn: {NO} yn golygu dilyniant numberï¼\u003e {LINK} golygu cyswllt ddelwedd"
+},
+"export_link": {
+"message": "allforio cyswllt"
+},
+"filter_link": {
+"message": "Hidlo drwy gyswllt"
+},
+"five_stars": {
+"message": "Cyfradd 5 seren"
+},
+"height": {
+"message": "uchder"
+},
+"height_short": {
+"message": "min Uchder"
+},
+"inverse": {
+"message": "Toggle"
+},
+"min_display": {
+"message": "Max Ochr"
+},
+"more_options": {
+"message": "Mwy o Opsiynau"
+},
+"not_rename": {
+"message": "Nid yw ail-enwi"
+},
+"open_multiple_page": {
+"message": "Open dudalen aml?"
+},
+"open_multiple_page_action": {
+"message": "tudalen agored"
+},
+"open_multiple_page_tips": {
+"message": "Caniatáu aml-rhesi urls a chymeriad nod-chwiliwr. "
+},
+"popup_tips": {
+"message": "Allwedd byr: Alt + Z"
+},
+"process_end": {
+"message": "delweddau"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "image cael cydraniad"
+},
+"rename_by_this_format": {
+"message": "Ail-enwi yn seiliedig ar"
+},
+"rename_tips": {
+"message": "Gallwch ddefnyddio'r newidynnau hyn: {NO} yn golygu dilyniant numberï¼\u003e {EXT} golygu enw estynedig"
+},
+"right_click_to_open": {
+"message": "(De-glicio i agor a gwirio gosodiadau)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Save"
+},
+"save_image": {
+"message": "Arbed llun"
+},
+"save_tips": {
+"message": "\"Gofynnwch ble i arbed pob ffeil cyn lawrlwytho\" opsiwn yn Chrome Downlods Setting.Otherwise, mae llawer llawer deialogau cadarnhad yn heidio."
+},
+"save_tips_cancel": {
+"message": "Diddymu"
+},
+"save_tips_do_not_check": {
+"message": "PEIDIWCH SELECT"
+},
+"save_tips_done": {
+"message": "Arbed llun"
+},
+"save_tips_open_setting": {
+"message": "Gosodiadau Agored Tudalen"
+},
+"settings": {
+"message": "gosodiadau"
+},
+"settings_add_rules": {
+"message": "Ychwanegu rheolau"
+},
+"settings_already_save": {
+"message": "Gosod harbed."
+},
+"settings_collect_one_page": {
+"message": "Casglu i ar dudalen"
+},
+"settings_download": {
+"message": "Gosod Chrome Downloads"
+},
+"settings_import_rules": {
+"message": "rheolau mewnforio"
+},
+"settings_min_display": {
+"message": "datrys min ddiofyn"
+},
+"settings_rule_delete": {
+"message": "Dileu"
+},
+"settings_rule_example": {
+"message": "rheol enghraifft"
+},
+"settings_rule_example_title2": {
+"message": "cefnogaeth rheol Mynegiant Rheolaidd"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "Rheol patrwm image url"
+},
+"settings_rule_last_update_time": {
+"message": "Diweddariad diwethaf:"
+},
+"settings_rule_last_update_time_none": {
+"message": "Dim"
+},
+"settings_rule_name": {
+"message": "rheol Enw"
+},
+"settings_rule_test": {
+"message": "prawf"
+},
+"settings_rule_url_replace_code": {
+"message": "url Image cymryd lle cod"
+},
+"settings_rules_empty": {
+"message": "gwag"
+},
+"settings_save_folder": {
+"message": "arbed enw'r ffolder (ar gyfer Ctrl + S)"
+},
+"settings_save_use_fixed_name": {
+"message": "ddefnyddio enw sefydlog"
+},
+"settings_save_use_title": {
+"message": "Teitl defnydd y wefan"
+},
+"settings_show_website": {
+"message": "Dangos cyswllt"
+},
+"settings_simple": {
+"message": "Gosodiadau normal"
+},
+"settings_special_support": {
+"message": "cymorth arbennig"
+},
+"settings_special_support_desc": {
+"message": "Rheol cyffredin"
+},
+"settings_update": {
+"message": "Diweddariad nawr"
+},
+"settings_use_shortcut_key": {
+"message": "Defnyddiwch Allwedd byr: Alt + Z"
+},
+"settings_user_rule_desc": {
+"message": "rheolau Custom"
+},
+"sort": {
+"message": "Trefnu"
+},
+"sort_big_first": {
+"message": "image mawr cyntaf"
+},
+"sort_normal": {
+"message": "Trefnu yn ôl safle"
+},
+"sort_small_first": {
+"message": "Delwedd fach yn gyntaf"
+},
+"switch_view": {
+"message": "Switch View"
+},
+"update_declaration": {
+"message": "Mae'r estyniad hwn cyfeirir rhywfaint cod å href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e \u003ca zzllrr yn ° ä¹ å\u003e ¾å® ¢ \u003c/a\u003e"
+},
+"update_description": {
+"message": "1 cyfieithiad Saesneg \u003cbr /\u003e 2 Chrome lleoliadau lawrlwytho cynghorion offer diweddaru"
+},
+"update_title": {
+"message": "Fatkun Swp Download fersiwn Image 1.8.3"
+},
+"width": {
+"message": "lled"
+},
+"width_short": {
+"message": "min Lled"
+}
+}

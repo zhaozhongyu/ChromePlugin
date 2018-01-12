@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "dette Tab"
+},
+"ad1_extension_desc": {
+"message": "Lavere pris automatisk finder, Rabatt finder, Prisen filter for Shopping."
+},
+"ad1_extension_name": {
+"message": "Feng Money Saving Master"
+},
+"advise": {
+"message": "blog"
+},
+"aimg_tooltip": {
+"message": "Klikk på bildet for å fjerne merkingen eller sjekk"
+},
+"all_tab": {
+"message": "alle Tabs"
+},
+"apply": {
+"message": "Søke om"
+},
+"chrome_download_settings_url": {
+"message": "Spør hvor hver fil skal lagres før nedlasting"
+},
+"default_title": {
+"message": "Fatkun Batch Last ned bilde"
+},
+"default_title_desc": {
+"message": "Shortkey: Alt + Z"
+},
+"description": {
+"message": "En nyttig og enkel bilde nedlasting extension.You kan filtrere ved resolusjon eller lenke."
+},
+"do_not_show_again": {
+"message": "Jeg vet det, ikke vis denne dialogen lenger."
+},
+"donate": {
+"message": "Donere"
+},
+"export_btn": {
+"message": "Eksport"
+},
+"export_close": {
+"message": "Lukke"
+},
+"export_format": {
+"message": "format"
+},
+"export_format_tips": {
+"message": "Du kan bruke disse variablene: {NO} betyr sekvens numberï¼\u003e {LINK} betyr bildelink"
+},
+"export_link": {
+"message": "Export lenke"
+},
+"filter_link": {
+"message": "Filtrer etter lenke"
+},
+"five_stars": {
+"message": "5 stjerner sats"
+},
+"height": {
+"message": "Høyde"
+},
+"height_short": {
+"message": "min Høyde"
+},
+"inverse": {
+"message": "Veksle"
+},
+"min_display": {
+"message": "Max Side"
+},
+"more_options": {
+"message": "Flere valg"
+},
+"not_rename": {
+"message": "ikke endre navn"
+},
+"open_multiple_page": {
+"message": "Åpne multi side?"
+},
+"open_multiple_page_action": {
+"message": "Åpne siden"
+},
+"open_multiple_page_tips": {
+"message": "Tillat multi-rader webadresser og jokertegn. "
+},
+"popup_tips": {
+"message": "Kort Nøkkel: Alt + Z"
+},
+"process_end": {
+"message": "bilder"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "Bildet får oppløsning"
+},
+"rename_by_this_format": {
+"message": "Gi nytt navn basert på"
+},
+"rename_tips": {
+"message": "Du kan bruke disse variablene: {NO} betyr sekvens numberï¼\u003e {EXT} betyr lengre navn"
+},
+"right_click_to_open": {
+"message": "(Høyreklikk for å åpne og kontrollere innstillinger)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Lagre"
+},
+"save_image": {
+"message": "Lagre bildet"
+},
+"save_tips": {
+"message": "\"Spør hvor du vil lagre hver fil før nedlasting\" i Chrome Downlods Setting.Otherwise, flokk mange mange bekreftelsesdialogbokser."
+},
+"save_tips_cancel": {
+"message": "Kansellere"
+},
+"save_tips_do_not_check": {
+"message": "Ikke velg"
+},
+"save_tips_done": {
+"message": "Lagre bildet"
+},
+"save_tips_open_setting": {
+"message": "Åpne Innstillinger Page"
+},
+"settings": {
+"message": "innstillinger"
+},
+"settings_add_rules": {
+"message": "Legg regler"
+},
+"settings_already_save": {
+"message": "Innstillingen er lagret."
+},
+"settings_collect_one_page": {
+"message": "Samle til på side"
+},
+"settings_download": {
+"message": "Chrome nedlastinger Setting"
+},
+"settings_import_rules": {
+"message": "Importer regler"
+},
+"settings_min_display": {
+"message": "Standard min oppløsning"
+},
+"settings_rule_delete": {
+"message": "Slett"
+},
+"settings_rule_example": {
+"message": "Regel eksempel"
+},
+"settings_rule_example_title2": {
+"message": "Regel støtte Regular Expression"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "Regel image url mønster"
+},
+"settings_rule_last_update_time": {
+"message": "Siste oppdatering:"
+},
+"settings_rule_last_update_time_none": {
+"message": "Ingen"
+},
+"settings_rule_name": {
+"message": "regel navn"
+},
+"settings_rule_test": {
+"message": "Test"
+},
+"settings_rule_url_replace_code": {
+"message": "Bilde url erstatte kode"
+},
+"settings_rules_empty": {
+"message": "Tom"
+},
+"settings_save_folder": {
+"message": "lagre mappenavn (for Ctrl + S)"
+},
+"settings_save_use_fixed_name": {
+"message": "bruke fast navn"
+},
+"settings_save_use_title": {
+"message": "bruke nettstedet tittel"
+},
+"settings_show_website": {
+"message": "Vis lenke"
+},
+"settings_simple": {
+"message": "normal Settings"
+},
+"settings_special_support": {
+"message": "spesiell støtte"
+},
+"settings_special_support_desc": {
+"message": "felles Rule"
+},
+"settings_update": {
+"message": "Oppdater nå"
+},
+"settings_use_shortcut_key": {
+"message": "Bruk Short Key: Alt + Z"
+},
+"settings_user_rule_desc": {
+"message": "Egendefinerte definerte~~POS=HEADCOMP regler"
+},
+"sort": {
+"message": "Sortere"
+},
+"sort_big_first": {
+"message": "Big bilde først"
+},
+"sort_normal": {
+"message": "Sorter etter område"
+},
+"sort_small_first": {
+"message": "Lite bilde først"
+},
+"switch_view": {
+"message": "Bytt Vis"
+},
+"update_declaration": {
+"message": "Denne utvidelsen refereres noen kode zzllrr \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e Â ° ä¹ Å\u003e ¾å® ¢ \u003c/a\u003e"
+},
+"update_description": {
+"message": "1 engelsk oversettelse \u003cbr /\u003e 2 Chrome laster ned innstillinger verktøytips oppdatert"
+},
+"update_title": {
+"message": "Fatkun Batch Last ned fil versjon 1.8.3"
+},
+"width": {
+"message": "Bredde"
+},
+"width_short": {
+"message": "min Bredde"
+}
+}

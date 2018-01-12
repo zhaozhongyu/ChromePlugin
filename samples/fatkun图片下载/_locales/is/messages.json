@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "Þessi flipi"
+},
+"ad1_extension_desc": {
+"message": "Lægra verð sjálfkrafa finnandi, Discount finnandi, Verð sía til að versla."
+},
+"ad1_extension_name": {
+"message": "Feng Money Saving Master"
+},
+"advise": {
+"message": "blogg"
+},
+"aimg_tooltip": {
+"message": "Smelltu á myndina til að taka hakið eða stöðva"
+},
+"all_tab": {
+"message": "Allir flipa"
+},
+"apply": {
+"message": "gilda"
+},
+"chrome_download_settings_url": {
+"message": "Spyrja hvar á að vista hverja skrá áður en þú hleður"
+},
+"default_title": {
+"message": "Fatkun Hópur Sækja Image"
+},
+"default_title_desc": {
+"message": "ShortKey: Alt + Z"
+},
+"description": {
+"message": "Gagnlegur og einföld mynd niður extension.You getur síað eftir upplausn eða tengil."
+},
+"do_not_show_again": {
+"message": "Ég veit það, ekki sýna þessum glugga lengur."
+},
+"donate": {
+"message": "Styrkja"
+},
+"export_btn": {
+"message": "útflutningur"
+},
+"export_close": {
+"message": "Loka"
+},
+"export_format": {
+"message": "snið"
+},
+"export_format_tips": {
+"message": "Þú getur notað þessar breytur: {NO} merkir runa numberï¼\u003e {link} merkir mynd tengil"
+},
+"export_link": {
+"message": "Export tengilinn"
+},
+"filter_link": {
+"message": "Sía með tengli"
+},
+"five_stars": {
+"message": "5 stjörnur hlutfall"
+},
+"height": {
+"message": "hæð"
+},
+"height_short": {
+"message": "Min Hæð"
+},
+"inverse": {
+"message": "toggle"
+},
+"min_display": {
+"message": "max Side"
+},
+"more_options": {
+"message": "Fleiri valkostir"
+},
+"not_rename": {
+"message": "ekki endurnefnt"
+},
+"open_multiple_page": {
+"message": "Open multi síðu?"
+},
+"open_multiple_page_action": {
+"message": "Opna síðu"
+},
+"open_multiple_page_tips": {
+"message": "Leyfa multi-raðir slóðir og algildisstaf. "
+},
+"popup_tips": {
+"message": "Short Key: Alt + Z"
+},
+"process_end": {
+"message": "myndir"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "Mynd fá einbeitni"
+},
+"rename_by_this_format": {
+"message": "Endurnefna byggt á"
+},
+"rename_tips": {
+"message": "Þú getur notað þessar breytur: {NO} merkir sequence numberï¼\u003e {EXT} merkir langan nafn"
+},
+"right_click_to_open": {
+"message": "(Hægri-smelltu til að opna og athuga stillingar)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Vista"
+},
+"save_image": {
+"message": "Vista mynd"
+},
+"save_tips": {
+"message": "\"Spyrja hvar á að vista hverja skrá áður en þú hleður\" valkostur í Chrome Downlods Setting.Otherwise, margir margir staðfesting valmynd flykkjast."
+},
+"save_tips_cancel": {
+"message": "Hætta"
+},
+"save_tips_do_not_check": {
+"message": "Ekki velja"
+},
+"save_tips_done": {
+"message": "Vista mynd"
+},
+"save_tips_open_setting": {
+"message": "Open Stillingar Page"
+},
+"settings": {
+"message": "Stillingar"
+},
+"settings_add_rules": {
+"message": "Bæta reglur"
+},
+"settings_already_save": {
+"message": "Stilling vistuð."
+},
+"settings_collect_one_page": {
+"message": "Safna til á bls"
+},
+"settings_download": {
+"message": "Chrome Downloads Setting"
+},
+"settings_import_rules": {
+"message": "Flytja reglur"
+},
+"settings_min_display": {
+"message": "Sjálfgefið mín upplausn"
+},
+"settings_rule_delete": {
+"message": "eyða"
+},
+"settings_rule_example": {
+"message": "regla dæmi"
+},
+"settings_rule_example_title2": {
+"message": "Regla stuðningur Regluleg segð"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "Regla mynd vefslóðarmynstur"
+},
+"settings_rule_last_update_time": {
+"message": "Síðasta uppfærsla:"
+},
+"settings_rule_last_update_time_none": {
+"message": "ekkert"
+},
+"settings_rule_name": {
+"message": "regla Name"
+},
+"settings_rule_test": {
+"message": "próf"
+},
+"settings_rule_url_replace_code": {
+"message": "Mynd url skipta kóða"
+},
+"settings_rules_empty": {
+"message": "tómur"
+},
+"settings_save_folder": {
+"message": "vista möppunafn (fyrir Ctrl + S)"
+},
+"settings_save_use_fixed_name": {
+"message": "nota fasta nafn"
+},
+"settings_save_use_title": {
+"message": "Notkun website titill"
+},
+"settings_show_website": {
+"message": "Sýna tengilinn"
+},
+"settings_simple": {
+"message": "Venjuleg Stillingar"
+},
+"settings_special_support": {
+"message": "sérstakur stuðningur"
+},
+"settings_special_support_desc": {
+"message": "Common Regla"
+},
+"settings_update": {
+"message": "Uppfæra núna"
+},
+"settings_use_shortcut_key": {
+"message": "Nota Short Key: Alt + Z"
+},
+"settings_user_rule_desc": {
+"message": "sérsniðnar reglur"
+},
+"sort": {
+"message": "Raða"
+},
+"sort_big_first": {
+"message": "Big mynd fyrst"
+},
+"sort_normal": {
+"message": "Raða eftir staðnum"
+},
+"sort_small_first": {
+"message": "Lítil mynd fyrst"
+},
+"switch_view": {
+"message": "Switch Skoða"
+},
+"update_declaration": {
+"message": "Þessi ending heitinu nokkur kóða \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e å zzllrr er ° ä¹ å\u003e ¾å® ¢ \u003c/a\u003e"
+},
+"update_description": {
+"message": "1 enska þýðing \u003cbr /\u003e 2 króm Stillingar niðurhals vísbendingar uppfærðar"
+},
+"update_title": {
+"message": "Fatkun Hópur Sækja Image útgáfa 1.8.3"
+},
+"width": {
+"message": "breidd"
+},
+"width_short": {
+"message": "Min Breidd"
+}
+}

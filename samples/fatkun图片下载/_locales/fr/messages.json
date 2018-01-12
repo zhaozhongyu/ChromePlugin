@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "Cet onglet"
+},
+"ad1_extension_desc": {
+"message": "Prix ​​inférieur automatiquement finder, Discount finder, Filtre de prix pour Shopping."
+},
+"ad1_extension_name": {
+"message": "Feng Money Saving Master"
+},
+"advise": {
+"message": "Blog"
+},
+"aimg_tooltip": {
+"message": "Cliquez sur Image pour décocher ou cocher"
+},
+"all_tab": {
+"message": "Tous les onglets"
+},
+"apply": {
+"message": "Appliquer"
+},
+"chrome_download_settings_url": {
+"message": "Demandez où enregistrer chaque fichier avant de le télécharger"
+},
+"default_title": {
+"message": "Fatkun Batch Télécharger l'image"
+},
+"default_title_desc": {
+"message": "ShortKey: Alt + Z"
+},
+"description": {
+"message": "Une extension de téléchargement d'image utile et simple.Vous pouvez filtrer par résolution ou par lien."
+},
+"do_not_show_again": {
+"message": "Je le sais, ne montre plus cette boîte de dialogue."
+},
+"donate": {
+"message": "Faire un don"
+},
+"export_btn": {
+"message": "Exportation"
+},
+"export_close": {
+"message": "Fermer"
+},
+"export_format": {
+"message": "format"
+},
+"export_format_tips": {
+"message": "Vous pouvez utiliser ces variables: {NO} signifie numéro de séquenceï¼\u003e {LINK} signifie image link"
+},
+"export_link": {
+"message": "Exporter le lien"
+},
+"filter_link": {
+"message": "Filtrer par lien"
+},
+"five_stars": {
+"message": "5 étoiles"
+},
+"height": {
+"message": "la taille"
+},
+"height_short": {
+"message": "Hauteur minimale"
+},
+"inverse": {
+"message": "Basculer"
+},
+"min_display": {
+"message": "Max Side"
+},
+"more_options": {
+"message": "Plus d'options"
+},
+"not_rename": {
+"message": "Ne pas renommer"
+},
+"open_multiple_page": {
+"message": "Ouvrir plusieurs pages?"
+},
+"open_multiple_page_action": {
+"message": "Ouvrir la page"
+},
+"open_multiple_page_tips": {
+"message": "Autoriser les urls multi-lignes et le caractère générique. "
+},
+"popup_tips": {
+"message": "Touche courte: Alt + Z"
+},
+"process_end": {
+"message": "images"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "Image obtenir la résolution"
+},
+"rename_by_this_format": {
+"message": "Renommer basé sur"
+},
+"rename_tips": {
+"message": "Vous pouvez utiliser ces variables: {NO} signifie numéro de séquenceï¼\u003e {EXT} signifie nom étendu"
+},
+"right_click_to_open": {
+"message": "(Cliquez avec le bouton droit de la souris pour ouvrir et vérifier les paramètres)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "sauvegarder"
+},
+"save_image": {
+"message": "Enregistrer l'image"
+},
+"save_tips": {
+"message": "\"Demandez où enregistrer chaque fichier avant de télécharger\" option dans Chrome Downlods Setting.Otherwise, beaucoup de nombreuses boîtes de dialogue de confirmation flock."
+},
+"save_tips_cancel": {
+"message": "Annuler"
+},
+"save_tips_do_not_check": {
+"message": "NE PAS CHOISIR"
+},
+"save_tips_done": {
+"message": "Enregistrer l'image"
+},
+"save_tips_open_setting": {
+"message": "Ouvrir la page Paramètres"
+},
+"settings": {
+"message": "Paramètres"
+},
+"settings_add_rules": {
+"message": "Ajouter des règles"
+},
+"settings_already_save": {
+"message": "Réglage sauvegardé."
+},
+"settings_collect_one_page": {
+"message": "Recueillir sur la page"
+},
+"settings_download": {
+"message": "Configuration des téléchargements Chrome"
+},
+"settings_import_rules": {
+"message": "Règles d'importation"
+},
+"settings_min_display": {
+"message": "Par défaut min resolution"
+},
+"settings_rule_delete": {
+"message": "Effacer"
+},
+"settings_rule_example": {
+"message": "Exemple de règle"
+},
+"settings_rule_example_title2": {
+"message": "Soutien aux règles Expression régulière"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "Modèle d'url d'image de règle"
+},
+"settings_rule_last_update_time": {
+"message": "Dernière mise à jour:"
+},
+"settings_rule_last_update_time_none": {
+"message": "Aucun"
+},
+"settings_rule_name": {
+"message": "Nom de la règle"
+},
+"settings_rule_test": {
+"message": "Tester"
+},
+"settings_rule_url_replace_code": {
+"message": "Image url remplacer le code"
+},
+"settings_rules_empty": {
+"message": "Vide"
+},
+"settings_save_folder": {
+"message": "Enregistrer le nom du dossier (pour Ctrl + S)"
+},
+"settings_save_use_fixed_name": {
+"message": "Utiliser un nom fixe"
+},
+"settings_save_use_title": {
+"message": "Utiliser le titre du site"
+},
+"settings_show_website": {
+"message": "Afficher le lien"
+},
+"settings_simple": {
+"message": "Paramètres normaux"
+},
+"settings_special_support": {
+"message": "Soutien spécial"
+},
+"settings_special_support_desc": {
+"message": "Règle commune"
+},
+"settings_update": {
+"message": "Mettre à jour maintenant"
+},
+"settings_use_shortcut_key": {
+"message": "Utiliser la touche courte: Alt + Z"
+},
+"settings_user_rule_desc": {
+"message": "Règles personnalisées"
+},
+"sort": {
+"message": "Trier"
+},
+"sort_big_first": {
+"message": "Grande image d'abord"
+},
+"sort_normal": {
+"message": "Trier par site"
+},
+"sort_small_first": {
+"message": "Petite image en premier"
+},
+"switch_view": {
+"message": "Afficher le commutateur"
+},
+"update_declaration": {
+"message": "Cette extension faisait référence à un certain code de \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e å ° ä¹ å\u003e ¾å® ¢ \u003c/a\u003e de zzllrr"
+},
+"update_description": {
+"message": "1 traduction en anglais \u003cbr /\u003e 2 outils de mise à jour des paramètres de téléchargement de Chrome mis à jour"
+},
+"update_title": {
+"message": "Fatkun Batch Télécharger l'image version 1.8.3"
+},
+"width": {
+"message": "Largeur"
+},
+"width_short": {
+"message": "Largeur minimale"
+}
+}

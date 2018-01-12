@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "Bu Tab"
+},
+"ad1_extension_desc": {
+"message": "Lower qiymət avtomatik finder, Endirimli finder, Alış-veriş qiyməti filter."
+},
+"ad1_extension_name": {
+"message": "Feng Money Saving Master"
+},
+"advise": {
+"message": "blog"
+},
+"aimg_tooltip": {
+"message": "işaretini sil və ya yoxlamaq üçün Image basın"
+},
+"all_tab": {
+"message": "Bütün Tabs"
+},
+"apply": {
+"message": "tətbiq etmək"
+},
+"chrome_download_settings_url": {
+"message": "Yükləməzdən əvvəl hər bir fayl saxlamaq üçün harada Ask"
+},
+"default_title": {
+"message": "Fatkun Batch Download Image"
+},
+"default_title_desc": {
+"message": "ShortKey: Alt + Z"
+},
+"description": {
+"message": "Bir faydalı və sadə image download extension.You qətnamə və ya link filtreleyebilirsiniz."
+},
+"do_not_show_again": {
+"message": "Hesab edirəm ki, bir daha bu dialoq göstərmək deyil bilirik."
+},
+"donate": {
+"message": "ianə vermək"
+},
+"export_btn": {
+"message": "ixrac"
+},
+"export_close": {
+"message": "Yaxın"
+},
+"export_format": {
+"message": "format"
+},
+"export_format_tips": {
+"message": "Bu dəyişənlərin istifadə edə bilərsiniz: {NO} sequence numberï¼\u003e {LINK} image link deməkdir"
+},
+"export_link": {
+"message": "Export link"
+},
+"filter_link": {
+"message": "link Filter"
+},
+"five_stars": {
+"message": "5 stars dərəcəsi"
+},
+"height": {
+"message": "Hündürlük"
+},
+"height_short": {
+"message": "Min Boy"
+},
+"inverse": {
+"message": "Toggle"
+},
+"min_display": {
+"message": "Max Side"
+},
+"more_options": {
+"message": "Daha çox seçimlər"
+},
+"not_rename": {
+"message": "adını dəyişmək deyil"
+},
+"open_multiple_page": {
+"message": "Open multi səhifə?"
+},
+"open_multiple_page_action": {
+"message": "Open səhifə"
+},
+"open_multiple_page_tips": {
+"message": "multi-satır url və wildcard xarakter verir. "
+},
+"popup_tips": {
+"message": "Qisa Key: Alt + Z"
+},
+"process_end": {
+"message": "images"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "image əldə qətnamə"
+},
+"rename_by_this_format": {
+"message": "Rename əsasında"
+},
+"rename_tips": {
+"message": "Bu dəyişənlərin istifadə edə bilərsiniz: {NO} sequence numberï¼\u003e {EXT} deməkdir uzun adını deməkdir"
+},
+"right_click_to_open": {
+"message": "(Açıq və parametrlərini yoxlamaq üçün sağ basın)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Yadda saxla"
+},
+"save_image": {
+"message": "Save Image"
+},
+"save_tips": {
+"message": "Chrome Downlods Setting.Otherwise seçimi \"yükləməzdən əvvəl hər fayl saxlamaq üçün harada soruş\""
+},
+"save_tips_cancel": {
+"message": "ləğv etmək"
+},
+"save_tips_do_not_check": {
+"message": "SELECT etməyin"
+},
+"save_tips_done": {
+"message": "Save Image"
+},
+"save_tips_open_setting": {
+"message": "Open Settings Page"
+},
+"settings": {
+"message": "Settings"
+},
+"settings_add_rules": {
+"message": "qaydaları əlavə et"
+},
+"settings_already_save": {
+"message": "xilas ayarı."
+},
+"settings_collect_one_page": {
+"message": "səhifə toplamaq"
+},
+"settings_download": {
+"message": "Chrome Downloads Setting"
+},
+"settings_import_rules": {
+"message": "Import qaydaları"
+},
+"settings_min_display": {
+"message": "Default min qətnamə"
+},
+"settings_rule_delete": {
+"message": "sil"
+},
+"settings_rule_example": {
+"message": "nümunə Rule"
+},
+"settings_rule_example_title2": {
+"message": "Rule dəstək Normal İfade"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "Qayda image url model"
+},
+"settings_rule_last_update_time": {
+"message": "Son yeniləmə:"
+},
+"settings_rule_last_update_time_none": {
+"message": "heç kim"
+},
+"settings_rule_name": {
+"message": "Rule Adı"
+},
+"settings_rule_test": {
+"message": "sınaq"
+},
+"settings_rule_url_replace_code": {
+"message": "Image url kodu əvəz"
+},
+"settings_rules_empty": {
+"message": "boş"
+},
+"settings_save_folder": {
+"message": "qovluq adı saxlamaq (Ctrl + S)"
+},
+"settings_save_use_fixed_name": {
+"message": "sabit adını istifadə"
+},
+"settings_save_use_title": {
+"message": "istifadə website title"
+},
+"settings_show_website": {
+"message": "Show link"
+},
+"settings_simple": {
+"message": "Normal Settings"
+},
+"settings_special_support": {
+"message": "xüsusi dəstək"
+},
+"settings_special_support_desc": {
+"message": "Common Rule"
+},
+"settings_update": {
+"message": "indi Update"
+},
+"settings_use_shortcut_key": {
+"message": "Qisa düyməsindən istifadə edin: Alt + Z"
+},
+"settings_user_rule_desc": {
+"message": "Custom qaydaları"
+},
+"sort": {
+"message": "cür"
+},
+"sort_big_first": {
+"message": "Big image ilk"
+},
+"sort_normal": {
+"message": "site Sort"
+},
+"sort_small_first": {
+"message": "Kiçik image ilk"
+},
+"switch_view": {
+"message": "View keçid"
+},
+"update_declaration": {
+"message": "Bu məsləhət â¹ A\u003e ¾å® ¢ a ° zzllrr \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e bir bəzi kodu müraciət"
+},
+"update_description": {
+"message": "1 İngilis dili translation \u003cbr /\u003e 2 Chrome yüklənərkən ayarları yenilənir Araç ipuçlarını"
+},
+"update_title": {
+"message": "Fatkun Batch Download Image version 1.8.3"
+},
+"width": {
+"message": "en"
+},
+"width_short": {
+"message": "Min Eni"
+}
+}

@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "דאס קוויטל"
+},
+"ad1_extension_desc": {
+"message": "נידעריקער פּרייַז אויטאָמאַטיש מעסטער, דיסקאָונט מעסטער, פּרייס פילטער פֿאַר שאַפּינג."
+},
+"ad1_extension_name": {
+"message": "Feng געלט שפּאָרן האר"
+},
+"advise": {
+"message": "בלאָג"
+},
+"aimg_tooltip": {
+"message": "דריקט בילד צו ונטשעקק אָדער טשעק"
+},
+"all_tab": {
+"message": "כל טאַבס"
+},
+"apply": {
+"message": "צולייגן"
+},
+"chrome_download_settings_url": {
+"message": "פרעגן ווו צו ראַטעווען יעדער טעקע איידער דאַונלאָודינג"
+},
+"default_title": {
+"message": "פאַטקון באַטש דאַונלאָוד בילד"
+},
+"default_title_desc": {
+"message": "שאָרטקיי: אַלט + ז"
+},
+"description": {
+"message": "אַ נוצלעך און פּשוט בילד אָפּלאָדירן extension.You קענען פילטער דורך האַכלאָטע אָדער לינק."
+},
+"do_not_show_again": {
+"message": "איך וויסן עס, ניט ווייַזן דעם דיאַלאָג קיין מער."
+},
+"donate": {
+"message": "שענקען"
+},
+"export_btn": {
+"message": "אַרויספירן"
+},
+"export_close": {
+"message": "נאָענט"
+},
+"export_format": {
+"message": "פֿאָרמאַט"
+},
+"export_format_tips": {
+"message": "איר קענען נוצן די וועריאַבאַלז: {קיין} מיטל סיקוואַנס נומבערï¼\u003e {לינק} מיטל בילד לינק"
+},
+"export_link": {
+"message": "עקספּאָרט לינק"
+},
+"filter_link": {
+"message": "פֿילטריר דורך לינק"
+},
+"five_stars": {
+"message": "5 שטערן קורס"
+},
+"height": {
+"message": "הייך"
+},
+"height_short": {
+"message": "מין הויך"
+},
+"inverse": {
+"message": "טאָגגלע"
+},
+"min_display": {
+"message": "מאַקס סייד"
+},
+"more_options": {
+"message": "מער אָפּציעס"
+},
+"not_rename": {
+"message": "ניט רענאַמע"
+},
+"open_multiple_page": {
+"message": "עפֿן מאַלטי בלאַט?"
+},
+"open_multiple_page_action": {
+"message": "עפֿן בלאַט"
+},
+"open_multiple_page_tips": {
+"message": "לאָזן מאַלטי-ראָוז URL ס און וויילדקאַרד כאַראַקטער. "
+},
+"popup_tips": {
+"message": "שאָרט שליסל: אַלט + ז"
+},
+"process_end": {
+"message": "בילדער"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "בילד געטינג האַכלאָטע"
+},
+"rename_by_this_format": {
+"message": "רענאַמע באזירט אויף"
+},
+"rename_tips": {
+"message": "איר קענען נוצן די וועריאַבאַלז: {קיין} מיטל סיקוואַנס נומבערï¼\u003e {EXT} מיטל עקסטענדעד נאָמען"
+},
+"right_click_to_open": {
+"message": "(רעכט-גיט צו עפענען און טשעק סעטטינגס)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "ראַטעווען"
+},
+"save_image": {
+"message": "היט בילד"
+},
+"save_tips": {
+"message": "\"בעט ווו צו ראַטעווען יעדער טעקע איידער דאַונלאָודינג\" אָפּציע אין קראָום דאָוונלאָדס סעטטינג.אָטהערוויסע, פילע פילע באַשטעטיקונג דיאַלאָגס שאָף."
+},
+"save_tips_cancel": {
+"message": "באָטל מאַכן"
+},
+"save_tips_do_not_check": {
+"message": "טאָן ניט סעלעקטירן"
+},
+"save_tips_done": {
+"message": "היט בילד"
+},
+"save_tips_open_setting": {
+"message": "עפֿן סעטטינגס בלאַט"
+},
+"settings": {
+"message": "סעטטינגס"
+},
+"settings_add_rules": {
+"message": "לייג צו כּללים"
+},
+"settings_already_save": {
+"message": "באַשטעטיקן געזונט."
+},
+"settings_collect_one_page": {
+"message": "קלייַבן צו אויף בלאַט"
+},
+"settings_download": {
+"message": "קראָום דאַונלאָודז באַשטעטיקן"
+},
+"settings_import_rules": {
+"message": "ימפּאָרט כּללים"
+},
+"settings_min_display": {
+"message": "ניט ויסצאָלן מין האַכלאָטע"
+},
+"settings_rule_delete": {
+"message": "ויסמעקן"
+},
+"settings_rule_example": {
+"message": "הערשן לעמאָשל"
+},
+"settings_rule_example_title2": {
+"message": "הערשן שטיצן רעגולער אויסדרוק"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "הערשן בילד URL מוסטער"
+},
+"settings_rule_last_update_time": {
+"message": "לעצטע דערהייַנטיקן:"
+},
+"settings_rule_last_update_time_none": {
+"message": "גאָרניט"
+},
+"settings_rule_name": {
+"message": "הערשן נאמען"
+},
+"settings_rule_test": {
+"message": "פּרובירן"
+},
+"settings_rule_url_replace_code": {
+"message": "בילד URL פאַרבייַטן קאָד"
+},
+"settings_rules_empty": {
+"message": "ליידיק"
+},
+"settings_save_folder": {
+"message": "ראַטעווען טעקע נאָמען (פֿאַר קטרל + ד)"
+},
+"settings_save_use_fixed_name": {
+"message": "נוצן פאַרפעסטיקט נאָמען"
+},
+"settings_save_use_title": {
+"message": "נוצן וועבזייַטל טיטל"
+},
+"settings_show_website": {
+"message": "ווייַזן לינק"
+},
+"settings_simple": {
+"message": "נאָרמאַל סעטטינגס"
+},
+"settings_special_support": {
+"message": "ספּעציעלע שטיצן"
+},
+"settings_special_support_desc": {
+"message": "פּראָסט הערשן"
+},
+"settings_update": {
+"message": "אַפּדייט איצט"
+},
+"settings_use_shortcut_key": {
+"message": "נוצן שאָרט שליסל: אַלט + ז"
+},
+"settings_user_rule_desc": {
+"message": "מנהג כּללים"
+},
+"sort": {
+"message": "סאָרט"
+},
+"sort_big_first": {
+"message": "גרויס בילד ערשטער"
+},
+"sort_normal": {
+"message": "סאָרט דורך פּלאַץ"
+},
+"sort_small_first": {
+"message": "קליין בילד ערשטער"
+},
+"switch_view": {
+"message": "סוויטש מיינונג"
+},
+"update_declaration": {
+"message": "דאס געשפּרייט רעפערענסעד עטלעכע קאָד פון זזללרר ס \u003ca הרעפ=\"הטטפּ://טשראָמע.גאָאָגלע.קאָמ/וועבסטאָרע/דעטאַיל/גפדזשהימהקדזשמיפּפנאַמיננננדזשפּנלנעעפּלק?הל=זש_קנ\"\u003e צו ° ä¹ אַ\u003e ¾å® ¢ \u003c/a\u003e"
+},
+"update_description": {
+"message": "1 ענגליש איבערזעצונג \u003cbr /\u003e 2 קראָום דאַונלאָודינג סעטטינגס טאָאָלטיפּס ופּדאַטעד"
+},
+"update_title": {
+"message": "פאַטקון באַטש דאַונלאָוד בילד ווערסיע 1.8.3"
+},
+"width": {
+"message": "ברייט"
+},
+"width_short": {
+"message": "מין ברייט"
+}
+}

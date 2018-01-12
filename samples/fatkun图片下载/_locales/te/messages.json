@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "ఈ టాబ్"
+},
+"ad1_extension_desc": {
+"message": "తక్కువ ధర స్వయంచాలకంగా ఫైండర్, డిస్కౌంట్ ఫైండర్, షాపింగ్ కోసం ధర వడపోత."
+},
+"ad1_extension_name": {
+"message": "ఫెంగ్ మనీ సేవ్ మాస్టర్"
+},
+"advise": {
+"message": "బ్లాగ్"
+},
+"aimg_tooltip": {
+"message": "టిక్కును లేదా తనిఖీ చిత్రం క్లిక్"
+},
+"all_tab": {
+"message": "అన్ని టాబ్లను"
+},
+"apply": {
+"message": "వర్తించు"
+},
+"chrome_download_settings_url": {
+"message": "ప్రతి ఫైల్ను డౌన్లోడ్ చేసే ముందు ఎక్కడ సేవ్ చెయ్యాలో అడుగు"
+},
+"default_title": {
+"message": "Fatkun బ్యాచ్ డౌన్లోడ్ చిత్రం"
+},
+"default_title_desc": {
+"message": "ShortKey: Alt + Z"
+},
+"description": {
+"message": "ఒక ఉపయోగకరమైన మరియు సాధారణ చిత్రం డౌన్లోడ్ extension.You రిజల్యూషన్ లేదా లింక్ ద్వారా వడపోత చేయవచ్చు."
+},
+"do_not_show_again": {
+"message": "నేను, ఏ ఈ డైలాగ్ చూపవద్దు తెలుసు."
+},
+"donate": {
+"message": "దానం"
+},
+"export_btn": {
+"message": "ఎగుమతి"
+},
+"export_close": {
+"message": "క్లోజ్"
+},
+"export_format": {
+"message": "ఫార్మాట్"
+},
+"export_format_tips": {
+"message": "మీరు ఈ వేరియబుల్స్ ఉపయోగించవచ్చు: {ఏమీ} అంటే క్రమం numberï¼\u003e {LINK} చిత్రాన్ని లింక్ అర్థం"
+},
+"export_link": {
+"message": "ఎగుమతి లింక్"
+},
+"filter_link": {
+"message": "లింక్ ద్వారా వడపోత"
+},
+"five_stars": {
+"message": "5 నక్షత్రాలు రేటు"
+},
+"height": {
+"message": "ఎత్తు"
+},
+"height_short": {
+"message": "నిమిషం ఎత్తు"
+},
+"inverse": {
+"message": "టోగుల్"
+},
+"min_display": {
+"message": "మాక్స్ సైడ్"
+},
+"more_options": {
+"message": "మరిన్ని ఎంపికలు"
+},
+"not_rename": {
+"message": "పేరుమార్పు"
+},
+"open_multiple_page": {
+"message": "బహుళ పేజీ ఓపెన్?"
+},
+"open_multiple_page_action": {
+"message": "ఓపెన్ పేజీ"
+},
+"open_multiple_page_tips": {
+"message": "బహుళ వరుసలు URL లు మరియు పత్రాంశం అనుమతించు. "
+},
+"popup_tips": {
+"message": "చిన్న కీ: Alt + Z"
+},
+"process_end": {
+"message": "చిత్రాలు"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "చిత్రం పొందడానికి స్పష్టత"
+},
+"rename_by_this_format": {
+"message": "పేరుమార్చు ఆధారంగా"
+},
+"rename_tips": {
+"message": "మీరు ఈ వేరియబుల్స్ ఉపయోగించవచ్చు: {ఏమీ} అంటే క్రమం numberï¼\u003e {EXT} పొడిగించిన పేరు అర్ధం"
+},
+"right_click_to_open": {
+"message": "(తెరవడానికి సెట్టింగ్లను తనిఖీ కుడి క్లిక్)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "సేవ్"
+},
+"save_image": {
+"message": "Image సేవ్"
+},
+"save_tips": {
+"message": "క్రోమ్ Downlods Setting.Otherwise ఎంపికను \"ప్రతి ఫైల్ను డౌన్లోడ్ చేసే ముందు ఎక్కడ సేవ్ చెయ్యాలో అడుగు\""
+},
+"save_tips_cancel": {
+"message": "రద్దు"
+},
+"save_tips_do_not_check": {
+"message": "ఎంచుకోవద్దు"
+},
+"save_tips_done": {
+"message": "Image సేవ్"
+},
+"save_tips_open_setting": {
+"message": "ఓపెన్ సెట్టింగులు పేజీ"
+},
+"settings": {
+"message": "సెట్టింగులు"
+},
+"settings_add_rules": {
+"message": "నియమాలు జోడించండి"
+},
+"settings_already_save": {
+"message": "సెట్టింగ్ సేవ్."
+},
+"settings_collect_one_page": {
+"message": "పేజీలో సేకరించండి"
+},
+"settings_download": {
+"message": "క్రోమ్ డౌన్ లోడ్ చేస్తోంది"
+},
+"settings_import_rules": {
+"message": "దిగుమతి నియమాలు"
+},
+"settings_min_display": {
+"message": "డిఫాల్ట్ min స్పష్టత"
+},
+"settings_rule_delete": {
+"message": "తొలగించు"
+},
+"settings_rule_example": {
+"message": "ఉదాహరణకు రూల్"
+},
+"settings_rule_example_title2": {
+"message": "రూల్ మద్దతు రెగ్యులర్ ఎక్స్ప్రెషన్"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "రూల్ చిత్రం url నమూనా"
+},
+"settings_rule_last_update_time": {
+"message": "చివరి నవీకరణ:"
+},
+"settings_rule_last_update_time_none": {
+"message": "గమనిక"
+},
+"settings_rule_name": {
+"message": "రూల్ పేరు"
+},
+"settings_rule_test": {
+"message": "టెస్ట్"
+},
+"settings_rule_url_replace_code": {
+"message": "చిత్రం url కోడ్ స్థానంలో"
+},
+"settings_rules_empty": {
+"message": "ఖాళీ"
+},
+"settings_save_folder": {
+"message": "ఫోల్డర్ పేరు సేవ్ చేయి (Ctrl + S కోసం)"
+},
+"settings_save_use_fixed_name": {
+"message": "స్థిర పేరు ఉపయోగించడానికి"
+},
+"settings_save_use_title": {
+"message": "ఉపయోగం వెబ్ సైట్ టైటిల్"
+},
+"settings_show_website": {
+"message": "లింక్ షో"
+},
+"settings_simple": {
+"message": "సాధారణ సెట్టింగులు"
+},
+"settings_special_support": {
+"message": "ప్రత్యేక మద్దతు"
+},
+"settings_special_support_desc": {
+"message": "సాధారణ నియమం"
+},
+"settings_update": {
+"message": "ఇప్పుడే నవీకరించండి"
+},
+"settings_use_shortcut_key": {
+"message": "చిన్న కీ ఉపయోగించండి: Alt + Z"
+},
+"settings_user_rule_desc": {
+"message": "కస్టమ్ నియమాలు"
+},
+"sort": {
+"message": "క్రమీకరించు"
+},
+"sort_big_first": {
+"message": "బిగ్ చిత్రం మొదటి"
+},
+"sort_normal": {
+"message": "సైట్ ద్వారా క్రమీకరించు"
+},
+"sort_small_first": {
+"message": "చిన్న చిత్రం మొదటి"
+},
+"switch_view": {
+"message": "స్విచ్ చూడండి"
+},
+"update_declaration": {
+"message": "ఈ పొడిగింపు ä¹ a\u003e ¾å® ¢ \u003c/a\u003e ° zzllrr యొక్క \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e A. యొక్క కొన్ని కోడ్ ప్రస్తావించిన"
+},
+"update_description": {
+"message": "1 ఆంగ్ల అనువాదం \u003cbr /\u003e 2 Chrome డౌన్లోడ్ సెట్టింగులను నవీకరించబడింది టూల్టిప్లలో"
+},
+"update_title": {
+"message": "చిత్రం వెర్షన్ 1.8.3 Fatkun బ్యాచ్ డౌన్లోడ్"
+},
+"width": {
+"message": "వెడల్పు"
+},
+"width_short": {
+"message": "min వెడల్పు"
+}
+}

@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "כרטיסייה זו"
+},
+"ad1_extension_desc": {
+"message": "תחתון מחיר מאתר באופן אוטומטי, מוצא דיסקונט, מסנן מחיר עבור קניות."
+},
+"ad1_extension_name": {
+"message": "מאסטר פנג חוסך כסף"
+},
+"advise": {
+"message": "בלוג"
+},
+"aimg_tooltip": {
+"message": "לחץ על התמונה בכדי סמן או בטל סימון"
+},
+"all_tab": {
+"message": "כל הכרטיסיות"
+},
+"apply": {
+"message": "להגיש מועמדות"
+},
+"chrome_download_settings_url": {
+"message": "שאל היכן לשמור כל קובץ לפני הורדתו"
+},
+"default_title": {
+"message": "הורד תמונה יצווה Fatkun"
+},
+"default_title_desc": {
+"message": "ShortKey: Alt + Z"
+},
+"description": {
+"message": "הורדת תמונה שימושית ופשוט extension.You יכול לסנן על פי החלטה או קישור."
+},
+"do_not_show_again": {
+"message": "אני יודע את זה, לא להראות את זה שיח יותר."
+},
+"donate": {
+"message": "לִתְרוֹם"
+},
+"export_btn": {
+"message": "יְצוּא"
+},
+"export_close": {
+"message": "לִסְגוֹר"
+},
+"export_format": {
+"message": "פוּרמָט"
+},
+"export_format_tips": {
+"message": "אתה יכול להשתמש אלה משתנים: {אין} פירושה רצף numberï¼\u003e {LINK} אומר קישור תמונה"
+},
+"export_link": {
+"message": "קישור יצוא"
+},
+"filter_link": {
+"message": "סנן לפי הקישור"
+},
+"five_stars": {
+"message": "שיעור 5 כוכבים"
+},
+"height": {
+"message": "גוֹבַה"
+},
+"height_short": {
+"message": "גובה מינימום"
+},
+"inverse": {
+"message": "החליף בין שני מצבים"
+},
+"min_display": {
+"message": "מקס Side"
+},
+"more_options": {
+"message": "אפשרויות נוספות"
+},
+"not_rename": {
+"message": "לא לשנות"
+},
+"open_multiple_page": {
+"message": "דף רב להרחיב?"
+},
+"open_multiple_page_action": {
+"message": "פתח דף"
+},
+"open_multiple_page_tips": {
+"message": "אפשר כתובות רבות-שורות תו כללי. "
+},
+"popup_tips": {
+"message": "מפתח קצר: Z + Alt"
+},
+"process_end": {
+"message": "תמונות"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "רזולוציית תמונה מקבלת"
+},
+"rename_by_this_format": {
+"message": "שינוי שם המבוסס על"
+},
+"rename_tips": {
+"message": "אתה יכול להשתמש אלה משתנים: {אין} פירושה רצף numberï¼\u003e {EXT} אומר שם המורחבת"
+},
+"right_click_to_open": {
+"message": "(לחץ לחיצה ימנית כדי לפתוח ולבדוק את הגדרות)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "להציל"
+},
+"save_image": {
+"message": "שמור תמונה"
+},
+"save_tips": {
+"message": "\"שאל היכן לשמור כל קובץ לפני הורדתו\" אפשרות Chrome Downlods Setting.Otherwise, דיאלוגים אישור רבים רבים נוהרים."
+},
+"save_tips_cancel": {
+"message": "לְבַטֵל"
+},
+"save_tips_do_not_check": {
+"message": "אל תבחרו"
+},
+"save_tips_done": {
+"message": "שמור תמונה"
+},
+"save_tips_open_setting": {
+"message": "דף הגדרות להרחיב"
+},
+"settings": {
+"message": "הגדרות"
+},
+"settings_add_rules": {
+"message": "להוסיף כללים"
+},
+"settings_already_save": {
+"message": "הגדרה נשמר."
+},
+"settings_collect_one_page": {
+"message": "אסוף כדי בעמוד"
+},
+"settings_download": {
+"message": "הגדרת הורדות Chrome"
+},
+"settings_import_rules": {
+"message": "כללי יבוא"
+},
+"settings_min_display": {
+"message": "רזולוצית דקות ברירה"
+},
+"settings_rule_delete": {
+"message": "לִמְחוֹק"
+},
+"settings_rule_example": {
+"message": "כלל לדוגמא"
+},
+"settings_rule_example_title2": {
+"message": "ביטוי כלל תמיכה רגילה"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "דפוס כתובת אתר תמונה כלל"
+},
+"settings_rule_last_update_time": {
+"message": "העדכון אחרון:"
+},
+"settings_rule_last_update_time_none": {
+"message": "אף לא אחד"
+},
+"settings_rule_name": {
+"message": "שם כלל"
+},
+"settings_rule_test": {
+"message": "מִבְחָן"
+},
+"settings_rule_url_replace_code": {
+"message": "כתובת אתר של תמונה להחליף קוד"
+},
+"settings_rules_empty": {
+"message": "ריק"
+},
+"settings_save_folder": {
+"message": "לשמור את שם התיקייה (עבור Ctrl + S)"
+},
+"settings_save_use_fixed_name": {
+"message": "להשתמש בשם קבוע"
+},
+"settings_save_use_title": {
+"message": "כותרת אתר שימוש"
+},
+"settings_show_website": {
+"message": "קישור צג"
+},
+"settings_simple": {
+"message": "הגדרות רגילות"
+},
+"settings_special_support": {
+"message": "תמיכה מיוחדת"
+},
+"settings_special_support_desc": {
+"message": "שלטון משותף"
+},
+"settings_update": {
+"message": "עדכן כעת"
+},
+"settings_use_shortcut_key": {
+"message": "השתמש מפתח קצר: Alt + Z"
+},
+"settings_user_rule_desc": {
+"message": "כללים מותאמים אישית"
+},
+"sort": {
+"message": "סוג"
+},
+"sort_big_first": {
+"message": "תמונה גדולה הראשון"
+},
+"sort_normal": {
+"message": "מיין לפי אתר"
+},
+"sort_small_first": {
+"message": "תמונה קטנה ראשון"
+},
+"switch_view": {
+"message": "חלף צפו"
+},
+"update_declaration": {
+"message": "הרחבה זו הפניה קצת קוד של href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e \u003ca של zzllrr ° ä¹ a\u003e ¾å® ¢ \u003c/a\u003e"
+},
+"update_description": {
+"message": "1 תרגום לאנגלית \u003cbr /\u003e 2 הגדרות הורדת Chrome ובטיפים מעודכנות"
+},
+"update_title": {
+"message": "גרסת תמונה אצווה הורדה Fatkun 1.8.3"
+},
+"width": {
+"message": "רוֹחַב"
+},
+"width_short": {
+"message": "Min רוחב"
+}
+}

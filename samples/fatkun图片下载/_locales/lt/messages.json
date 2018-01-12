@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "Šis skirtukas"
+},
+"ad1_extension_desc": {
+"message": "Mažesnė kaina automatiškai ieškiklis, nuolaida ieškiklis, Kaina filtras Pirkiniai."
+},
+"ad1_extension_name": {
+"message": "Feng Pinigų taupymas magistras"
+},
+"advise": {
+"message": "Dienoraštis"
+},
+"aimg_tooltip": {
+"message": "Spauskite ant paveikslėlio, kad nuimkite arba patikrinti"
+},
+"all_tab": {
+"message": "Visi Skirtukai"
+},
+"apply": {
+"message": "taikyti"
+},
+"chrome_download_settings_url": {
+"message": "Paklauskite, kur išsaugoti Prieš atsiunčiant failą"
+},
+"default_title": {
+"message": "Fatkun Serija Parsisiųsti Vaizdo"
+},
+"default_title_desc": {
+"message": "ShortKey Alt + Z"
+},
+"description": {
+"message": "Naudinga ir paprasta vaizdo parsisiųsti extension.You galite filtruoti rezoliucija ar nuorodą."
+},
+"do_not_show_again": {
+"message": "Žinau, kad ne parodyti šią langą, bet daugiau."
+},
+"donate": {
+"message": "Paaukok"
+},
+"export_btn": {
+"message": "eksportas"
+},
+"export_close": {
+"message": "Uždaryti"
+},
+"export_format": {
+"message": "formatas"
+},
+"export_format_tips": {
+"message": "Galite naudoti šiuos kintamuosius: {NE} reiškia seka numberï¼\u003e {link} reiškia paveikslėlį nuorodą"
+},
+"export_link": {
+"message": "nurodo eksporto"
+},
+"filter_link": {
+"message": "Filtruoti pagal nuorodą"
+},
+"five_stars": {
+"message": "5 žvaigždutės norma"
+},
+"height": {
+"message": "aukštis"
+},
+"height_short": {
+"message": "min Ūgis"
+},
+"inverse": {
+"message": "perjungti"
+},
+"min_display": {
+"message": "Maksimalus Šoninės"
+},
+"more_options": {
+"message": "Daugiau pasirinkimų"
+},
+"not_rename": {
+"message": "ne pervadinti"
+},
+"open_multiple_page": {
+"message": "Atviras kelių puslapis?"
+},
+"open_multiple_page_action": {
+"message": "Atviras puslapis"
+},
+"open_multiple_page_tips": {
+"message": "Leiskite multi-eilių URL ir pakaitos simbolį. "
+},
+"popup_tips": {
+"message": "Trumpas Raktas: \"Alt\" + Z"
+},
+"process_end": {
+"message": "vaizdai"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "vaizdo gauti rezoliucija"
+},
+"rename_by_this_format": {
+"message": "Pervadinti remiantis"
+},
+"rename_tips": {
+"message": "Galite naudoti šiuos kintamuosius: {NE} reiškia sekos numberï¼\u003e {EXT} reiškia ilgesnį vardą"
+},
+"right_click_to_open": {
+"message": "(Dešiniuoju pelės mygtuku spustelėkite atidaryti ir patikrinti nustatymus)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Sutaupyti"
+},
+"save_image": {
+"message": "Išsaugoti paveikslėlį"
+},
+"save_tips": {
+"message": "\"Paklauskite, kur išsaugoti Prieš atsiunčiant failą\" parinktį Chrome Downlods Setting.Otherwise, daug daug patvirtinimo dialogai plūsta."
+},
+"save_tips_cancel": {
+"message": "atšaukti"
+},
+"save_tips_do_not_check": {
+"message": "Nesirinkite"
+},
+"save_tips_done": {
+"message": "Išsaugoti paveikslėlį"
+},
+"save_tips_open_setting": {
+"message": "Atviras Nustatymai tinklalapis"
+},
+"settings": {
+"message": "Nustatymai"
+},
+"settings_add_rules": {
+"message": "Pridėti taisyklės"
+},
+"settings_already_save": {
+"message": "Nustatymas išsaugotas."
+},
+"settings_collect_one_page": {
+"message": "Surinkite į psl"
+},
+"settings_download": {
+"message": "\"Chrome\" Atsisiųsti nustatymas"
+},
+"settings_import_rules": {
+"message": "importo taisyklės"
+},
+"settings_min_display": {
+"message": "Numatytasis minutės rezoliucija"
+},
+"settings_rule_delete": {
+"message": "panaikinti"
+},
+"settings_rule_example": {
+"message": "taisyklė pavyzdį"
+},
+"settings_rule_example_title2": {
+"message": "parama taisyklė Nuolatinis išraiška"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "Taisyklė vaizdo url"
+},
+"settings_rule_last_update_time": {
+"message": "Paskutiniai pakeitimai:"
+},
+"settings_rule_last_update_time_none": {
+"message": "Nė vienas"
+},
+"settings_rule_name": {
+"message": "taisyklė Vardas"
+},
+"settings_rule_test": {
+"message": "testas"
+},
+"settings_rule_url_replace_code": {
+"message": "Vaizdo URL pakeisti kodą"
+},
+"settings_rules_empty": {
+"message": "Tuščia"
+},
+"settings_save_folder": {
+"message": "išsaugoti aplanko pavadinimą (Ctrl + S)"
+},
+"settings_save_use_fixed_name": {
+"message": "naudoti fiksuotą vardą"
+},
+"settings_save_use_title": {
+"message": "naudoja svetainės pavadinimas"
+},
+"settings_show_website": {
+"message": "Rodyti nuorodą"
+},
+"settings_simple": {
+"message": "normalus Nustatymai"
+},
+"settings_special_support": {
+"message": "Speciali parama"
+},
+"settings_special_support_desc": {
+"message": "Bendra taisyklė"
+},
+"settings_update": {
+"message": "Atnaujinti dabar"
+},
+"settings_use_shortcut_key": {
+"message": "Naudokite trumpus Raktas: Alt + Z"
+},
+"settings_user_rule_desc": {
+"message": "Individualizuotos taisyklės"
+},
+"sort": {
+"message": "rūšiuoti"
+},
+"sort_big_first": {
+"message": "Didelis vaizdas pirmą kartą"
+},
+"sort_normal": {
+"message": "Rūšiuoti pagal puslapį"
+},
+"sort_small_first": {
+"message": "Mažas paveikslėlis pirmas"
+},
+"switch_view": {
+"message": "Switch Peržiūrėti"
+},
+"update_declaration": {
+"message": "Šis plėtinys nuorodos kai zzllrr \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e kodas ° Â ¹ A\u003e ¾å® ¢ \u003c/a\u003e"
+},
+"update_description": {
+"message": "1 Anglų vertimas \u003cbr /\u003e 2 Chrome Parsisiuntimo parametrai ToolTips atnaujinama"
+},
+"update_title": {
+"message": "Fatkun Serija Parsisiųsti Vaizdo versija 1.8.3"
+},
+"width": {
+"message": "plotis"
+},
+"width_short": {
+"message": "min Plotis"
+}
+}

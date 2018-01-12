@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "Tab na ito"
+},
+"ad1_extension_desc": {
+"message": "Lower presyo awtomatikong finder, Discount finder, Presyo filter para Shopping."
+},
+"ad1_extension_name": {
+"message": "Feng Pera Saving Master"
+},
+"advise": {
+"message": "Blog"
+},
+"aimg_tooltip": {
+"message": "I-click ang Imahe upang alisan ng check o check"
+},
+"all_tab": {
+"message": "Lahat ng Mga Tab"
+},
+"apply": {
+"message": "gamitin"
+},
+"chrome_download_settings_url": {
+"message": "Magtanong kung saan upang i-save ang bawat file bago i-download"
+},
+"default_title": {
+"message": "Fatkun Batch Ikarga Image"
+},
+"default_title_desc": {
+"message": "ShortKey: Alt + Z"
+},
+"description": {
+"message": "Isang kapaki-pakinabang at simpleng pag-download image extension.You maaaring i-filter sa pamamagitan ng resolusyon o link."
+},
+"do_not_show_again": {
+"message": "Alam ko ito, hindi ipakita ang dialog na ito anumang higit pa."
+},
+"donate": {
+"message": "mag-abuloy"
+},
+"export_btn": {
+"message": "I-export"
+},
+"export_close": {
+"message": "malapit"
+},
+"export_format": {
+"message": "format"
+},
+"export_format_tips": {
+"message": "Maaari mong gamitin ang mga variable: {NO} nangangahulugan sequence numberï¼\u003e {LINK} nangangahulugan link image"
+},
+"export_link": {
+"message": "I-export ang link"
+},
+"filter_link": {
+"message": "Salain sa pamamagitan ng link"
+},
+"five_stars": {
+"message": "5 bituin rate"
+},
+"height": {
+"message": "taas"
+},
+"height_short": {
+"message": "Min Taas"
+},
+"inverse": {
+"message": "tarugo"
+},
+"min_display": {
+"message": "Max Side"
+},
+"more_options": {
+"message": "Higit pang mga Pagpipilian"
+},
+"not_rename": {
+"message": "hindi palitan ang pangalan"
+},
+"open_multiple_page": {
+"message": "Open multi page?"
+},
+"open_multiple_page_action": {
+"message": "Buksan ang pahina"
+},
+"open_multiple_page_tips": {
+"message": "Payagan multi-hilera url at wildcard character. "
+},
+"popup_tips": {
+"message": "Maikling Key: Alt + Z"
+},
+"process_end": {
+"message": "imahe"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "image pagkuha resolution"
+},
+"rename_by_this_format": {
+"message": "Palitan ang pangalan batay sa"
+},
+"rename_tips": {
+"message": "Maaari mong gamitin ang mga variable: {NO} nangangahulugan sequence numberï¼\u003e {EXT} nangangahulugan pinalawig pangalan"
+},
+"right_click_to_open": {
+"message": "(Right-click upang buksan at i-check mga setting)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "I-save ang"
+},
+"save_image": {
+"message": "save ang Imahe"
+},
+"save_tips": {
+"message": "\"Magtanong kung saan upang i-save ang bawat file bago i-download\" na opsyon sa Chrome Downlods Setting.Otherwise, many many confirmation dialog kawan."
+},
+"save_tips_cancel": {
+"message": "kanselahin"
+},
+"save_tips_do_not_check": {
+"message": "HUWAG PUMILI"
+},
+"save_tips_done": {
+"message": "save ang Imahe"
+},
+"save_tips_open_setting": {
+"message": "Open Page Setting"
+},
+"settings": {
+"message": "Setting"
+},
+"settings_add_rules": {
+"message": "Magdagdag ng mga panuntunan"
+},
+"settings_already_save": {
+"message": "Pagtatakda save."
+},
+"settings_collect_one_page": {
+"message": "Mangolekta upang sa pahina"
+},
+"settings_download": {
+"message": "Chrome Downloads Setting"
+},
+"settings_import_rules": {
+"message": "Import patakaran"
+},
+"settings_min_display": {
+"message": "Default resolution min"
+},
+"settings_rule_delete": {
+"message": "alisin"
+},
+"settings_rule_example": {
+"message": "Rule halimbawa"
+},
+"settings_rule_example_title2": {
+"message": "Rule support Regular Expression"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "Rule image url pattern"
+},
+"settings_rule_last_update_time": {
+"message": "Last update:"
+},
+"settings_rule_last_update_time_none": {
+"message": "wala"
+},
+"settings_rule_name": {
+"message": "Rule Pangalan"
+},
+"settings_rule_test": {
+"message": "Pagsusulit"
+},
+"settings_rule_url_replace_code": {
+"message": "Image url palitan ang code"
+},
+"settings_rules_empty": {
+"message": "walang laman"
+},
+"settings_save_folder": {
+"message": "i-save ang pangalan ng folder (para Ctrl + S)"
+},
+"settings_save_use_fixed_name": {
+"message": "gamitin fixed name"
+},
+"settings_save_use_title": {
+"message": "title paggamit website"
+},
+"settings_show_website": {
+"message": "show link"
+},
+"settings_simple": {
+"message": "normal Setting"
+},
+"settings_special_support": {
+"message": "espesyal na suporta"
+},
+"settings_special_support_desc": {
+"message": "Common Rule"
+},
+"settings_update": {
+"message": "I-update ngayon"
+},
+"settings_use_shortcut_key": {
+"message": "Gamitin Maikling Key: Alt + Z"
+},
+"settings_user_rule_desc": {
+"message": "Custom patakaran"
+},
+"sort": {
+"message": "uri"
+},
+"sort_big_first": {
+"message": "Big image unang"
+},
+"sort_normal": {
+"message": "Pagsunud-sunurin ayon site"
+},
+"sort_small_first": {
+"message": "Maliit image unang"
+},
+"switch_view": {
+"message": "lumipat Tingnan ang"
+},
+"update_declaration": {
+"message": "Ang extension na ito na isinangguni ng ilang mga code ng \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e å ni zzllrr ° à¹ å\u003e ¾å® ¢ \u003c/a\u003e"
+},
+"update_description": {
+"message": "1 English translation \u003cbr /\u003e 2 Chrome pag-download ng mga setting tooltip-update"
+},
+"update_title": {
+"message": "Fatkun Batch Ikarga Image bersyon 1.8.3"
+},
+"width": {
+"message": "lapad"
+},
+"width_short": {
+"message": "Min Lapad"
+}
+}

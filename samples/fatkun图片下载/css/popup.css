@@ -1,0 +1,10 @@
+.container {min-width: 300px; text-align: left; font-size: 12px; margin-top:20px;}
+.tips { }
+.box {text-align: center;}
+
+#textPage {width: 240px; height: 100px;}
+#btnOpenPage {width: 250px; padding: 2px 0px; border-radius: 2px;}
+
+.details {margin: 10px 0;}
+.details summary{ margin-top:25px; margin-bottom: 5px; cursor: pointer;}
+.details summary:hover {color: green;}

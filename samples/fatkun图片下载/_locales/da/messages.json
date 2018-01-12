@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "Denne fane"
+},
+"ad1_extension_desc": {
+"message": "Lavere pris automatisk Finder, Discount finderen, Pris filter til Shopping."
+},
+"ad1_extension_name": {
+"message": "Feng penge at spare Master"
+},
+"advise": {
+"message": "blog"
+},
+"aimg_tooltip": {
+"message": "Klik på billedet for at fjerne markeringen eller check"
+},
+"all_tab": {
+"message": "Alle faner"
+},
+"apply": {
+"message": "Ansøge"
+},
+"chrome_download_settings_url": {
+"message": "Spørg, hvor hver enkelt fil skal gemmes, inden du downloader"
+},
+"default_title": {
+"message": "Fatkun Batch Hent billede"
+},
+"default_title_desc": {
+"message": "ShortKey: Alt + Z"
+},
+"description": {
+"message": "En nyttig og enkel billede download extension.You kan filtrere efter opløsning eller link."
+},
+"do_not_show_again": {
+"message": "Jeg ved det, ikke vise denne dialog mere."
+},
+"donate": {
+"message": "Doner"
+},
+"export_btn": {
+"message": "Eksport"
+},
+"export_close": {
+"message": "Tæt"
+},
+"export_format": {
+"message": "format"
+},
+"export_format_tips": {
+"message": "Du kan bruge disse variabler: {NO} betyder sekvens numberï¼\u003e {LINK} betyder billedlink"
+},
+"export_link": {
+"message": "Eksport link"
+},
+"filter_link": {
+"message": "Filtrer efter link"
+},
+"five_stars": {
+"message": "5 stjerner sats"
+},
+"height": {
+"message": "Højde"
+},
+"height_short": {
+"message": "Min Højde"
+},
+"inverse": {
+"message": "Toggle"
+},
+"min_display": {
+"message": "Max Side"
+},
+"more_options": {
+"message": "Flere muligheder"
+},
+"not_rename": {
+"message": "Ikke omdøbe"
+},
+"open_multiple_page": {
+"message": "Åbne multi side?"
+},
+"open_multiple_page_action": {
+"message": "Åbn side"
+},
+"open_multiple_page_tips": {
+"message": "Tillad multi-rækker urls og jokertegn. "
+},
+"popup_tips": {
+"message": "Kort Nøgle: Alt + Z"
+},
+"process_end": {
+"message": "billeder"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "billede få opløsning"
+},
+"rename_by_this_format": {
+"message": "Omdøb baseret på"
+},
+"rename_tips": {
+"message": "Du kan bruge disse variabler: {NO} betyder sekvens numberï¼\u003e {EXT} betyder udvidet navn"
+},
+"right_click_to_open": {
+"message": "(Højreklik for at åbne og kontrollere indstillingerne)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Spare"
+},
+"save_image": {
+"message": "Gem billede"
+},
+"save_tips": {
+"message": "\"Spørg, hvor hver enkelt fil skal gemmes, inden du downloader\" i Chrome Downlods Setting.Otherwise, mange mange bekræftelsesdialoger flok."
+},
+"save_tips_cancel": {
+"message": "Ophæve"
+},
+"save_tips_do_not_check": {
+"message": "Vælg ikke"
+},
+"save_tips_done": {
+"message": "Gem billede"
+},
+"save_tips_open_setting": {
+"message": "Åbn Indstillinger Side"
+},
+"settings": {
+"message": "Indstillinger"
+},
+"settings_add_rules": {
+"message": "Tilføj regler"
+},
+"settings_already_save": {
+"message": "Indstilling gemt."
+},
+"settings_collect_one_page": {
+"message": "Saml til på side"
+},
+"settings_download": {
+"message": "Chrome Downloads Indstilling"
+},
+"settings_import_rules": {
+"message": "importregler"
+},
+"settings_min_display": {
+"message": "Standard min opløsning"
+},
+"settings_rule_delete": {
+"message": "Slette"
+},
+"settings_rule_example": {
+"message": "regel eksempel"
+},
+"settings_rule_example_title2": {
+"message": "Regel support regulært udtryk"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "Regel billede url mønster"
+},
+"settings_rule_last_update_time": {
+"message": "Sidste ændring:"
+},
+"settings_rule_last_update_time_none": {
+"message": "Ingen"
+},
+"settings_rule_name": {
+"message": "regel Navn"
+},
+"settings_rule_test": {
+"message": "Prøve"
+},
+"settings_rule_url_replace_code": {
+"message": "Billede url erstatte koden"
+},
+"settings_rules_empty": {
+"message": "Tom"
+},
+"settings_save_folder": {
+"message": "spare mappenavn (for Ctrl + S)"
+},
+"settings_save_use_fixed_name": {
+"message": "bruge fast navn"
+},
+"settings_save_use_title": {
+"message": "brug website titel"
+},
+"settings_show_website": {
+"message": "Vis link"
+},
+"settings_simple": {
+"message": "Normale indstillinger"
+},
+"settings_special_support": {
+"message": "særlig støtte"
+},
+"settings_special_support_desc": {
+"message": "fælles Rule"
+},
+"settings_update": {
+"message": "Opdatere nu"
+},
+"settings_use_shortcut_key": {
+"message": "Brug Short nøgle: Alt + Z"
+},
+"settings_user_rule_desc": {
+"message": "brugerdefinerede regler"
+},
+"sort": {
+"message": "Sortere"
+},
+"sort_big_first": {
+"message": "Big billede først"
+},
+"sort_normal": {
+"message": "Sorter efter websted"
+},
+"sort_small_first": {
+"message": "Lille billede først"
+},
+"switch_view": {
+"message": "Skift View"
+},
+"update_declaration": {
+"message": "Denne udvidelse refereres noget kode af zzllrr \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e å ° ä¹ å\u003e ¾å® ¢ \u003c/a\u003e"
+},
+"update_description": {
+"message": "1 engelsk oversættelse \u003cbr /\u003e 2 Chrome download af indstillinger værktøjsvink opdateret"
+},
+"update_title": {
+"message": "Fatkun Batch Hent billede-version 1.8.3"
+},
+"width": {
+"message": "Bredde"
+},
+"width_short": {
+"message": "Min Bredde"
+}
+}

@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "このタブ"
+},
+"ad1_extension_desc": {
+"message": "自動的に低価格、割引ファインダー、ショッピングのための価格フィルタ。"
+},
+"ad1_extension_name": {
+"message": "鳳のお金を保存するマスター"
+},
+"advise": {
+"message": "ブログ"
+},
+"aimg_tooltip": {
+"message": "画像をクリックしてチェックを外すかチェックする"
+},
+"all_tab": {
+"message": "すべてのタブ"
+},
+"apply": {
+"message": "適用"
+},
+"chrome_download_settings_url": {
+"message": "ダウンロードする前に各ファイルを保存する場所を尋ねる"
+},
+"default_title": {
+"message": "Fatkunバッチダウンロードイメージ"
+},
+"default_title_desc": {
+"message": "ショートカット：Alt + Z"
+},
+"description": {
+"message": "便利でシンプルな画像ダウンロード拡張機能。解像度またはリンクでフィルタリングできます。"
+},
+"do_not_show_again": {
+"message": "私はそれを知っている、このダイアログをもう表示しない。"
+},
+"donate": {
+"message": "寄付する"
+},
+"export_btn": {
+"message": "輸出する"
+},
+"export_close": {
+"message": "閉じる"
+},
+"export_format": {
+"message": "フォーマット"
+},
+"export_format_tips": {
+"message": "これらの変数を使用することができます：{NO}はシーケンス番号を意味します。{LINK}は画像リンクを意味します"
+},
+"export_link": {
+"message": "エクスポートリンク"
+},
+"filter_link": {
+"message": "リンクでフィルタリング"
+},
+"five_stars": {
+"message": "5つ星料金"
+},
+"height": {
+"message": "高さ"
+},
+"height_short": {
+"message": "最小高さ"
+},
+"inverse": {
+"message": "トグル"
+},
+"min_display": {
+"message": "マックスサイド"
+},
+"more_options": {
+"message": "より多くのオプション"
+},
+"not_rename": {
+"message": "名前を変更しない"
+},
+"open_multiple_page": {
+"message": "マルチページを開く？"
+},
+"open_multiple_page_action": {
+"message": "ページを開く"
+},
+"open_multiple_page_tips": {
+"message": "複数行のURLとワイルドカード文字を許可する。 "
+},
+"popup_tips": {
+"message": "ショートキー：Alt + Z"
+},
+"process_end": {
+"message": "イメージ"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "画像取得の解像度"
+},
+"rename_by_this_format": {
+"message": "名前の変更"
+},
+"rename_tips": {
+"message": "これらの変数を使用することができます：{NO}はシーケンス番号を意味します。{EXT}は拡張名を意味します"
+},
+"right_click_to_open": {
+"message": "（右クリックして設定を開いて確認する）"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "セーブ"
+},
+"save_image": {
+"message": "画像を保存"
+},
+"save_tips": {
+"message": "Chrome Downlods Settingの[ダウンロードする前に各ファイルを保存する場所を尋ねる]オプション。その他、多くの確認ダイアログが多数集まります。"
+},
+"save_tips_cancel": {
+"message": "キャンセル"
+},
+"save_tips_do_not_check": {
+"message": "選択しない"
+},
+"save_tips_done": {
+"message": "画像を保存"
+},
+"save_tips_open_setting": {
+"message": "設定ページを開く"
+},
+"settings": {
+"message": "設定"
+},
+"settings_add_rules": {
+"message": "ルールを追加する"
+},
+"settings_already_save": {
+"message": "設定が保存されました。"
+},
+"settings_collect_one_page": {
+"message": "ページに集める"
+},
+"settings_download": {
+"message": "Chromeのダウンロード設定"
+},
+"settings_import_rules": {
+"message": "ルールのインポート"
+},
+"settings_min_display": {
+"message": "デフォルトの最小解像度"
+},
+"settings_rule_delete": {
+"message": "削除"
+},
+"settings_rule_example": {
+"message": "ルールの例"
+},
+"settings_rule_example_title2": {
+"message": "規則のサポート正規表現"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "ルールイメージのURLパターン"
+},
+"settings_rule_last_update_time": {
+"message": "最後の更新："
+},
+"settings_rule_last_update_time_none": {
+"message": "なし"
+},
+"settings_rule_name": {
+"message": "ルール名"
+},
+"settings_rule_test": {
+"message": "テスト"
+},
+"settings_rule_url_replace_code": {
+"message": "画像URL置換コード"
+},
+"settings_rules_empty": {
+"message": "空の"
+},
+"settings_save_folder": {
+"message": "フォルダ名を保存する（Ctrl + S）"
+},
+"settings_save_use_fixed_name": {
+"message": "固定名を使う"
+},
+"settings_save_use_title": {
+"message": "ウェブサイトのタイトルを使用する"
+},
+"settings_show_website": {
+"message": "リンクを表示"
+},
+"settings_simple": {
+"message": "標準設定"
+},
+"settings_special_support": {
+"message": "特別なサポート"
+},
+"settings_special_support_desc": {
+"message": "共通ルール"
+},
+"settings_update": {
+"message": "今すぐアップデート"
+},
+"settings_use_shortcut_key": {
+"message": "ショートキーを使用する：Alt + Z"
+},
+"settings_user_rule_desc": {
+"message": "カスタムルール"
+},
+"sort": {
+"message": "ソート"
+},
+"sort_big_first": {
+"message": "大きな画像を最初に"
+},
+"sort_normal": {
+"message": "サイト別並べ替え"
+},
+"sort_small_first": {
+"message": "最初に小さな画像"
+},
+"switch_view": {
+"message": "スイッチビュー"
+},
+"update_declaration": {
+"message": "この拡張機能は、zzllrrの\u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003eå°ä¹å\u003e¾å®¢のコードを参照しました。"
+},
+"update_description": {
+"message": "1英語の翻訳\u003cbr /\u003e 2 Chromeのダウンロード設定ツールチップが更新されました"
+},
+"update_title": {
+"message": "FatkunバッチダウンロードImage version 1.8.3"
+},
+"width": {
+"message": "幅"
+},
+"width_short": {
+"message": "最小幅"
+}
+}

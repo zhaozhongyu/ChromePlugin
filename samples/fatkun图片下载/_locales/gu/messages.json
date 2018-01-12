@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "આ ટેબ"
+},
+"ad1_extension_desc": {
+"message": "લોઅર ભાવ આપોઆપ શોધક, ડિસ્કાઉન્ટ ફાઇન્ડર, શોપિંગ માટે ભાવ ફિલ્ટર."
+},
+"ad1_extension_name": {
+"message": "ફેંગ નાણાં સાચવી માસ્ટર"
+},
+"advise": {
+"message": "બ્લોગ"
+},
+"aimg_tooltip": {
+"message": "અનચેક અથવા ચેક માટે છબીને ક્લિક કરો"
+},
+"all_tab": {
+"message": "બધા ટૅબ્સ"
+},
+"apply": {
+"message": "લાગુ પડે છે"
+},
+"chrome_download_settings_url": {
+"message": "જ્યાં ડાઉનલોડ કરતાં પહેલાં પ્રત્યેક ફાઇલને સંગ્રહ કરવા માટે પૂછો"
+},
+"default_title": {
+"message": "Fatkun બેચ ડાઉનલોડ છબી"
+},
+"default_title_desc": {
+"message": "ShortKey: Alt + Z"
+},
+"description": {
+"message": "એક ઉપયોગી અને સરળ છબી ડાઉનલોડ extension.You ઠરાવ અથવા કડી દ્વારા ફિલ્ટર કરી શકો છો."
+},
+"do_not_show_again": {
+"message": "મને ખબર છે તે નથી, આ સંવાદ કોઈ વધુ દર્શાવે છે."
+},
+"donate": {
+"message": "દાન"
+},
+"export_btn": {
+"message": "નિકાસ"
+},
+"export_close": {
+"message": "બંધ"
+},
+"export_format": {
+"message": "બંધારણમાં"
+},
+"export_format_tips": {
+"message": "તમે આ ચલો વાપરી શકો છો: {કોઈ} અર્થ એ થાય ક્રમ numberï¼\u003e {કડી} છબી લિંક અર્થ એ થાય"
+},
+"export_link": {
+"message": "લિંક નિકાસ"
+},
+"filter_link": {
+"message": "ફિલ્ટર લિંક દ્વારા"
+},
+"five_stars": {
+"message": "5 તારા દર"
+},
+"height": {
+"message": "ઊંચાઈ"
+},
+"height_short": {
+"message": "મીન ઊંચાઈ"
+},
+"inverse": {
+"message": "ટૉગલ"
+},
+"min_display": {
+"message": "મેક્સ સાઇડ"
+},
+"more_options": {
+"message": "વધુ વિકલ્પો"
+},
+"not_rename": {
+"message": "નામ બદલી શકાતું નથી"
+},
+"open_multiple_page": {
+"message": "ઓપન મલ્ટી પાનું?"
+},
+"open_multiple_page_action": {
+"message": "ઓપન પાનું"
+},
+"open_multiple_page_tips": {
+"message": "મલ્ટી પંક્તિઓ URL અને વાઇલ્ડકાર્ડ વર્ણ પરવાનગી આપે છે. "
+},
+"popup_tips": {
+"message": "લઘુ કી: Alt + Z"
+},
+"process_end": {
+"message": "છબીઓ"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "છબી મેળવવામાં ઠરાવ"
+},
+"rename_by_this_format": {
+"message": "નામ બદલો પર આધારિત"
+},
+"rename_tips": {
+"message": "તમે આ ચલો વાપરી શકો છો: {કોઈ} અર્થ એ થાય ક્રમ numberï¼\u003e {EXT} વિસ્તૃત નામનો અર્થ"
+},
+"right_click_to_open": {
+"message": "(ખુલ્લા અને સેટિંગ્સ તપાસો રાઇટ-ક્લિક કરો)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "સાચવો"
+},
+"save_image": {
+"message": "છબી સાચવો"
+},
+"save_tips": {
+"message": "ક્રોમ Downlods Setting.Otherwise વિકલ્પ \"જ્યાં ડાઉનલોડ કરતાં પહેલાં પ્રત્યેક ફાઇલને સંગ્રહ કરવા માટે પૂછો\""
+},
+"save_tips_cancel": {
+"message": "રદ કરો"
+},
+"save_tips_do_not_check": {
+"message": "પસંદ નથી"
+},
+"save_tips_done": {
+"message": "છબી સાચવો"
+},
+"save_tips_open_setting": {
+"message": "ઓપન સેટિંગ્સ પૃષ્ઠ"
+},
+"settings": {
+"message": "સેટિંગ્સ"
+},
+"settings_add_rules": {
+"message": "નિયમો ઉમેરો"
+},
+"settings_already_save": {
+"message": "સેવ કરી રહ્યા છે."
+},
+"settings_collect_one_page": {
+"message": "પૃષ્ઠ પર એકત્રિત"
+},
+"settings_download": {
+"message": "ક્રોમ ડાઉનલોડ સેટિંગ"
+},
+"settings_import_rules": {
+"message": "આયાત નિયમો"
+},
+"settings_min_display": {
+"message": "મૂળભૂત મીન ઠરાવ"
+},
+"settings_rule_delete": {
+"message": "કાઢી નાખો"
+},
+"settings_rule_example": {
+"message": "ઉદાહરણ રાજ"
+},
+"settings_rule_example_title2": {
+"message": "નિયમ આધાર નિયમિત સમીકરણ"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "નિયમ છબી URL પેટર્ન"
+},
+"settings_rule_last_update_time": {
+"message": "છેલ્લો સુધારો:"
+},
+"settings_rule_last_update_time_none": {
+"message": "કંઈ"
+},
+"settings_rule_name": {
+"message": "નિયમ નામ"
+},
+"settings_rule_test": {
+"message": "ટેસ્ટ"
+},
+"settings_rule_url_replace_code": {
+"message": "છબી URL કોડ બદલો"
+},
+"settings_rules_empty": {
+"message": "ખાલી"
+},
+"settings_save_folder": {
+"message": "ફોલ્ડર નામ સાચવો (Ctrl + S માટે)"
+},
+"settings_save_use_fixed_name": {
+"message": "સ્થિર નામનો ઉપયોગ"
+},
+"settings_save_use_title": {
+"message": "વેબસાઈટ વાપરો શીર્ષક"
+},
+"settings_show_website": {
+"message": "બતાવો લિંક"
+},
+"settings_simple": {
+"message": "સામાન્ય સેટિંગ્સ"
+},
+"settings_special_support": {
+"message": "ખાસ આધાર"
+},
+"settings_special_support_desc": {
+"message": "સામાન્ય નિયમ"
+},
+"settings_update": {
+"message": "હવે અપડેટ"
+},
+"settings_use_shortcut_key": {
+"message": "લઘુ કી વાપરો: Alt + Z"
+},
+"settings_user_rule_desc": {
+"message": "કસ્ટમ નિયમો"
+},
+"sort": {
+"message": "સૉર્ટ"
+},
+"sort_big_first": {
+"message": "મોટા ઇમેજ પ્રથમ"
+},
+"sort_normal": {
+"message": "સાઇટ દ્વારા સૉર્ટ"
+},
+"sort_small_first": {
+"message": "નાના છબી પ્રથમ"
+},
+"switch_view": {
+"message": "સ્વિચ કરો જુઓ"
+},
+"update_declaration": {
+"message": "આ એક્સટેન્શન ° ä¹ a\u003e ¾å® ¢ \u003c/a\u003e zzllrr માતાનો \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e એ અમુક કોડ સંદર્ભ"
+},
+"update_description": {
+"message": "1 ઇંગલિશ અનુવાદ \u003cbr /\u003e 2 Chrome ડાઉનલોડ સેટિંગ્સ સુધારાશે ટૂલટિપ્સમાં"
+},
+"update_title": {
+"message": "Fatkun બેચ ડાઉનલોડ છબી આવૃત્તિ 1.8.3"
+},
+"width": {
+"message": "પહોળાઈ"
+},
+"width_short": {
+"message": "મિનિટ પહોળાઈ"
+}
+}

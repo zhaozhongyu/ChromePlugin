@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "Táto karta"
+},
+"ad1_extension_desc": {
+"message": "Nižšia cena automaticky nálezcu, zľavy nálezcu, Cena filter pre nákupy."
+},
+"ad1_extension_name": {
+"message": "Feng Sporiaci majster"
+},
+"advise": {
+"message": "blog"
+},
+"aimg_tooltip": {
+"message": "Kliknutím na obrázok zrušte alebo šekom"
+},
+"all_tab": {
+"message": "všetky Záložky"
+},
+"apply": {
+"message": "aplikovať"
+},
+"chrome_download_settings_url": {
+"message": "Spýtať, kam uložiť súboru pred stiahnutím"
+},
+"default_title": {
+"message": "Fatkun Batch Image Download"
+},
+"default_title_desc": {
+"message": "ShortKey: Alt + Z"
+},
+"description": {
+"message": "Užitočná a jednoduché sťahovanie obrazu extension.You možné filtrovať podľa rezolúcie alebo odkaz."
+},
+"do_not_show_again": {
+"message": "Viem, že to, nezobrazovať tento dialóg nič viac."
+},
+"donate": {
+"message": "darovať"
+},
+"export_btn": {
+"message": "Export"
+},
+"export_close": {
+"message": "Zavrieť"
+},
+"export_format": {
+"message": "formát"
+},
+"export_format_tips": {
+"message": "Môžete použiť tieto premenné: {} NIE znamená, že postupnosť numberï¼\u003e {LINK} znamená odkaz"
+},
+"export_link": {
+"message": "export odkaz"
+},
+"filter_link": {
+"message": "filter odkazom"
+},
+"five_stars": {
+"message": "5 Hviezdičky sadzba"
+},
+"height": {
+"message": "výška"
+},
+"height_short": {
+"message": "min Výška"
+},
+"inverse": {
+"message": "toggle"
+},
+"min_display": {
+"message": "Max Side"
+},
+"more_options": {
+"message": "Viac možností"
+},
+"not_rename": {
+"message": "nie je možné premenovať"
+},
+"open_multiple_page": {
+"message": "Otvorená multi stránky?"
+},
+"open_multiple_page_action": {
+"message": "otvorená strana"
+},
+"open_multiple_page_tips": {
+"message": "Dovoliť multi-riadky URL a zástupný znak. "
+},
+"popup_tips": {
+"message": "Krátke Kľúč: Alt + Z"
+},
+"process_end": {
+"message": "snímky"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "Rozlíšenie získanie image"
+},
+"rename_by_this_format": {
+"message": "Premenovať na báze"
+},
+"rename_tips": {
+"message": "Môžete použiť tieto premenné: {Nie} znamená sekvenčné numberï¼\u003e {EXT} znamená rozšírený názov"
+},
+"right_click_to_open": {
+"message": "(Pravým tlačidlom myši otvoriť a skontrolovať nastavenie)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "uložiť"
+},
+"save_image": {
+"message": "Uložiť obrázok"
+},
+"save_tips": {
+"message": "\"Opýtať na kam uložiť súbor pred stiahnutím\" možnosť v Chrome Downlods Setting.Otherwise, mnoho mnoho dotazovací dialógy hrnú."
+},
+"save_tips_cancel": {
+"message": "Zrušiť"
+},
+"save_tips_do_not_check": {
+"message": "nevyberajte"
+},
+"save_tips_done": {
+"message": "Uložiť obrázok"
+},
+"save_tips_open_setting": {
+"message": "Otvorená Stránka nastavenia"
+},
+"settings": {
+"message": "nastavenie"
+},
+"settings_add_rules": {
+"message": "pridať pravidlá"
+},
+"settings_already_save": {
+"message": "Nastavenie bolo uložené."
+},
+"settings_collect_one_page": {
+"message": "Zbierať na na strane"
+},
+"settings_download": {
+"message": "Chrome k stiahnutiu Nastavenie"
+},
+"settings_import_rules": {
+"message": "pravidlá dovozu"
+},
+"settings_min_display": {
+"message": "Predvolené rozlíšenie min"
+},
+"settings_rule_delete": {
+"message": "vymazať"
+},
+"settings_rule_example": {
+"message": "pravidlo príklad"
+},
+"settings_rule_example_title2": {
+"message": "Podpora pravidlo regulárnych výrazov"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "Pravidlo image url vzor"
+},
+"settings_rule_last_update_time": {
+"message": "Posledná aktualizácia:"
+},
+"settings_rule_last_update_time_none": {
+"message": "nikto"
+},
+"settings_rule_name": {
+"message": "Rule Name"
+},
+"settings_rule_test": {
+"message": "test"
+},
+"settings_rule_url_replace_code": {
+"message": "Image url nahradiť kód"
+},
+"settings_rules_empty": {
+"message": "prázdny"
+},
+"settings_save_folder": {
+"message": "uložiť zložky názov (Ctrl + S)"
+},
+"settings_save_use_fixed_name": {
+"message": "používať pevnú názov"
+},
+"settings_save_use_title": {
+"message": "Názov použitia webových stránok"
+},
+"settings_show_website": {
+"message": "ukázať odkaz"
+},
+"settings_simple": {
+"message": "normálne Nastavenie"
+},
+"settings_special_support": {
+"message": "osobitná podpora"
+},
+"settings_special_support_desc": {
+"message": "spoločné pravidlá"
+},
+"settings_update": {
+"message": "Teraz aktualizovať"
+},
+"settings_use_shortcut_key": {
+"message": "Používať krátke kľúč: Alt + Z"
+},
+"settings_user_rule_desc": {
+"message": "vlastné pravidlá"
+},
+"sort": {
+"message": "druh"
+},
+"sort_big_first": {
+"message": "Veľký obrázok prvej"
+},
+"sort_normal": {
+"message": "Triediť podľa stránky"
+},
+"sort_small_first": {
+"message": "Malý obrázok prvej"
+},
+"switch_view": {
+"message": "prepnúť zobrazenie"
+},
+"update_declaration": {
+"message": "Toto rozšírenie odkazoval nejaký kód zzllrr \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e Å ° ä¹ A\u003e ¾å® ¢ \u003c/a\u003e"
+},
+"update_description": {
+"message": "1 anglický preklad \u003cbr /\u003e 2 Chrome Nastavenie preberania bubliny aktualizované"
+},
+"update_title": {
+"message": "Fatkun Batch stiahnutie verzie 1.8.3 Image"
+},
+"width": {
+"message": "šírka"
+},
+"width_short": {
+"message": "min Šírka"
+}
+}

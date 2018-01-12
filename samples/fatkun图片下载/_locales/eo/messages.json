@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "ĉi Tab"
+},
+"ad1_extension_desc": {
+"message": "Malalta prezo aŭtomate trovilo, Rabato trovilo, Prezo filtrilo por Butikumado."
+},
+"ad1_extension_name": {
+"message": "Feng Mono Ŝparado majstro"
+},
+"advise": {
+"message": "blogo"
+},
+"aimg_tooltip": {
+"message": "Klaku Bildo por malmarku aŭ kontroli"
+},
+"all_tab": {
+"message": "ĉiuj Tabs"
+},
+"apply": {
+"message": "apliki"
+},
+"chrome_download_settings_url": {
+"message": "Petu kie savi ĉiun dosieron antaŭ elŝuto"
+},
+"default_title": {
+"message": "Fatkun Batch Elŝuti Bildo"
+},
+"default_title_desc": {
+"message": "ShortKey: Alt + Z"
+},
+"description": {
+"message": "Utila kaj simpla bildo download extension.You povas filtri por rezolucio aŭ ligon."
+},
+"do_not_show_again": {
+"message": "Mi scias, ne montru tiun dialogon plu."
+},
+"donate": {
+"message": "Donaci"
+},
+"export_btn": {
+"message": "eksportado"
+},
+"export_close": {
+"message": "Fermi"
+},
+"export_format": {
+"message": "formato"
+},
+"export_format_tips": {
+"message": "Vi povas uzi ĉi tiujn variablojn: {NO} signifas sekvencon numberï¼\u003e {LINK} signifas bildon ligilo"
+},
+"export_link": {
+"message": "eksporti ligilo"
+},
+"filter_link": {
+"message": "Filtrilo de ligilo"
+},
+"five_stars": {
+"message": "5 steloj imposto"
+},
+"height": {
+"message": "alteco"
+},
+"height_short": {
+"message": "min Alteco"
+},
+"inverse": {
+"message": "Baskuligi"
+},
+"min_display": {
+"message": "max Flanko"
+},
+"more_options": {
+"message": "pli Opcioj"
+},
+"not_rename": {
+"message": "alinomi"
+},
+"open_multiple_page": {
+"message": "Malfermita multi paĝo?"
+},
+"open_multiple_page_action": {
+"message": "malfermita paĝon"
+},
+"open_multiple_page_tips": {
+"message": "Permesi multi-vicoj urls kaj Ĵokero. "
+},
+"popup_tips": {
+"message": "Mallonga Ŝlosilo: Alt + Z"
+},
+"process_end": {
+"message": "bildoj"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "bildo ricevas distingivo"
+},
+"rename_by_this_format": {
+"message": "Renomi surbaze"
+},
+"rename_tips": {
+"message": "Vi povas uzi ĉi tiujn variablojn: {NO} signifas sekvencon numberï¼\u003e {EXT} signifas etendita nomo"
+},
+"right_click_to_open": {
+"message": "(Dekstra-klaku malfermi kaj kontroli agordojn)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Konservi"
+},
+"save_image": {
+"message": "Konservu Bildo"
+},
+"save_tips": {
+"message": "\"Demandu kie savi ĉiun dosieron antaŭ elŝuto\" opcion en Chrome Downlods Setting.Otherwise, multaj multaj konfirmo dialogoj ŝafaro."
+},
+"save_tips_cancel": {
+"message": "nuligi"
+},
+"save_tips_do_not_check": {
+"message": "NE SELECT"
+},
+"save_tips_done": {
+"message": "Konservu Bildo"
+},
+"save_tips_open_setting": {
+"message": "Malfermita Agordoj Paĝo"
+},
+"settings": {
+"message": "Agordoj"
+},
+"settings_add_rules": {
+"message": "Aldoni reguloj"
+},
+"settings_already_save": {
+"message": "Fikso savis."
+},
+"settings_collect_one_page": {
+"message": "Kolekti al la paĝon"
+},
+"settings_download": {
+"message": "Chrome Elŝutoj Setting"
+},
+"settings_import_rules": {
+"message": "import reguloj"
+},
+"settings_min_display": {
+"message": "Defaŭlta min distingivo"
+},
+"settings_rule_delete": {
+"message": "forviŝi"
+},
+"settings_rule_example": {
+"message": "regi ekzemplo"
+},
+"settings_rule_example_title2": {
+"message": "Regulo subteno Regula Esprimo"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "Regulo bildo url padrono"
+},
+"settings_rule_last_update_time": {
+"message": "Lasta ĝisdatigo:"
+},
+"settings_rule_last_update_time_none": {
+"message": "neniu"
+},
+"settings_rule_name": {
+"message": "regulo Nomo"
+},
+"settings_rule_test": {
+"message": "testo"
+},
+"settings_rule_url_replace_code": {
+"message": "Bildo url anstataŭigi kodo"
+},
+"settings_rules_empty": {
+"message": "malplena"
+},
+"settings_save_folder": {
+"message": "savi dosierujo nomo (por Stir + S)"
+},
+"settings_save_use_fixed_name": {
+"message": "uzi fiksa nomon"
+},
+"settings_save_use_title": {
+"message": "uzo retejo nomo"
+},
+"settings_show_website": {
+"message": "Montri ligilon"
+},
+"settings_simple": {
+"message": "normala Agordoj"
+},
+"settings_special_support": {
+"message": "speciala subteno"
+},
+"settings_special_support_desc": {
+"message": "komuna Regulo"
+},
+"settings_update": {
+"message": "ĝisdatigi nun"
+},
+"settings_use_shortcut_key": {
+"message": "Uzi Short Ŝlosilo: Alt + Z"
+},
+"settings_user_rule_desc": {
+"message": "kutimo reguloj"
+},
+"sort": {
+"message": "speco"
+},
+"sort_big_first": {
+"message": "Grandan bildon unua"
+},
+"sort_normal": {
+"message": "Speco de ejo"
+},
+"sort_small_first": {
+"message": "Malgranda bildo unuajn"
+},
+"switch_view": {
+"message": "ŝanĝi View"
+},
+"update_declaration": {
+"message": "Tiu etendo referencita iuj Poŝtkoda zzllrr la \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e å ° ä¹ å\u003e ¾å® ¢ \u003c/a\u003e"
+},
+"update_description": {
+"message": "1 Esperanta traduko \u003cbr /\u003e 2 Chrome elŝutanta agordojn Konsiletojn ĝisdatigita"
+},
+"update_title": {
+"message": "Fatkun Batch Elŝuti bilda versio 1.8.3"
+},
+"width": {
+"message": "larĝo"
+},
+"width_short": {
+"message": "min Larĝeco"
+}
+}

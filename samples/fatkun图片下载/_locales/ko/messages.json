@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "이 탭"
+},
+"ad1_extension_desc": {
+"message": "자동으로 저렴한 가격, 할인 찾기, 쇼핑을위한 가격 필터."
+},
+"ad1_extension_name": {
+"message": "풍수 저축 마스터"
+},
+"advise": {
+"message": "블로그"
+},
+"aimg_tooltip": {
+"message": "선택을 취소하거나 확인하려면 이미지를 클릭하십시오."
+},
+"all_tab": {
+"message": "모든 탭"
+},
+"apply": {
+"message": "대다"
+},
+"chrome_download_settings_url": {
+"message": "다운로드하기 전에 각 파일을 저장할 위치 묻기"
+},
+"default_title": {
+"message": "Fatkun 일괄 다운로드 이미지"
+},
+"default_title_desc": {
+"message": "바로 가기 키 : Alt + Z"
+},
+"description": {
+"message": "유용하고 간단한 이미지 다운로드 확장 프로그램입니다. 해상도 또는 링크별로 필터링 할 수 있습니다."
+},
+"do_not_show_again": {
+"message": "나는이 대화를 더 이상 보여주지 않는다는 것을 안다."
+},
+"donate": {
+"message": "기부"
+},
+"export_btn": {
+"message": "수출"
+},
+"export_close": {
+"message": "닫기"
+},
+"export_format": {
+"message": "체재"
+},
+"export_format_tips": {
+"message": "다음 변수를 사용할 수 있습니다. {NO}는 시퀀스 번호를 의미합니다. {LINK}는 이미지 링크를 의미합니다."
+},
+"export_link": {
+"message": "링크 내보내기"
+},
+"filter_link": {
+"message": "링크별로 필터링"
+},
+"five_stars": {
+"message": "5 별 요금"
+},
+"height": {
+"message": "신장"
+},
+"height_short": {
+"message": "최소 높이"
+},
+"inverse": {
+"message": "비녀장"
+},
+"min_display": {
+"message": "최대면"
+},
+"more_options": {
+"message": "기타 옵션"
+},
+"not_rename": {
+"message": "이름을 바꾸지 않음"
+},
+"open_multiple_page": {
+"message": "멀티 페이지 열기?"
+},
+"open_multiple_page_action": {
+"message": "페이지 열기"
+},
+"open_multiple_page_tips": {
+"message": "다중 행 URL 및 와일드 카드 문자 허용. "
+},
+"popup_tips": {
+"message": "단축키 : Alt + Z"
+},
+"process_end": {
+"message": "이미지들"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "해상도를 얻는 이미지"
+},
+"rename_by_this_format": {
+"message": "이름 바꾸기 기준"
+},
+"rename_tips": {
+"message": "다음 변수를 사용할 수 있습니다. {NO}는 시퀀스 번호를 의미합니다. {EXT}는 확장 된 이름을 의미합니다."
+},
+"right_click_to_open": {
+"message": "(마우스 오른쪽 버튼으로 클릭하여 설정을 열고 확인)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "구하다"
+},
+"save_image": {
+"message": "이미지를 저장"
+},
+"save_tips": {
+"message": "Chrome Downlods Setting에서 \"다운로드하기 전에 각 파일을 저장할 위치를 물으십시오.\"옵션을 선택하십시오. 그렇지 않으면 많은 확인 대화 상자가 나타납니다."
+},
+"save_tips_cancel": {
+"message": "취소하다"
+},
+"save_tips_do_not_check": {
+"message": "선택하지 마십시오."
+},
+"save_tips_done": {
+"message": "이미지를 저장"
+},
+"save_tips_open_setting": {
+"message": "설정 페이지 열기"
+},
+"settings": {
+"message": "설정"
+},
+"settings_add_rules": {
+"message": "규칙 추가"
+},
+"settings_already_save": {
+"message": "설정이 저장되었습니다."
+},
+"settings_collect_one_page": {
+"message": "페이지에 모으기"
+},
+"settings_download": {
+"message": "Chrome 다운로드 설정"
+},
+"settings_import_rules": {
+"message": "규칙 가져 오기"
+},
+"settings_min_display": {
+"message": "기본 최소 해상도"
+},
+"settings_rule_delete": {
+"message": "지우다"
+},
+"settings_rule_example": {
+"message": "규칙 예제"
+},
+"settings_rule_example_title2": {
+"message": "규칙 지원 정규식"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "규칙 이미지 URL 패턴"
+},
+"settings_rule_last_update_time": {
+"message": "마지막 업데이트:"
+},
+"settings_rule_last_update_time_none": {
+"message": "없음"
+},
+"settings_rule_name": {
+"message": "규칙 이름"
+},
+"settings_rule_test": {
+"message": "테스트"
+},
+"settings_rule_url_replace_code": {
+"message": "이미지 URL 대체 코드"
+},
+"settings_rules_empty": {
+"message": "빈"
+},
+"settings_save_folder": {
+"message": "폴더 이름 저장 (Ctrl + S)"
+},
+"settings_save_use_fixed_name": {
+"message": "고정 된 이름 사용"
+},
+"settings_save_use_title": {
+"message": "웹 사이트 제목 사용"
+},
+"settings_show_website": {
+"message": "링크 표시"
+},
+"settings_simple": {
+"message": "일반 설정"
+},
+"settings_special_support": {
+"message": "특별 지원"
+},
+"settings_special_support_desc": {
+"message": "공통 규칙"
+},
+"settings_update": {
+"message": "지금 업데이트"
+},
+"settings_use_shortcut_key": {
+"message": "단축키 사용 : Alt + Z"
+},
+"settings_user_rule_desc": {
+"message": "맞춤 규칙"
+},
+"sort": {
+"message": "종류"
+},
+"sort_big_first": {
+"message": "큰 이미지 먼저"
+},
+"sort_normal": {
+"message": "사이트별로 정렬"
+},
+"sort_small_first": {
+"message": "먼저 작은 이미지"
+},
+"switch_view": {
+"message": "전환보기"
+},
+"update_declaration": {
+"message": "이 확장 프로그램은 zzllrr의 \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e å ° ä¹ å\u003e ¾å® ¢의 코드를 참조했습니다."
+},
+"update_description": {
+"message": "1 영어 번역 \u003cbr /\u003e 2 Chrome 다운로드 설정 툴팁이 업데이트되었습니다."
+},
+"update_title": {
+"message": "Fatkun Batch Download 이미지 버전 1.8.3"
+},
+"width": {
+"message": "폭"
+},
+"width_short": {
+"message": "최소 너비"
+}
+}

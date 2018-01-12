@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "Ten Tab"
+},
+"ad1_extension_desc": {
+"message": "Niższa cena automatycznie finder, Rabat finder, Filtr Cena na zakupy."
+},
+"ad1_extension_name": {
+"message": "Mistrz Feng Oszczędzanie pieniędzy"
+},
+"advise": {
+"message": "blog"
+},
+"aimg_tooltip": {
+"message": "Kliknij na obrazek aby odznaczyć lub sprawdź"
+},
+"all_tab": {
+"message": "Wszystkie Tabs"
+},
+"apply": {
+"message": "Zastosować"
+},
+"chrome_download_settings_url": {
+"message": "Zapytaj, gdzie zapisać każdy plik przed pobraniem"
+},
+"default_title": {
+"message": "Fatkun Batch Image Download"
+},
+"default_title_desc": {
+"message": "ShortKey: Alt + Z"
+},
+"description": {
+"message": "Użytecznym i prosty obraz pobieranie extension.You można filtrować według uchwały lub link."
+},
+"do_not_show_again": {
+"message": "Wiem, że nie pokazuj tego okna więcej."
+},
+"donate": {
+"message": "Podarować"
+},
+"export_btn": {
+"message": "Eksport"
+},
+"export_close": {
+"message": "Blisko"
+},
+"export_format": {
+"message": "format"
+},
+"export_format_tips": {
+"message": "Można użyć tych zmiennych: {Nie} oznacza sekwencję numberï¼\u003e {LINK} oznacza odnośnik"
+},
+"export_link": {
+"message": "Link Export"
+},
+"filter_link": {
+"message": "Filtrowanie według linku"
+},
+"five_stars": {
+"message": "5 gwiazdek stopa"
+},
+"height": {
+"message": "Wysokość"
+},
+"height_short": {
+"message": "Minimalna wysokość"
+},
+"inverse": {
+"message": "Przełącznik"
+},
+"min_display": {
+"message": "max Side"
+},
+"more_options": {
+"message": "Więcej możliwości"
+},
+"not_rename": {
+"message": "nie zmieniać nazwy"
+},
+"open_multiple_page": {
+"message": "Otwarty wielostronicowy?"
+},
+"open_multiple_page_action": {
+"message": "Otwórz stronę"
+},
+"open_multiple_page_tips": {
+"message": "Pozwalają na multi-rzędowe adresów URL i symbol wieloznaczny. "
+},
+"popup_tips": {
+"message": "Krótki Klucz: Alt + Z"
+},
+"process_end": {
+"message": "obrazy"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "Obraz uzyskanie rozdzielczości"
+},
+"rename_by_this_format": {
+"message": "Zmiana nazwy na podstawie"
+},
+"rename_tips": {
+"message": "Można użyć tych zmiennych: {Nie} oznacza sekwencję numberï¼\u003e {EXT} oznacza rozszerzoną nazwę"
+},
+"right_click_to_open": {
+"message": "(Kliknij prawym przyciskiem myszy, aby otworzyć i sprawdzić ustawienia)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Zapisać"
+},
+"save_image": {
+"message": "Zapisać obraz"
+},
+"save_tips": {
+"message": "\"Pytaj, gdzie zapisać każdy plik przed pobraniem\" opcję w Chrome Downlods Setting.Otherwise, wiele, wiele okien dialogowych potwierdzenia stada."
+},
+"save_tips_cancel": {
+"message": "Anuluj"
+},
+"save_tips_do_not_check": {
+"message": "Nie wybieraj"
+},
+"save_tips_done": {
+"message": "Zapisać obraz"
+},
+"save_tips_open_setting": {
+"message": "Otwórz Ustawienia Page"
+},
+"settings": {
+"message": "Ustawienia"
+},
+"settings_add_rules": {
+"message": "Dodaj zasady"
+},
+"settings_already_save": {
+"message": "Ustawienie zapisane."
+},
+"settings_collect_one_page": {
+"message": "Zbierz się na stronie"
+},
+"settings_download": {
+"message": "Ustawienie Chrome pobrania"
+},
+"settings_import_rules": {
+"message": "zasady importu"
+},
+"settings_min_display": {
+"message": "Domyślna rozdzielczość min"
+},
+"settings_rule_delete": {
+"message": "Kasować"
+},
+"settings_rule_example": {
+"message": "Zasada przykład"
+},
+"settings_rule_example_title2": {
+"message": "Wsparcie Zasada Wyrażenie regularne"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "Reguła obrazu url wzór"
+},
+"settings_rule_last_update_time": {
+"message": "Ostatnia aktualizacja:"
+},
+"settings_rule_last_update_time_none": {
+"message": "Żaden"
+},
+"settings_rule_name": {
+"message": "Nazwa reguły"
+},
+"settings_rule_test": {
+"message": "Test"
+},
+"settings_rule_url_replace_code": {
+"message": "URL obrazu wymienić kod"
+},
+"settings_rules_empty": {
+"message": "Pusty"
+},
+"settings_save_folder": {
+"message": "zapisz nazwę folderu (na Ctrl + S)"
+},
+"settings_save_use_fixed_name": {
+"message": "użyć stałej nazwy"
+},
+"settings_save_use_title": {
+"message": "Tytuł strony wykorzystanie"
+},
+"settings_show_website": {
+"message": "Pokaż link"
+},
+"settings_simple": {
+"message": "normalne Ustawienia"
+},
+"settings_special_support": {
+"message": "Szczególne wsparcie"
+},
+"settings_special_support_desc": {
+"message": "Wspólne reguły"
+},
+"settings_update": {
+"message": "Aktualizuj teraz"
+},
+"settings_use_shortcut_key": {
+"message": "Za pomocą klawisza skrótu: Alt + Z"
+},
+"settings_user_rule_desc": {
+"message": "Własne reguły"
+},
+"sort": {
+"message": "Sortować"
+},
+"sort_big_first": {
+"message": "Duży Pierwszy"
+},
+"sort_normal": {
+"message": "Sortuj według miejsca"
+},
+"sort_small_first": {
+"message": "Mały obraz pierwszy"
+},
+"switch_view": {
+"message": "Przełącznik View"
+},
+"update_declaration": {
+"message": "To rozszerzenie odwołuje jakiś kod zzllrr za href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e \u003ca A · ä¹ a\u003e ¾å® ¢ \u003c/a\u003e"
+},
+"update_description": {
+"message": "1 tłumaczenie angielskie \u003cbr /\u003e 2 ustawienia pobierania Chrome TOOLTIPS zaktualizowane"
+},
+"update_title": {
+"message": "Fatkun Batch Pobierz wersję obrazu 1.8.3"
+},
+"width": {
+"message": "Szerokość"
+},
+"width_short": {
+"message": "Minimalna szerokość"
+}
+}

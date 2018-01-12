@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "Bu Sek"
+},
+"ad1_extension_desc": {
+"message": "Düşük fiyat otomatik bulma, İndirim bulma, Alışveriş için fiyat filtresi."
+},
+"ad1_extension_name": {
+"message": "Feng Para Tasarrufu Masterı"
+},
+"advise": {
+"message": "Blog"
+},
+"aimg_tooltip": {
+"message": "İşaretini kaldırmak veya kontrol etmek için Resim'i tıklayın"
+},
+"all_tab": {
+"message": "Tüm Sekmeler"
+},
+"apply": {
+"message": "Uygulamak"
+},
+"chrome_download_settings_url": {
+"message": "İndirmeden önce her dosyanın nereye kaydedileceğini sorun"
+},
+"default_title": {
+"message": "Fatkun Batch Resmi İndir"
+},
+"default_title_desc": {
+"message": "Kısayol Tuşu: Alt + Z"
+},
+"description": {
+"message": "Yararlı ve basit bir resim indirme uzantısıdır. Çözünürlük veya bağlantı ile filtreleyebilirsiniz."
+},
+"do_not_show_again": {
+"message": "Bunu biliyorum, bu diyalogu artık gösterme."
+},
+"donate": {
+"message": "Bağışta bulunmak"
+},
+"export_btn": {
+"message": "İhracat"
+},
+"export_close": {
+"message": "Kapat"
+},
+"export_format": {
+"message": "biçim"
+},
+"export_format_tips": {
+"message": "Şu değişkenleri kullanabilirsiniz: {NO}, sıra numarası anlamını taşır ï¼\u003e {LINK}, resim linkini ifade eder"
+},
+"export_link": {
+"message": "Bağlantıyı dışa aktarma"
+},
+"filter_link": {
+"message": "Bağlantıya göre filtrele"
+},
+"five_stars": {
+"message": "5 yıldız oranı"
+},
+"height": {
+"message": "Yükseklik"
+},
+"height_short": {
+"message": "Min Boy"
+},
+"inverse": {
+"message": "Değiştir / değiştir"
+},
+"min_display": {
+"message": "Max Side"
+},
+"more_options": {
+"message": "Daha fazla seçenek"
+},
+"not_rename": {
+"message": "Yeniden adlandırmazsın"
+},
+"open_multiple_page": {
+"message": "Birden çok sayfayı açar mısınız?"
+},
+"open_multiple_page_action": {
+"message": "Sayfayı aç"
+},
+"open_multiple_page_tips": {
+"message": "Çok satırlı URL'lere ve joker karaktere izin ver. "
+},
+"popup_tips": {
+"message": "Kısa Tuş: Alt + Z"
+},
+"process_end": {
+"message": "Görüntüler"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "Görüntü çözünürlüğü"
+},
+"rename_by_this_format": {
+"message": "Üzerine dayalı yeniden adlandırma"
+},
+"rename_tips": {
+"message": "Bu değişkenleri kullanabilirsiniz: {NO}, sıra numarası anlamını taşır ¼\u003e {EXT}, genişletilmiş adı ifade eder"
+},
+"right_click_to_open": {
+"message": "(Ayarları açmak ve denetlemek için sağ tıklayın)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Kayıt etmek"
+},
+"save_image": {
+"message": "Resmi Kaydet"
+},
+"save_tips": {
+"message": "\"Chrome Yükleme Ayarları\" bölümündeki \"indirmeden önce her dosyayı nereye kaydedeceğinizi sorun\" seçeneğini belirleyin. Aksi halde, pek çok onay iletişimi akın eder."
+},
+"save_tips_cancel": {
+"message": "İptal etmek"
+},
+"save_tips_do_not_check": {
+"message": "SEÇMEYİN"
+},
+"save_tips_done": {
+"message": "Resmi Kaydet"
+},
+"save_tips_open_setting": {
+"message": "Ayarlar Sayfasını Aç"
+},
+"settings": {
+"message": "Ayarlar"
+},
+"settings_add_rules": {
+"message": "Kural ekle"
+},
+"settings_already_save": {
+"message": "Ayar kaydedildi."
+},
+"settings_collect_one_page": {
+"message": "Sayfaya toplayın"
+},
+"settings_download": {
+"message": "Chrome İndirme Ayarları"
+},
+"settings_import_rules": {
+"message": "İçe aktarma kuralları"
+},
+"settings_min_display": {
+"message": "Varsayılan min çözünürlük"
+},
+"settings_rule_delete": {
+"message": "Sil"
+},
+"settings_rule_example": {
+"message": "Kural örneği"
+},
+"settings_rule_example_title2": {
+"message": "Kural desteği Düzenli İfade"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "Kural resmi url deseni"
+},
+"settings_rule_last_update_time": {
+"message": "Son Güncelleme:"
+},
+"settings_rule_last_update_time_none": {
+"message": "Yok"
+},
+"settings_rule_name": {
+"message": "Kural Adı"
+},
+"settings_rule_test": {
+"message": "Test"
+},
+"settings_rule_url_replace_code": {
+"message": "Resim URL'si kodu değiştir"
+},
+"settings_rules_empty": {
+"message": "Boş"
+},
+"settings_save_folder": {
+"message": "Klasör adını kaydet (Ctrl + S için)"
+},
+"settings_save_use_fixed_name": {
+"message": "Sabit isim kullan"
+},
+"settings_save_use_title": {
+"message": "Web sitesi başlığını kullan"
+},
+"settings_show_website": {
+"message": "Bağlantıyı göster"
+},
+"settings_simple": {
+"message": "Normal Ayarlar"
+},
+"settings_special_support": {
+"message": "Özel destek"
+},
+"settings_special_support_desc": {
+"message": "Ortak Kuralı"
+},
+"settings_update": {
+"message": "Şimdi güncelle"
+},
+"settings_use_shortcut_key": {
+"message": "Kısa Tuş kullan: Alt + Z"
+},
+"settings_user_rule_desc": {
+"message": "Özel kurallar"
+},
+"sort": {
+"message": "Sırala"
+},
+"sort_big_first": {
+"message": "Önce büyük resim"
+},
+"sort_normal": {
+"message": "Siteye göre sırala"
+},
+"sort_small_first": {
+"message": "Önce küçük resim"
+},
+"switch_view": {
+"message": "Geçiş Görünümü"
+},
+"update_declaration": {
+"message": "Bu uzantı, zzllrr'nin \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e å ° ä¹ å\u003e ¾å® ¢ \u003c/a\u003e koduna referans verdi"
+},
+"update_description": {
+"message": "\u003cbr /\u003e 2 Chrome yükleme ayarları araç ipuçları güncellendi"
+},
+"update_title": {
+"message": "Fatkun Toplu İş Yükleme Görüntüsü sürümü 1.8.3"
+},
+"width": {
+"message": "Genişlik"
+},
+"width_short": {
+"message": "Minimum Genişlik"
+}
+}

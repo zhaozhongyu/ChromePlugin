@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "гэтая ўкладка"
+},
+"ad1_extension_desc": {
+"message": "Больш нізкая цана аўтаматычна шукальнік, зніжка шукальнік, Кошт Фільтр для пакупак."
+},
+"ad1_extension_name": {
+"message": "Фэн Грошы Захаванне Master"
+},
+"advise": {
+"message": "блог"
+},
+"aimg_tooltip": {
+"message": "Націсніце на малюнак, каб зняць або праверыць"
+},
+"all_tab": {
+"message": "усе вакенцы"
+},
+"apply": {
+"message": "ўжываць"
+},
+"chrome_download_settings_url": {
+"message": "Спытаеце, дзе для захавання кожнага файла перад загрузкай"
+},
+"default_title": {
+"message": "Fatkun Пакетная Загрузіць малюнак"
+},
+"default_title_desc": {
+"message": "ShortKey: Alt + Z"
+},
+"description": {
+"message": "Карысная і простая загрузка малюнкаў extension.You можна фільтраваць па рэзалюцыі або спасылкі."
+},
+"do_not_show_again": {
+"message": "Я ведаю, што, не паказваць гэты дыялог больш."
+},
+"donate": {
+"message": "ахвяраваць"
+},
+"export_btn": {
+"message": "экспарт"
+},
+"export_close": {
+"message": "блізка"
+},
+"export_format": {
+"message": "фармат"
+},
+"export_format_tips": {
+"message": "Вы можаце выкарыстоўваць гэтыя зменныя: {NO} азначае паслядоўнасць numberï¼\u003e {LINK} азначае спасылку на малюнак"
+},
+"export_link": {
+"message": "экспарт спасылка"
+},
+"filter_link": {
+"message": "Фільтр па спасылцы"
+},
+"five_stars": {
+"message": "Хуткасць 5 зорак"
+},
+"height": {
+"message": "вышыня"
+},
+"height_short": {
+"message": "мінімальная вышыня"
+},
+"inverse": {
+"message": "тумблер"
+},
+"min_display": {
+"message": "Max Side"
+},
+"more_options": {
+"message": "дадатковыя параметры"
+},
+"not_rename": {
+"message": "ня перайменаваць"
+},
+"open_multiple_page": {
+"message": "Адкрыць шматстаронкавы?"
+},
+"open_multiple_page_action": {
+"message": "адкрыць старонку"
+},
+"open_multiple_page_tips": {
+"message": "Дазволіць мульты-радкоў URLы і сімвал падстаноўкі. "
+},
+"popup_tips": {
+"message": "Short Key: Alt + Z"
+},
+"process_end": {
+"message": "малюнкаў"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "малюнак атрымліваць дазвол"
+},
+"rename_by_this_format": {
+"message": "Перайменаваць на аснове"
+},
+"rename_tips": {
+"message": "Вы можаце выкарыстоўваць гэтыя зменныя: {NO} азначае паслядоўнасць numberï¼\u003e {EXT} азначае пашыранае імя"
+},
+"right_click_to_open": {
+"message": "(Пстрыкніце правай кнопкай мышы, каб адкрыць і праверыць налады)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "захаваць"
+},
+"save_image": {
+"message": "Захаваць малюнак"
+},
+"save_tips": {
+"message": "\"Спытайце, дзе для захавання кожнага файла перад загрузкай\" варыянт у Chrome Downlods Setting.Otherwise, шмат шмат дыялогавых вокнаў пацверджання паствы."
+},
+"save_tips_cancel": {
+"message": "адмяніць"
+},
+"save_tips_do_not_check": {
+"message": "НЕ ВЫБРАЦЬ"
+},
+"save_tips_done": {
+"message": "Захаваць малюнак"
+},
+"save_tips_open_setting": {
+"message": "Адкрыйце старонку Налады"
+},
+"settings": {
+"message": "налады"
+},
+"settings_add_rules": {
+"message": "даданне правілаў"
+},
+"settings_already_save": {
+"message": "Налады захаваны."
+},
+"settings_collect_one_page": {
+"message": "Сабраць, каб на старонцы"
+},
+"settings_download": {
+"message": "Chrome Спампаваць Настройка"
+},
+"settings_import_rules": {
+"message": "правілы імпарту"
+},
+"settings_min_display": {
+"message": "Па змаўчанні дазвол мін"
+},
+"settings_rule_delete": {
+"message": "выдаляць"
+},
+"settings_rule_example": {
+"message": "правіла прыклад"
+},
+"settings_rule_example_title2": {
+"message": "Падтрымка рэгулярных выразаў Правіла"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "Правіла выява шаблону URL"
+},
+"settings_rule_last_update_time": {
+"message": "Апошняе абнаўленне:"
+},
+"settings_rule_last_update_time_none": {
+"message": "ні адзін"
+},
+"settings_rule_name": {
+"message": "Імя правілы"
+},
+"settings_rule_test": {
+"message": "тэст"
+},
+"settings_rule_url_replace_code": {
+"message": "Image URL замяніць код"
+},
+"settings_rules_empty": {
+"message": "пусты"
+},
+"settings_save_folder": {
+"message": "захаваць назву тэчкі (для Ctrl + S)"
+},
+"settings_save_use_fixed_name": {
+"message": "выкарыстоўваць фіксаванае імя"
+},
+"settings_save_use_title": {
+"message": "Назва выкарыстання сайта"
+},
+"settings_show_website": {
+"message": "паказаць спасылку"
+},
+"settings_simple": {
+"message": "нармальныя Налады"
+},
+"settings_special_support": {
+"message": "спецыяльная падтрымка"
+},
+"settings_special_support_desc": {
+"message": "агульныя правілы"
+},
+"settings_update": {
+"message": "Абнавіць зараз"
+},
+"settings_use_shortcut_key": {
+"message": "Выкарыстоўвайце Кароткачасовае націск: Alt + Z"
+},
+"settings_user_rule_desc": {
+"message": "прыстасаваныя правілы"
+},
+"sort": {
+"message": "сартаваць"
+},
+"sort_big_first": {
+"message": "Вялікае выява першага"
+},
+"sort_normal": {
+"message": "Сартаванне па сайту"
+},
+"sort_small_first": {
+"message": "малюнак першага"
+},
+"switch_view": {
+"message": "пераключыць выгляд"
+},
+"update_declaration": {
+"message": "Гэта пашырэнне спасылаецца некаторы код \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e å zzllrr ў ° ä¹ å\u003e ¾å® ¢ \u003c/a\u003e"
+},
+"update_description": {
+"message": "1 \u003cbr /\u003e 2 Chrome Параметры загрузкі англійская пераклад усплываючых падказак абнаўляюцца"
+},
+"update_title": {
+"message": "Fatkun Пакетная Загрузіць малюнак версія 1.8.3"
+},
+"width": {
+"message": "шырыня"
+},
+"width_short": {
+"message": "мінімальная шырыня"
+}
+}

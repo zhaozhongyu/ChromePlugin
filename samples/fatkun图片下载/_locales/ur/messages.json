@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "اس ٹیب"
+},
+"ad1_extension_desc": {
+"message": "کم قیمت خود بخود فائنڈر، ڈسکاؤنٹ فائنڈر، خریداری کے لئے قیمت فلٹر."
+},
+"ad1_extension_name": {
+"message": "فینگ پیسہ بچانے ماسٹر"
+},
+"advise": {
+"message": "کے بلاگ"
+},
+"aimg_tooltip": {
+"message": "نشان ہٹا دیں یا جانچ کرنا تصویر پر کلک کریں"
+},
+"all_tab": {
+"message": "تمام ٹیبز"
+},
+"apply": {
+"message": "کا اطلاق کریں"
+},
+"chrome_download_settings_url": {
+"message": "ڈاؤن لوڈ کرنے سے پہلے ہر فائل کو بچانے کے لئے جہاں سے پوچھو"
+},
+"default_title": {
+"message": "Fatkun بیچ ڈاؤن لوڈ، اتارنا تصویر"
+},
+"default_title_desc": {
+"message": "ShortKey: آلٹ + Z"
+},
+"description": {
+"message": "ایک مفید اور آسان تصویر ڈاؤن extension.You قرارداد یا لنک کی طرف سے فلٹر کر سکتے ہیں."
+},
+"do_not_show_again": {
+"message": "مجھے پتہ ہے، کسی بھی زیادہ اس ڈائلاگ نہیں دکھائیں."
+},
+"donate": {
+"message": "عطیہ"
+},
+"export_btn": {
+"message": "برامد"
+},
+"export_close": {
+"message": "بند کریں"
+},
+"export_format": {
+"message": "شکل"
+},
+"export_format_tips": {
+"message": "تم ان متغیرات استعمال کر سکتے ہیں: {NO} کا مطلب تسلسل numberï¼\u003e {LINK} تصویری لنک کا مطلب"
+},
+"export_link": {
+"message": "ایکسپورٹ لنک"
+},
+"filter_link": {
+"message": "لنک کی طرف سے فلٹر کریں"
+},
+"five_stars": {
+"message": "5 ستارے کی شرح"
+},
+"height": {
+"message": "اونچائی"
+},
+"height_short": {
+"message": "کم از کم اونچائی"
+},
+"inverse": {
+"message": "ٹوگل"
+},
+"min_display": {
+"message": "میکس سائیڈ"
+},
+"more_options": {
+"message": "مزید زرائے"
+},
+"not_rename": {
+"message": "نام تبدیل نہیں"
+},
+"open_multiple_page": {
+"message": "کھولیں کثیر پیج؟"
+},
+"open_multiple_page_action": {
+"message": "اوپن صفحہ"
+},
+"open_multiple_page_tips": {
+"message": "کثیر قطاروں URLs اور وائلڈ کارڈ کے کردار کی اجازت دیں. "
+},
+"popup_tips": {
+"message": "مختصر کلیدی: آلٹ + Z"
+},
+"process_end": {
+"message": "تصاویر کی"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "تصویر کی قرارداد ہو رہی ہے"
+},
+"rename_by_this_format": {
+"message": "نام تبدیل کی بنیاد پر"
+},
+"rename_tips": {
+"message": "تم ان متغیرات استعمال کر سکتے ہیں: {NO} کا مطلب تسلسل numberï¼\u003e {ایکسٹینشن} کا مطلب توسیع کے نام"
+},
+"right_click_to_open": {
+"message": "(کھولیں اور ترتیبات کی جانچ کرنے کے لئے دایاں کلک کریں)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "محفوظ کریں"
+},
+"save_image": {
+"message": "تصویر محفوظ کریں"
+},
+"save_tips": {
+"message": "کروم Downlods Setting.Otherwise میں آپشن \"ڈاؤن لوڈ کرنے سے پہلے ہر فائل کو بچانے کے لئے جہاں کا سوال\"، بہت سے بہت سے تصدیق ڈائیلاگ آتے."
+},
+"save_tips_cancel": {
+"message": "منسوخ کریں"
+},
+"save_tips_do_not_check": {
+"message": "منتخب نہ کریں"
+},
+"save_tips_done": {
+"message": "تصویر محفوظ کریں"
+},
+"save_tips_open_setting": {
+"message": "کھولیں ترتیبات کا صفحہ"
+},
+"settings": {
+"message": "ترتیبات"
+},
+"settings_add_rules": {
+"message": "قواعد شامل کریں"
+},
+"settings_already_save": {
+"message": "ترتیب محفوظ."
+},
+"settings_collect_one_page": {
+"message": "صفحہ پر کرنے کو جمع"
+},
+"settings_download": {
+"message": "کروم ڈاؤن لوڈ کی سیٹنگ"
+},
+"settings_import_rules": {
+"message": "درآمد کے قوانین"
+},
+"settings_min_display": {
+"message": "پہلے سے طے شدہ منٹ قرارداد"
+},
+"settings_rule_delete": {
+"message": "حذف کریں"
+},
+"settings_rule_example": {
+"message": "مثال راج"
+},
+"settings_rule_example_title2": {
+"message": "قاعدہ حمایت باقاعدہ اظہار"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "قاعدہ تصویر کا URL پیٹرن"
+},
+"settings_rule_last_update_time": {
+"message": "آخری اپ ڈیٹ:"
+},
+"settings_rule_last_update_time_none": {
+"message": "کوئی بھی نہیں"
+},
+"settings_rule_name": {
+"message": "اصول کا نام"
+},
+"settings_rule_test": {
+"message": "ٹیسٹ"
+},
+"settings_rule_url_replace_code": {
+"message": "تصویر کا URL کوڈ کی جگہ لے لے"
+},
+"settings_rules_empty": {
+"message": "خالی"
+},
+"settings_save_folder": {
+"message": "فولڈر کا نام کو بچانے کے (لئے Ctrl + S کے لئے)"
+},
+"settings_save_use_fixed_name": {
+"message": "مقررہ نام استعمال"
+},
+"settings_save_use_title": {
+"message": "استعمال کی ویب سائٹ کا عنوان"
+},
+"settings_show_website": {
+"message": "لنک دکھائیں"
+},
+"settings_simple": {
+"message": "عمومی ترتیبات"
+},
+"settings_special_support": {
+"message": "سپیشل سپورٹ"
+},
+"settings_special_support_desc": {
+"message": "کامن اصول"
+},
+"settings_update": {
+"message": "تازہ ترین کریں. جدید بنایں"
+},
+"settings_use_shortcut_key": {
+"message": "مختصر کلید کا استعمال کریں: آلٹ + Z"
+},
+"settings_user_rule_desc": {
+"message": "اپنی مرضی کے قوانین"
+},
+"sort": {
+"message": "چھانٹیں"
+},
+"sort_big_first": {
+"message": "بڑی تصویر پہلی"
+},
+"sort_normal": {
+"message": "سائٹ کی طرف سے ترتیب دیں"
+},
+"sort_small_first": {
+"message": "چھوٹے تصویر پہلے"
+},
+"switch_view": {
+"message": "لنک جوڑئیے"
+},
+"update_declaration": {
+"message": "یہ توسیع ä¹ ایک\u003e ¾å® ¢ لئے ° zzllrr کی \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk؟hl=zh_cn\"\u003e اے کی کچھ کوڈ محولہ"
+},
+"update_description": {
+"message": "1 انگریزی ترجمہ \u003cbr /\u003e 2 کروم ڈاؤن لوڈ ترتیبات اپ ڈیٹ tooltips کے"
+},
+"update_title": {
+"message": "Fatkun بیچ ڈاؤن لوڈ، اتارنا تصویر ورژن 1.8.3"
+},
+"width": {
+"message": "چوڑائی"
+},
+"width_short": {
+"message": "کم از کم چوڑائی"
+}
+}

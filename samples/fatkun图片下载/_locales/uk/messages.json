@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "ця вкладка"
+},
+"ad1_extension_desc": {
+"message": "Нижча ціна автоматично шукач, знижка шукач, Ціна Фільтр для покупок."
+},
+"ad1_extension_name": {
+"message": "Фен Гроші Збереження Master"
+},
+"advise": {
+"message": "блог"
+},
+"aimg_tooltip": {
+"message": "Натисніть на зображення, щоб зняти або перевірити"
+},
+"all_tab": {
+"message": "всі вкладки"
+},
+"apply": {
+"message": "застосовувати"
+},
+"chrome_download_settings_url": {
+"message": "Запитайте, де зберігати кожен файл перед завантаженням"
+},
+"default_title": {
+"message": "Fatkun Пакетна Завантажити зображення"
+},
+"default_title_desc": {
+"message": "ShortKey: Alt + Z"
+},
+"description": {
+"message": "Корисна і просте завантаження зображень extension.You можна фільтрувати по резолюції або посилання."
+},
+"do_not_show_again": {
+"message": "Я знаю, що, не показувати цей діалог більше."
+},
+"donate": {
+"message": "жертвувати"
+},
+"export_btn": {
+"message": "експорт"
+},
+"export_close": {
+"message": "близько"
+},
+"export_format": {
+"message": "формат"
+},
+"export_format_tips": {
+"message": "Ви можете використовувати ці змінні: {NO} означає послідовність numberï¼\u003e {LINK} означає посилання на зображення"
+},
+"export_link": {
+"message": "експорт посилання"
+},
+"filter_link": {
+"message": "Фільтр по посиланню"
+},
+"five_stars": {
+"message": "Швидкість 5 зірок"
+},
+"height": {
+"message": "висота"
+},
+"height_short": {
+"message": "мінімальна висота"
+},
+"inverse": {
+"message": "тумблер"
+},
+"min_display": {
+"message": "Max Side"
+},
+"more_options": {
+"message": "Більше варіантів"
+},
+"not_rename": {
+"message": "Чи не перейменувати"
+},
+"open_multiple_page": {
+"message": "Відкрити багатосторінковий?"
+},
+"open_multiple_page_action": {
+"message": "відкрити сторінку"
+},
+"open_multiple_page_tips": {
+"message": "Дозволити мульти-рядків URLи і символ підстановки. "
+},
+"popup_tips": {
+"message": "Short Key: Alt + Z"
+},
+"process_end": {
+"message": "зображень"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "зображення отримувати дозвіл"
+},
+"rename_by_this_format": {
+"message": "Перейменувати на основі"
+},
+"rename_tips": {
+"message": "Ви можете використовувати ці змінні: {NO} означає послідовність numberï¼\u003e {EXT} означає розширене ім'я"
+},
+"right_click_to_open": {
+"message": "(Клацніть правою кнопкою миші, щоб відкрити і перевірити настройки)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "зберегти"
+},
+"save_image": {
+"message": "Зберегти зображення"
+},
+"save_tips": {
+"message": "\"Запитайте, де зберігати кожен файл перед завантаженням\" варіант в Chrome Downlods Setting.Otherwise, багато багато діалогових вікон підтвердження пастви."
+},
+"save_tips_cancel": {
+"message": "скасувати"
+},
+"save_tips_do_not_check": {
+"message": "НЕ ВИБРАТИ"
+},
+"save_tips_done": {
+"message": "Зберегти зображення"
+},
+"save_tips_open_setting": {
+"message": "Відкрийте сторінку Налаштування"
+},
+"settings": {
+"message": "настройки"
+},
+"settings_add_rules": {
+"message": "Додавання правил"
+},
+"settings_already_save": {
+"message": "Налаштування збережені."
+},
+"settings_collect_one_page": {
+"message": "Зібрати, щоб на сторінці"
+},
+"settings_download": {
+"message": "Chrome Завантаження Налаштування"
+},
+"settings_import_rules": {
+"message": "правила імпорту"
+},
+"settings_min_display": {
+"message": "За замовчуванням дозвіл хв"
+},
+"settings_rule_delete": {
+"message": "видаляти"
+},
+"settings_rule_example": {
+"message": "правило приклад"
+},
+"settings_rule_example_title2": {
+"message": "Підтримка регулярних виразів Правило"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "Правило зображення шаблону URL"
+},
+"settings_rule_last_update_time": {
+"message": "Останнє оновлення:"
+},
+"settings_rule_last_update_time_none": {
+"message": "жоден"
+},
+"settings_rule_name": {
+"message": "ім'я правила"
+},
+"settings_rule_test": {
+"message": "тест"
+},
+"settings_rule_url_replace_code": {
+"message": "Image URL замінити код"
+},
+"settings_rules_empty": {
+"message": "порожній"
+},
+"settings_save_folder": {
+"message": "зберегти назву папки (для Ctrl + S)"
+},
+"settings_save_use_fixed_name": {
+"message": "використовувати фіксоване ім'я"
+},
+"settings_save_use_title": {
+"message": "Назва використання сайту"
+},
+"settings_show_website": {
+"message": "Показати посилання"
+},
+"settings_simple": {
+"message": "нормальні Налаштування"
+},
+"settings_special_support": {
+"message": "спеціальна підтримка"
+},
+"settings_special_support_desc": {
+"message": "загальні правила"
+},
+"settings_update": {
+"message": "Оновити зараз"
+},
+"settings_use_shortcut_key": {
+"message": "Використовуйте Короткочасне натискання: Alt + Z"
+},
+"settings_user_rule_desc": {
+"message": "призначені для користувача правила"
+},
+"sort": {
+"message": "сортувати"
+},
+"sort_big_first": {
+"message": "Велике зображення першого"
+},
+"sort_normal": {
+"message": "Сортування по сайту"
+},
+"sort_small_first": {
+"message": "зображення першого"
+},
+"switch_view": {
+"message": "переключити вид"
+},
+"update_declaration": {
+"message": "Це розширення посилається деякий код \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e å zzllrr в ° ä¹ å\u003e ¾å® ¢ \u003c/a\u003e"
+},
+"update_description": {
+"message": "1 \u003cbr /\u003e 2 Chrome Уст англійський переклад спливаючих підказок оновлюються"
+},
+"update_title": {
+"message": "Fatkun Пакетна Завантажити зображення версія 1.8.3"
+},
+"width": {
+"message": "ширина"
+},
+"width_short": {
+"message": "мінімальна ширина"
+}
+}

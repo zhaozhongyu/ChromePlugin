@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "este Tab"
+},
+"ad1_extension_desc": {
+"message": "Menor prezo automaticamente find, Discount find, filtro Prezo de compra."
+},
+"ad1_extension_name": {
+"message": "Feng Money Saving Mestre"
+},
+"advise": {
+"message": "blogue"
+},
+"aimg_tooltip": {
+"message": "Clic para desmarcar ou marcar"
+},
+"all_tab": {
+"message": "Todo Tabs"
+},
+"apply": {
+"message": "aplicar"
+},
+"chrome_download_settings_url": {
+"message": "Preguntar onde gardar cada ficheiro antes de descargar"
+},
+"default_title": {
+"message": "Batch Fatkun Descargar Imaxe"
+},
+"default_title_desc": {
+"message": "Shortkey: Alt + Z"
+},
+"description": {
+"message": "Unha descarga de imaxe útil e sinxela extension.You pode filtrar por resolución ou ligazón."
+},
+"do_not_show_again": {
+"message": "Sei que non mostrar este diálogo máis."
+},
+"donate": {
+"message": "doar"
+},
+"export_btn": {
+"message": "exportación"
+},
+"export_close": {
+"message": "preto"
+},
+"export_format": {
+"message": "formato"
+},
+"export_format_tips": {
+"message": "Podes utilizar estas variables: {NO} significa secuencia numberï¼\u003e {LINK} significa ligazón da imaxe"
+},
+"export_link": {
+"message": "ligazón Exportar"
+},
+"filter_link": {
+"message": "Filtrar por conexión"
+},
+"five_stars": {
+"message": "5 estrellas Clasificación"
+},
+"height": {
+"message": "altura"
+},
+"height_short": {
+"message": "min Altura"
+},
+"inverse": {
+"message": "cambiar"
+},
+"min_display": {
+"message": "Max Side"
+},
+"more_options": {
+"message": "máis opcións"
+},
+"not_rename": {
+"message": "non renomeo"
+},
+"open_multiple_page": {
+"message": "A páxina de multi aberto?"
+},
+"open_multiple_page_action": {
+"message": "páxina aberta"
+},
+"open_multiple_page_tips": {
+"message": "Permitir varios filas URLs e carácter universal. "
+},
+"popup_tips": {
+"message": "Key curta: Alt + Z"
+},
+"process_end": {
+"message": "imaxes"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "imaxe quedando resolución"
+},
+"rename_by_this_format": {
+"message": "Renomear baseado"
+},
+"rename_tips": {
+"message": "Podes utilizar estas variables: {NO} significa secuencia numberï¼\u003e {EXT} significa nome estendida"
+},
+"right_click_to_open": {
+"message": "(Botón dereito do rato para abrir e comprobar a configuración)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "gardar"
+},
+"save_image": {
+"message": "gardar imaxe"
+},
+"save_tips": {
+"message": "\"Preguntar onde gardar cada ficheiro antes da transferencia\" opción en Chrome Downlods Setting.Otherwise, moitos diálogos de confirmación rabaño."
+},
+"save_tips_cancel": {
+"message": "cancelar"
+},
+"save_tips_do_not_check": {
+"message": "non escolla"
+},
+"save_tips_done": {
+"message": "gardar imaxe"
+},
+"save_tips_open_setting": {
+"message": "Abrir páxina Configuración"
+},
+"settings": {
+"message": "configuración"
+},
+"settings_add_rules": {
+"message": "Agregar regras"
+},
+"settings_already_save": {
+"message": "Configuración gardada."
+},
+"settings_collect_one_page": {
+"message": "Toma a na páxina"
+},
+"settings_download": {
+"message": "Chrome descargas Ambiente"
+},
+"settings_import_rules": {
+"message": "normas de importación"
+},
+"settings_min_display": {
+"message": "resolución estándar min"
+},
+"settings_rule_delete": {
+"message": "eliminar"
+},
+"settings_rule_example": {
+"message": "regra exemplo"
+},
+"settings_rule_example_title2": {
+"message": "apoio regra de Expresións Regulares"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "Regra estándar de imaxe url"
+},
+"settings_rule_last_update_time": {
+"message": "Última actualización:"
+},
+"settings_rule_last_update_time_none": {
+"message": "ningún"
+},
+"settings_rule_name": {
+"message": "Nome da regra"
+},
+"settings_rule_test": {
+"message": "proba"
+},
+"settings_rule_url_replace_code": {
+"message": "url imaxe substituír o código"
+},
+"settings_rules_empty": {
+"message": "branco"
+},
+"settings_save_folder": {
+"message": "gardar o nome do cartafol (por Ctrl + S)"
+},
+"settings_save_use_fixed_name": {
+"message": "usar o nome fixa"
+},
+"settings_save_use_title": {
+"message": "Título de uso do sitio web"
+},
+"settings_show_website": {
+"message": "amosar ligazón"
+},
+"settings_simple": {
+"message": "definicións normais"
+},
+"settings_special_support": {
+"message": "apoio especial"
+},
+"settings_special_support_desc": {
+"message": "regra común"
+},
+"settings_update": {
+"message": "actualizar agora"
+},
+"settings_use_shortcut_key": {
+"message": "Use Key curto: Alt + Z"
+},
+"settings_user_rule_desc": {
+"message": "As regras personalizadas"
+},
+"sort": {
+"message": "tipo"
+},
+"sort_big_first": {
+"message": "Imaxe grande primeiro"
+},
+"sort_normal": {
+"message": "Ordenar por local"
+},
+"sort_small_first": {
+"message": "imaxe pequena primeiro"
+},
+"switch_view": {
+"message": "cambiar Vista"
+},
+"update_declaration": {
+"message": "Esta extensión referenciado algún código dun \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e de zzllrr ° ¹ å\u003e ¾å® ¢ \u003c/a\u003e"
+},
+"update_description": {
+"message": "1 tradución inglés \u003cbr /\u003e 2 opcións de descarga de Google Chrome consellos de ferramentas actualizada"
+},
+"update_title": {
+"message": "Fatkun Batch Descargar Imaxe versión 1.8.3"
+},
+"width": {
+"message": "ancho"
+},
+"width_short": {
+"message": "ancho min"
+}
+}

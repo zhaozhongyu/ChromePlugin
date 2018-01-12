@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "ова ливче"
+},
+"ad1_extension_desc": {
+"message": "Пониска цена автоматски Пронаоѓач, Пронаоѓач попуст, цената на филтерот за шопинг."
+},
+"ad1_extension_name": {
+"message": "Фенг заштеда на пари мајстор"
+},
+"advise": {
+"message": "блог"
+},
+"aimg_tooltip": {
+"message": "Кликни на сликата да ја избирате или проверете"
+},
+"all_tab": {
+"message": "сите картички"
+},
+"apply": {
+"message": "применуваат"
+},
+"chrome_download_settings_url": {
+"message": "Прашуваат каде да ги зачувате секоја датотека, пред да преземете"
+},
+"default_title": {
+"message": "Fatkun Batch преземање на слика"
+},
+"default_title_desc": {
+"message": "ShortKey: Alt + Z"
+},
+"description": {
+"message": "Еден корисен и едноставен преземете слика extension.You може да се филтрираат со резолуција или линк."
+},
+"do_not_show_again": {
+"message": "Знам дека тоа не се покаже овој дијалог повеќе."
+},
+"donate": {
+"message": "Донирајте"
+},
+"export_btn": {
+"message": "Извоз"
+},
+"export_close": {
+"message": "Затвори"
+},
+"export_format": {
+"message": "формат"
+},
+"export_format_tips": {
+"message": "Можете да ги користите овие променливи: {} НЕ значи низа numberï¼\u003e {LINK} значи Линк на сликата"
+},
+"export_link": {
+"message": "линк извоз"
+},
+"filter_link": {
+"message": "Филтер по врската"
+},
+"five_stars": {
+"message": "5 ѕвезди стапка"
+},
+"height": {
+"message": "Висина"
+},
+"height_short": {
+"message": "min Висина"
+},
+"inverse": {
+"message": "Вклучи"
+},
+"min_display": {
+"message": "Макс страна"
+},
+"more_options": {
+"message": "повеќе опции"
+},
+"not_rename": {
+"message": "не преименувате"
+},
+"open_multiple_page": {
+"message": "Отвори multi-страница?"
+},
+"open_multiple_page_action": {
+"message": "отворена страница"
+},
+"open_multiple_page_tips": {
+"message": "Овозможи мулти-редови адреси и маска карактер. "
+},
+"popup_tips": {
+"message": "Кратки клучни: Alt + Z"
+},
+"process_end": {
+"message": "слики"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "слика добивање резолуција"
+},
+"rename_by_this_format": {
+"message": "Преименувај врз основа на"
+},
+"rename_tips": {
+"message": "Можете да ги користите овие променливи: {} НЕ значи низа numberï¼\u003e {EXT} значи подолг име"
+},
+"right_click_to_open": {
+"message": "(Десен-клик да се отвори и да се провери поставувања)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Зачувај"
+},
+"save_image": {
+"message": "Зачувај ја сликата"
+},
+"save_tips": {
+"message": "\"Прашајте каде да го зачувате секоја датотека, пред да преземете\" опција во Хром Downlods Setting.Otherwise, многу, многу дијалози потврда стадото."
+},
+"save_tips_cancel": {
+"message": "Откажи"
+},
+"save_tips_do_not_check": {
+"message": "Не избирајте"
+},
+"save_tips_done": {
+"message": "Зачувај ја сликата"
+},
+"save_tips_open_setting": {
+"message": "Отвори Settings страница"
+},
+"settings": {
+"message": "Подесувања"
+},
+"settings_add_rules": {
+"message": "Додај правила"
+},
+"settings_already_save": {
+"message": "Поставката е спасен."
+},
+"settings_collect_one_page": {
+"message": "Се соберат за да на страница"
+},
+"settings_download": {
+"message": "Хром даунлоади Прилагодувањето"
+},
+"settings_import_rules": {
+"message": "правилата за увоз"
+},
+"settings_min_display": {
+"message": "Стандардно резолуција мин"
+},
+"settings_rule_delete": {
+"message": "Избриши"
+},
+"settings_rule_example": {
+"message": "правило пример"
+},
+"settings_rule_example_title2": {
+"message": "Правило поддршка на регуларни изразиОна"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "Правило шема на УРЛ на сликата"
+},
+"settings_rule_last_update_time": {
+"message": "Последно ажурирање:"
+},
+"settings_rule_last_update_time_none": {
+"message": "Никој"
+},
+"settings_rule_name": {
+"message": "правило Име"
+},
+"settings_rule_test": {
+"message": "тест"
+},
+"settings_rule_url_replace_code": {
+"message": "URL-то на сликата замени код"
+},
+"settings_rules_empty": {
+"message": "Испразни"
+},
+"settings_save_folder": {
+"message": "спаси папка име (на Ctrl + S)"
+},
+"settings_save_use_fixed_name": {
+"message": "користи фиксни името"
+},
+"settings_save_use_title": {
+"message": "Наслов на веб страната употреба"
+},
+"settings_show_website": {
+"message": "Прикажи линк"
+},
+"settings_simple": {
+"message": "нормално Settings"
+},
+"settings_special_support": {
+"message": "посебна поддршка"
+},
+"settings_special_support_desc": {
+"message": "општо правило"
+},
+"settings_update": {
+"message": "Ажурирање сега"
+},
+"settings_use_shortcut_key": {
+"message": "Користете кратки клучни: Alt + Z"
+},
+"settings_user_rule_desc": {
+"message": "правила сопствени"
+},
+"sort": {
+"message": "вид"
+},
+"sort_big_first": {
+"message": "Голема слика од прва"
+},
+"sort_normal": {
+"message": "Подреди по страница"
+},
+"sort_small_first": {
+"message": "Мали слика од прва"
+},
+"switch_view": {
+"message": "Switch View"
+},
+"update_declaration": {
+"message": "Оваа екстензија референцирани некои кодот на \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e å zzllrr е ° ЈИ ╧ a\u003e ¾å® ¢ \u003c/a\u003e"
+},
+"update_description": {
+"message": "1 Англиски превод \u003cbr /\u003e 2 симнување поставки Хром советите ажурирани"
+},
+"update_title": {
+"message": "Fatkun Batch преземање на слика за верзија 1.8.3"
+},
+"width": {
+"message": "ширина"
+},
+"width_short": {
+"message": "мин Ширина"
+}
+}

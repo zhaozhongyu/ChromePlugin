@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "این برگه"
+},
+"ad1_extension_desc": {
+"message": "قیمت پایین تر به طور خودکار یاب، یاب تخفیف، فیلتر هزینه برای خرید."
+},
+"ad1_extension_name": {
+"message": "استاد فنگ صرفه جویی در پول"
+},
+"advise": {
+"message": "وبلاگ"
+},
+"aimg_tooltip": {
+"message": "روی عکس کلیک کنید برای برداشتن علامت و یا چک"
+},
+"all_tab": {
+"message": "همه برگه ها"
+},
+"apply": {
+"message": "درخواست"
+},
+"chrome_download_settings_url": {
+"message": "بخواهید که در آن ذخیره هر فایل قبل از دانلود"
+},
+"default_title": {
+"message": "دسته Fatkun دانلود عکس"
+},
+"default_title_desc": {
+"message": "ShortKey: Alt + Z را"
+},
+"description": {
+"message": "یک دانلود مفید و ساده تصویر extension.You می توانید با وضوح و یا لینک فیلتر کنید."
+},
+"do_not_show_again": {
+"message": "من می دانم آن، این گفت و گو را نشان نمی دهد هر بیشتر."
+},
+"donate": {
+"message": "اهدا"
+},
+"export_btn": {
+"message": "صادرات"
+},
+"export_close": {
+"message": "نزدیک"
+},
+"export_format": {
+"message": "قالب"
+},
+"export_format_tips": {
+"message": "شما می توانید این متغیرها استفاده کنید: {NO} به معنای دنباله numberï¼\u003e {} LINK معنی لینک تصویر"
+},
+"export_link": {
+"message": "لینک صادرات"
+},
+"filter_link": {
+"message": "فیلتر بر اساس لینک"
+},
+"five_stars": {
+"message": "نرخ 5 ستاره"
+},
+"height": {
+"message": "ارتفاع"
+},
+"height_short": {
+"message": "حداقل ارتفاع"
+},
+"inverse": {
+"message": "تغییر وضعیت"
+},
+"min_display": {
+"message": "حداکثر جانبی"
+},
+"more_options": {
+"message": "گزینه های بیشتر"
+},
+"not_rename": {
+"message": "تغییر نام نیست"
+},
+"open_multiple_page": {
+"message": "باز کردن صفحه چند؟"
+},
+"open_multiple_page_action": {
+"message": "باز کردن صفحه"
+},
+"open_multiple_page_tips": {
+"message": "اجازه می دهد چند ردیف آدرس ها و شخصیت کلمات. "
+},
+"popup_tips": {
+"message": "کلید کوتاه: Alt + Z را"
+},
+"process_end": {
+"message": "تصاویر"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "تصویر گرفتن قطعنامه"
+},
+"rename_by_this_format": {
+"message": "تغییر نام بر اساس"
+},
+"rename_tips": {
+"message": "شما می توانید این متغیرها استفاده کنید: {NO} به معنای دنباله numberï¼\u003e {} EXT معنی نام شده"
+},
+"right_click_to_open": {
+"message": "(کلیک راست کنید برای باز کردن و تنظیمات را چک کنید)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "صرفه جویی"
+},
+"save_image": {
+"message": "ذخیره تصویر"
+},
+"save_tips": {
+"message": "\"بخواهید که در آن ذخیره هر فایل قبل از دانلود\" گزینه در کروم ما دانلود Setting.Otherwise، بسیاری از بسیاری تبادل تایید گله."
+},
+"save_tips_cancel": {
+"message": "لغو کردن"
+},
+"save_tips_do_not_check": {
+"message": "نه را انتخاب کنید"
+},
+"save_tips_done": {
+"message": "ذخیره تصویر"
+},
+"save_tips_open_setting": {
+"message": "باز کردن تنظیمات صفحه"
+},
+"settings": {
+"message": "تنظیمات"
+},
+"settings_add_rules": {
+"message": "اضافه کردن قوانین"
+},
+"settings_already_save": {
+"message": "تنظیمات ذخیره شد."
+},
+"settings_collect_one_page": {
+"message": "جمع آوری در صفحه"
+},
+"settings_download": {
+"message": "کروم دانلود تنظیم"
+},
+"settings_import_rules": {
+"message": "قوانین واردات"
+},
+"settings_min_display": {
+"message": "وضوح دقیقه پیش فرض"
+},
+"settings_rule_delete": {
+"message": "حذف"
+},
+"settings_rule_example": {
+"message": "حکومت به عنوان مثال"
+},
+"settings_rule_example_title2": {
+"message": "حمایت قانون عبارت منظم"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "قانون الگوی URL تصویر"
+},
+"settings_rule_last_update_time": {
+"message": "اخرین بروزرسانی:"
+},
+"settings_rule_last_update_time_none": {
+"message": "هیچ"
+},
+"settings_rule_name": {
+"message": "نام قانون"
+},
+"settings_rule_test": {
+"message": "تست"
+},
+"settings_rule_url_replace_code": {
+"message": "آدرس عکس را جایگزین کد"
+},
+"settings_rules_empty": {
+"message": "خالی"
+},
+"settings_save_folder": {
+"message": "صرفه جویی در نام پوشه (برای کلیدهای Ctrl + S)"
+},
+"settings_save_use_fixed_name": {
+"message": "استفاده از نام و نام ثابت"
+},
+"settings_save_use_title": {
+"message": "عنوان وب سایت استفاده"
+},
+"settings_show_website": {
+"message": "نمایش لینک"
+},
+"settings_simple": {
+"message": "تنظیمات عادی"
+},
+"settings_special_support": {
+"message": "حمایت ویژه"
+},
+"settings_special_support_desc": {
+"message": "قانون مشترک"
+},
+"settings_update": {
+"message": "به روز رسانی در حال حاضر"
+},
+"settings_use_shortcut_key": {
+"message": "استفاده از کلید کوتاه: Alt + Z را"
+},
+"settings_user_rule_desc": {
+"message": "قوانین سفارشی"
+},
+"sort": {
+"message": "مرتب سازی"
+},
+"sort_big_first": {
+"message": "تصویر بزرگ برای اولین بار"
+},
+"sort_normal": {
+"message": "مرتب سازی بر اساس سایت"
+},
+"sort_small_first": {
+"message": "تصویر کوچک برای اولین بار"
+},
+"switch_view": {
+"message": "تغییر مشخصات"
+},
+"update_declaration": {
+"message": "این فرمت اشاره برخی از کد یک \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk؟hl=zh_cn\"\u003e zzllrr را درجه سانتی ä¹ å\u003e ¾å® ¢ \u003c/a\u003e را"
+},
+"update_description": {
+"message": "1 ترجمه انگلیسی \u003cbr /\u003e 2 تنظیمات Chrome دانلود راهنمای ابزار به روز"
+},
+"update_title": {
+"message": "Fatkun دسته ای دانلود عکس نسخه 1.8.3"
+},
+"width": {
+"message": "عرض"
+},
+"width_short": {
+"message": "حداقل عرض"
+}
+}

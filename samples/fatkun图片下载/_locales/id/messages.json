@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "Tab ini"
+},
+"ad1_extension_desc": {
+"message": "Harga yang lebih rendah secara otomatis finder, Diskon finder, penyaring Harga untuk Belanja."
+},
+"ad1_extension_name": {
+"message": "Guru Menyimpan Uang Feng"
+},
+"advise": {
+"message": "blog"
+},
+"aimg_tooltip": {
+"message": "Klik Image untuk hapus centang atau check"
+},
+"all_tab": {
+"message": "semua Tabs"
+},
+"apply": {
+"message": "Menerapkan"
+},
+"chrome_download_settings_url": {
+"message": "Tanyakan lokasi penyimpanan setiap file sebelum men-download"
+},
+"default_title": {
+"message": "Fatkun Batch Unduh Gambar"
+},
+"default_title_desc": {
+"message": "Shortkey: Alt + Z"
+},
+"description": {
+"message": "Sebuah berguna dan sederhana download gambar extension.You dapat menyaring berdasarkan resolusi atau link."
+},
+"do_not_show_again": {
+"message": "Aku tahu itu, tidak menunjukkan dialog ini lagi."
+},
+"donate": {
+"message": "Menyumbangkan"
+},
+"export_btn": {
+"message": "Ekspor"
+},
+"export_close": {
+"message": "Dekat"
+},
+"export_format": {
+"message": "format"
+},
+"export_format_tips": {
+"message": "Anda dapat menggunakan variabel tersebut: {NO} berarti urutan numberï¼\u003e {LINK} berarti image link"
+},
+"export_link": {
+"message": "Link ekspor"
+},
+"filter_link": {
+"message": "Filter dengan tautan"
+},
+"five_stars": {
+"message": "5 tingkat"
+},
+"height": {
+"message": "Tinggi"
+},
+"height_short": {
+"message": "Min Tinggi"
+},
+"inverse": {
+"message": "Beralih"
+},
+"min_display": {
+"message": "Max Side"
+},
+"more_options": {
+"message": "Lebih banyak pilihan"
+},
+"not_rename": {
+"message": "tidak mengubah nama"
+},
+"open_multiple_page": {
+"message": "Buka multi halaman?"
+},
+"open_multiple_page_action": {
+"message": "halaman terbuka"
+},
+"open_multiple_page_tips": {
+"message": "Memungkinkan multi-baris url dan karakter wildcard. "
+},
+"popup_tips": {
+"message": "Key singkat: Alt + Z"
+},
+"process_end": {
+"message": "gambar"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "image mendapatkan resolusi"
+},
+"rename_by_this_format": {
+"message": "Ubah nama berdasarkan"
+},
+"rename_tips": {
+"message": "Anda dapat menggunakan variabel tersebut: {NO} berarti urutan numberï¼\u003e {EXT} berarti nama diperpanjang"
+},
+"right_click_to_open": {
+"message": "(Klik kanan untuk membuka dan memeriksa pengaturan)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Menyimpan"
+},
+"save_image": {
+"message": "Menyimpan gambar"
+},
+"save_tips": {
+"message": "\"Tanyakan lokasi penyimpanan setiap file sebelum men-download\" pilihan di Chrome Downlods Setting.Otherwise, banyak banyak dialog konfirmasi kawanan."
+},
+"save_tips_cancel": {
+"message": "Membatalkan"
+},
+"save_tips_do_not_check": {
+"message": "JANGAN PILIH"
+},
+"save_tips_done": {
+"message": "Menyimpan gambar"
+},
+"save_tips_open_setting": {
+"message": "Terbuka Pengaturan Halaman"
+},
+"settings": {
+"message": "pengaturan"
+},
+"settings_add_rules": {
+"message": "Tambahkan aturan"
+},
+"settings_already_save": {
+"message": "Setelan disimpan."
+},
+"settings_collect_one_page": {
+"message": "Kumpulkan untuk pada halaman"
+},
+"settings_download": {
+"message": "Chrome Downloads Pengaturan"
+},
+"settings_import_rules": {
+"message": "aturan impor"
+},
+"settings_min_display": {
+"message": "Resolusi min bawaan"
+},
+"settings_rule_delete": {
+"message": "Menghapus"
+},
+"settings_rule_example": {
+"message": "memerintah contoh"
+},
+"settings_rule_example_title2": {
+"message": "dukungan aturan Regular Expression"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "Aturan pola url gambar"
+},
+"settings_rule_last_update_time": {
+"message": "Pembaharuan Terakhir:"
+},
+"settings_rule_last_update_time_none": {
+"message": "tak satupun"
+},
+"settings_rule_name": {
+"message": "aturan Nama"
+},
+"settings_rule_test": {
+"message": "Uji"
+},
+"settings_rule_url_replace_code": {
+"message": "Gambar url mengganti kode"
+},
+"settings_rules_empty": {
+"message": "Kosong"
+},
+"settings_save_folder": {
+"message": "menyimpan nama folder (untuk Ctrl + S)"
+},
+"settings_save_use_fixed_name": {
+"message": "menggunakan nama tetap"
+},
+"settings_save_use_title": {
+"message": "title penggunaan situs"
+},
+"settings_show_website": {
+"message": "Tampilkan Link"
+},
+"settings_simple": {
+"message": "Pengaturan yang normal"
+},
+"settings_special_support": {
+"message": "dukungan khusus"
+},
+"settings_special_support_desc": {
+"message": "Aturan umum"
+},
+"settings_update": {
+"message": "Memperbarui sekarang"
+},
+"settings_use_shortcut_key": {
+"message": "Gunakan Key pendek: Alt + Z"
+},
+"settings_user_rule_desc": {
+"message": "aturan adat"
+},
+"sort": {
+"message": "Menyortir"
+},
+"sort_big_first": {
+"message": "gambar besar pertama"
+},
+"sort_normal": {
+"message": "Urutkan berdasarkan situs"
+},
+"sort_small_first": {
+"message": "gambar kecil dulu"
+},
+"switch_view": {
+"message": "beralih View"
+},
+"update_declaration": {
+"message": "Ekstensi ini direferensikan beberapa kode dari zzllrr ini å \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e ° ä¹ å\u003e ¾å® ¢ \u003c/a\u003e"
+},
+"update_description": {
+"message": "1 terjemahan bahasa Inggris \u003cbr /\u003e 2 pengaturan download Chrome tooltips diperbarui"
+},
+"update_title": {
+"message": "Fatkun Batch Unduh Gambar versi 1.8.3"
+},
+"width": {
+"message": "Lebar"
+},
+"width_short": {
+"message": "Min Lebar"
+}
+}

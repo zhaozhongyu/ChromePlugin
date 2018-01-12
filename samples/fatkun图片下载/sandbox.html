@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+<head></head>
+<body>
+	<script type="text/javascript">
+		window.addEventListener('message', function(event) {
+		    var command = event.data.command;
+		    switch(command) {
+			    case 'eval':
+			    	var ret = '';
+			    	var success = true;
+			    	try {
+			    		ret = eval(event.data.content);
+			    		console.log('ret', ret);
+			    	} catch (err) {
+			    		success = false;
+			    	}
+			      	
+			        event.source.postMessage({
+			        	success: success,
+			          	ret: ret
+			        }, event.origin);
+			        break;
+		    }
+		});
+	</script>
+</body>
+</html>

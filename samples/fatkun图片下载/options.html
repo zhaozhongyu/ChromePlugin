@@ -1,0 +1,91 @@
+﻿<!DOCTYPE HTML>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title data-msg="default_title"></title>
+<link rel="stylesheet" type="text/css" href="css/main.css" />
+<script type="text/javascript" src="js/jQuery.js"></script>
+<script type="text/javascript" src="js/common.js"></script>
+<script type="text/javascript" src="js/json2.js"></script>
+<script src="js/options.js" type="text/javascript"></script>
+</head>
+
+
+<body>
+	<iframe id="sandboxFrame" src="sandbox.html" class="hidden"></iframe>
+	<div class="options container">
+"Fatkun Batch Download Image" used <a href="http://weibo.com/zzllrr">zzllrr</a>'s <a href="http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn">《小乐图客》</a>source code。
+    </div>
+<fieldset class="options container">
+<legend><span data-msg="settings">选项</span></legend>
+<div id="status"></div>
+<div>
+	<h2 class="caption first_caption"><span data-msg="settings_min_display">图片最小分辨率默认值</span></h2>
+	<div class="mod_content">
+        <label><span data-msg="width">宽</span><input type="text" id="min_width" value="100" /></label>
+         px <label style="margin-left:15px"><span data-msg="height">高</span><input type="text" id="min_height" value="100" /></label> px
+	</div>
+	<div class="clear"></div>
+	<h2 class="caption"><span data-msg="settings_simple">常规设置</span></h2>
+	<div class="mod_content">
+		<ul class="list">
+			<li><label><input type="checkbox" id="showUrl" /><span data-msg="settings_show_website">显示网址</span></label></li>
+			<li><label><input type="checkbox" id="useHotkey" /><span data-msg="settings_use_shortcut_key">使用快捷键Alt + Z</span></label></li>
+			<li><label><input type="checkbox" id="oneOutput" /><span data-msg="settings_collect_one_page">图片收集到一个页面</span></label></li>
+		</ul>
+	</div>
+	<div class="clear"></div>
+	<h2 class="caption"><span data-msg="settings_save_folder">保存目录名</span></h2>
+	<div class="mod_content">
+		<ul class="list">
+			<li><label><input type="radio" name="useTitle" id="useTitle" checked="checked" /><span data-msg="settings_save_use_title">使用网页标题</span></label></li>
+			<li><label><input type="radio" name="useTitle" id="useFixedName" /><span data-msg="settings_save_use_fixed_name">使用固定目录名</span>
+			    <input type="input" id="pathName" value="" style="width:200px"/></label></li>
+		</ul>
+	</div>
+</div>
+</fieldset>
+<fieldset class="options container">
+	<legend><span data-msg="settings_special_support">大图规则</span></legend>
+	<h2 class="caption first_caption">
+		<span data-msg="settings_special_support_desc">公共规则</span><span id="ruleUpdateInfo" class="desc"></span>
+		<button id="btnRuleUpdate" class="fr"><span data-msg="settings_update">立即更新</span></button>
+	</h2>
+	<div id="bigImageList" class="mod_content"></div>
+	<h2 class="caption">
+		<span data-msg="settings_user_rule_desc">用户规则</span>
+		<button id="btnImportUserRule" class="fr" style="display:none"><span data-msg="settings_import_rules">导入</span></button> 
+		<button id="btnAddUserRule" class="fr"><span data-msg="settings_add_rules">新增>/span></button>
+	</h2>
+	<div class="mod_content">
+		<table id="user_rule_wrap" class="table">
+			<thead>
+			    <th class="col1">
+			         <span data-msg="settings_rule_name">名称</span>
+		         </th>
+		         <th class="col2"><span data-msg="settings_rule_imageUrl_pattern">图片链接匹配(正则)</span></th>
+	             <th><span data-msg="settings_rule_url_replace_code">图片替换代码</span></th>
+		         <th class="col1"></th>
+		         </thead>
+			<tbody>
+			</tbody>
+		</table>
+		<details class="details">
+			<summary><span data-msg="settings_rule_example">用户规则填写帮助</span></summary>
+			<div class="box">
+			<p> <span data-msg="settings_rule_example_title2">规则使用的是正则表达式</span><br/>
+                <span data-msg="settings_rule_name">名称</span>：花瓣网
+				<br/>
+				<span data-msg="settings_rule_imageUrl_pattern">图片链接匹配(正则)</span>：https?://img[.]hb[.]aicdn[.]com/.*
+				<br/>
+				<span data-msg="settings_rule_url_replace_code">图片替换代码</span>：'@'.replace(/_fw192$/, '').replace(/_sq75$/, '')
+				<br/>
+			</p>
+			</div>
+		</details>
+
+	</div>
+</fieldset>
+<div class="op_panel container"><button id="btnSave" class="btn_save"><span data-msg="save">保存</span></button></div>
+</body>
+</html>

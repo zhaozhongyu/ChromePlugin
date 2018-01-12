@@ -1,0 +1,219 @@
+{
+"active_tab": {
+"message": "此選項卡"
+},
+"advise": {
+"message": "博客"
+},
+"aimg_tooltip": {
+"message": "點擊圖片取消或檢查"
+},
+"all_tab": {
+"message": "所有標籤"
+},
+"apply": {
+"message": "申請"
+},
+"chrome_download_settings_url": {
+"message": "下載每個檔案前先詢問儲存位置"
+},
+"default_title": {
+"message": "Fatkun批量下載圖片"
+},
+"default_title_desc": {
+"message": "ShortKey鍵: Alt + Z"
+},
+"description": {
+"message": "一個有用而簡單的圖像下載extension.你可以過濾通過的決議或鏈接。"
+},
+"do_not_show_again": {
+"message": "我知道，不顯示這個對話框了。"
+},
+"donate": {
+"message": "捐贈"
+},
+"export_btn": {
+"message": "出口"
+},
+"export_close": {
+"message": "近"
+},
+"export_format": {
+"message": "格式"
+},
+"export_format_tips": {
+"message": "您可以使用這些變量:  { NO}意味著序列號; { } LINK指圖像鏈接"
+},
+"export_link": {
+"message": "導出鏈接"
+},
+"filter_link": {
+"message": "通過鏈接過濾器"
+},
+"height": {
+"message": "高度"
+},
+"height_short": {
+"message": "最小高度"
+},
+"inverse": {
+"message": "切換"
+},
+"min_display": {
+"message": "最大方"
+},
+"more_options": {
+"message": "更多選項"
+},
+"not_rename": {
+"message": "不能重命名"
+},
+"open_multiple_page": {
+"message": "打開多頁？"
+},
+"open_multiple_page_action": {
+"message": "打開頁面"
+},
+"open_multiple_page_tips": {
+"message": "允許多行，通配符[ 01-10 ]是指01至10頁，例如:  http://abc.com?page=[1-4,az ]"
+},
+"popup_tips": {
+"message": "快捷鍵:  Alt鍵+ Z"
+},
+"process_end": {
+"message": "圖片"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "圖像分辨率越來越"
+},
+"rename_by_this_format": {
+"message": "重命名基於"
+},
+"rename_tips": {
+"message": "您可以使用這些變量:  { NO}意味著序列號; { } EXT延長意味著名字"
+},
+"right_click_to_open": {
+"message": "（右鍵點擊打開，檢查設置）"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "保存"
+},
+"save_image": {
+"message": "保存圖像"
+},
+"save_tips": {
+"message": " “下載每個檔案前先詢問儲存位置” 選項，否則有很多很多的確認對話框蜂擁而來。"
+},
+"save_tips_cancel": {
+"message": "取消"
+},
+"save_tips_do_not_check": {
+    "message": "請不要選中"
+},
+"save_tips_done": {
+"message": "保存圖像"
+},
+"save_tips_open_setting": {
+"message": "打開設置頁面"
+},
+"settings": {
+"message": "設置"
+},
+"settings_already_save": {
+"message": "設置保存。"
+},
+"settings_collect_one_page": {
+"message": "收集到頁"
+},
+"settings_download": {
+"message": "Chrome瀏覽器下載設置"
+},
+"settings_min_display": {
+"message": "默認分辨率分鐘"
+},
+"settings_rule_last_update_time": {
+"message": "最後更新時間: "
+},
+"settings_rule_last_update_time_none": {
+"message": "無"
+},
+"settings_save_folder": {
+"message": "保存文件夾名稱（按Ctrl + S）"
+},
+"settings_save_use_fixed_name": {
+"message": "使用固定的名字"
+},
+"settings_save_use_title": {
+"message": "利用網站標題"
+},
+"settings_show_website": {
+"message": "顯示鏈接"
+},
+"settings_simple": {
+"message": "正常的設置"
+},
+"settings_special_support": {
+"message": "特別支持"
+},
+"settings_special_support_desc": {
+"message": "通用規則"
+},
+"settings_use_shortcut_key": {
+"message": "使用快捷鍵:  Alt鍵+ Z"
+},
+"sort": {
+"message": "分類"
+},
+"sort_big_first": {
+"message": "大圖第一"
+},
+"sort_normal": {
+"message": "排序網站"
+},
+"sort_small_first": {
+"message": "小圖像第一"
+},
+"switch_view": {
+"message": "切換視圖"
+},
+"update_declaration": {
+"message": "這個擴展引用zzllrr的一些代碼， \u003c一個href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e小乐图客\u003c/a\u003e"
+},
+"update_description": {
+"message": "1英語翻譯\u003cbr /\u003e 2的Chrome下載設置提示更新"
+},
+"update_title": {
+"message": "Fatkun批量下載圖片1.8.3版本"
+},
+"width": {
+"message": "寬度"
+},
+"width_short": {
+"message": "最小寬度"
+},
+"ad1_extension_name": {"message": "Feng省錢大師"},
+"ad1_extension_desc": {"message": "在線購物,比價工具找更低價, 折扣查詢, 價格過濾."},
+"settings_user_rule_desc": {"message": "自定义规则"},
+"settings_update": {"message": "立即更新"},
+"settings_import_rules": {"message": "导入规则"},
+"settings_add_rules": {"message": "添加"},
+"settings_rule_name": {"message": "规则名称"},
+"settings_rule_imageUrl_pattern": {"message": "图片链接匹配(正则表达式)"},
+"settings_rule_url_replace_code": {"message": "图片链接替换代码"},
+"settings_rule_test": {"message": "测试"},
+"settings_rule_delete": {"message": "删除"},
+"settings_rule_example": {"message": "自定义规则例子"},
+"settings_rule_example_title2": {"message": "规则使用的是正则表达式"},
+"settings_rules_empty": {"message": "暂无规则"},
+"five_stars": {"message": "给五星好评"},
+"share_sina": {"message": "分享到新浪微博"}
+}

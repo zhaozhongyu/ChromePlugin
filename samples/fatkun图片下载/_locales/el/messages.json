@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "Αυτό Tab"
+},
+"ad1_extension_desc": {
+"message": "Χαμηλότερη τιμή αυτόματα finder, Έκπτωση Finder, φίλτρο Τιμή για ψώνια."
+},
+"ad1_extension_name": {
+"message": "Feng Εξοικονόμηση χρημάτων Μάστερ"
+},
+"advise": {
+"message": "blog"
+},
+"aimg_tooltip": {
+"message": "Κάντε κλικ στην εικόνα για να καταργήσετε την επιλογή ή να ελέγξετε"
+},
+"all_tab": {
+"message": "Όλες οι καρτέλες"
+},
+"apply": {
+"message": "Εφαρμόζεται"
+},
+"chrome_download_settings_url": {
+"message": "Ρωτήσω πού να αποθηκεύσετε κάθε αρχείου πριν από τη λήψη"
+},
+"default_title": {
+"message": "Fatkun Batch Λήψη εικόνας"
+},
+"default_title_desc": {
+"message": "ShortKey: Alt + Z"
+},
+"description": {
+"message": "Ένα χρήσιμο και απλό download εικόνα extension.You να φιλτράρετε με απόφαση ή τη σύνδεση."
+},
+"do_not_show_again": {
+"message": "Ξέρω ότι, δεν παρουσιάζουν αυτό το πλαίσιο διαλόγου πια."
+},
+"donate": {
+"message": "Προσφέρω"
+},
+"export_btn": {
+"message": "Εξαγωγή"
+},
+"export_close": {
+"message": "Κοντά"
+},
+"export_format": {
+"message": "μορφή"
+},
+"export_format_tips": {
+"message": "Μπορείτε να χρησιμοποιήσετε αυτές τις μεταβλητές: {NO} σημαίνει ακολουθία numberï¼\u003e {LINK} σημαίνει σύνδεσμος εικόνας"
+},
+"export_link": {
+"message": "σύνδεσμο εξαγωγή"
+},
+"filter_link": {
+"message": "Φιλτράρισμα με βάση τον σύνδεσμο"
+},
+"five_stars": {
+"message": "ποσοστό 5 αστέρια"
+},
+"height": {
+"message": "Υψος"
+},
+"height_short": {
+"message": "Ελάχιστη Ύψος"
+},
+"inverse": {
+"message": "Μπαρέτα"
+},
+"min_display": {
+"message": "max Side"
+},
+"more_options": {
+"message": "Περισσότερες επιλογές"
+},
+"not_rename": {
+"message": "δεν μετονομασία"
+},
+"open_multiple_page": {
+"message": "Ανοίξτε το multi σελίδα;"
+},
+"open_multiple_page_action": {
+"message": "Άνοιγμα σελίδας"
+},
+"open_multiple_page_tips": {
+"message": "Επιτρέπουν multi-σειρές urls και χαρακτήρας μπαλαντέρ. "
+},
+"popup_tips": {
+"message": "Σύντομη κλειδιά: Alt + Z"
+},
+"process_end": {
+"message": "εικόνες"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "image πάρει ανάλυση"
+},
+"rename_by_this_format": {
+"message": "Μετονομασία με βάση"
+},
+"rename_tips": {
+"message": "Μπορείτε να χρησιμοποιήσετε αυτές τις μεταβλητές: {NO} σημαίνει ακολουθία numberï¼\u003e {EXT} σημαίνει εκτεταμένη όνομα"
+},
+"right_click_to_open": {
+"message": "(Κάντε δεξί κλικ για να ανοίξετε και να ελέγξετε τις ρυθμίσεις)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Αποθηκεύσετε"
+},
+"save_image": {
+"message": "Αποθήκευση εικόνας"
+},
+"save_tips": {
+"message": "\"Ρωτήστε τη θέση αποθήκευσης κάθε αρχείου πριν από τη λήψη\" στο Chrome Downlods Setting.Otherwise, πολλά πολλά παράθυρα διαλόγου επιβεβαίωσης κοπάδι."
+},
+"save_tips_cancel": {
+"message": "Ματαίωση"
+},
+"save_tips_do_not_check": {
+"message": "ΜΗΝ SELECT"
+},
+"save_tips_done": {
+"message": "Αποθήκευση εικόνας"
+},
+"save_tips_open_setting": {
+"message": "Ανοίξτε τις Ρυθμίσεις Σελίδα"
+},
+"settings": {
+"message": "Ρυθμίσεις"
+},
+"settings_add_rules": {
+"message": "Προσθέστε κανόνες"
+},
+"settings_already_save": {
+"message": "Η ρύθμιση αποθηκεύεται."
+},
+"settings_collect_one_page": {
+"message": "Συλλέξτε με στη σελίδα"
+},
+"settings_download": {
+"message": "Chrome Downloads Ρύθμιση"
+},
+"settings_import_rules": {
+"message": "κανόνες εισαγωγής"
+},
+"settings_min_display": {
+"message": "Προεπιλεγμένη ανάλυση λεπτά"
+},
+"settings_rule_delete": {
+"message": "Διαγράφω"
+},
+"settings_rule_example": {
+"message": "αποφανθεί παράδειγμα"
+},
+"settings_rule_example_title2": {
+"message": "υποστήριξη κανόνα Κανονική Έκφραση"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "Κανόνας μοτίβο url εικόνας"
+},
+"settings_rule_last_update_time": {
+"message": "Τελευταία ενημέρωση:"
+},
+"settings_rule_last_update_time_none": {
+"message": "Κανένας"
+},
+"settings_rule_name": {
+"message": "Όνομα κανόνα"
+},
+"settings_rule_test": {
+"message": "Δοκιμή"
+},
+"settings_rule_url_replace_code": {
+"message": "url εικόνα αντικαταστήσει κώδικα"
+},
+"settings_rules_empty": {
+"message": "Αδειάζω"
+},
+"settings_save_folder": {
+"message": "αποθηκεύσετε το όνομα του φακέλου (για Ctrl + S)"
+},
+"settings_save_use_fixed_name": {
+"message": "χρησιμοποιήστε σταθερό όνομα"
+},
+"settings_save_use_title": {
+"message": "χρήση ιστοσελίδα τίτλο"
+},
+"settings_show_website": {
+"message": "Εμφάνιση συνδέσμου"
+},
+"settings_simple": {
+"message": "κανονική Ρυθμίσεις"
+},
+"settings_special_support": {
+"message": "ειδική στήριξη"
+},
+"settings_special_support_desc": {
+"message": "κοινή Κανόνας"
+},
+"settings_update": {
+"message": "Ενημέρωση τώρα"
+},
+"settings_use_shortcut_key": {
+"message": "Χρησιμοποιήστε Σύντομη κλειδιά: Alt + Z"
+},
+"settings_user_rule_desc": {
+"message": "Προσαρμοσμένη κανόνες"
+},
+"sort": {
+"message": "Είδος"
+},
+"sort_big_first": {
+"message": "Μεγάλη εικόνα πρώτα"
+},
+"sort_normal": {
+"message": "Ανά περιοχή"
+},
+"sort_small_first": {
+"message": "Μικρή εικόνα πρώτη"
+},
+"switch_view": {
+"message": "Switch View"
+},
+"update_declaration": {
+"message": "Η επέκταση αυτή αναφέρεται κάποιο κώδικα href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e \u003ca å zzllrr του ° Α'å\u003e ¾å® ¢ \u003c/a\u003e"
+},
+"update_description": {
+"message": "1 αγγλική μετάφραση \u003cbr /\u003e 2 Chrome ρυθμίσεις λήψη Tooltips ενημερωθεί"
+},
+"update_title": {
+"message": "Fatkun Batch Κατεβάστε την έκδοση 1.8.3 Εικόνα"
+},
+"width": {
+"message": "Πλάτος"
+},
+"width_short": {
+"message": "min Πλάτος"
+}
+}

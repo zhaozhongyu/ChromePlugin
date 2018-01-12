@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "hierdie oortjie"
+},
+"ad1_extension_desc": {
+"message": "Laer prys outomaties Well, afslag Well, Prys filter vir inkopies."
+},
+"ad1_extension_name": {
+"message": "Feng geld te spaar Meester"
+},
+"advise": {
+"message": "blog"
+},
+"aimg_tooltip": {
+"message": "Click Image to aktiveer of tjek"
+},
+"all_tab": {
+"message": "Alle Oortjies"
+},
+"apply": {
+"message": "Pas"
+},
+"chrome_download_settings_url": {
+"message": "Vra waar om elke lêer te red voor af te laai"
+},
+"default_title": {
+"message": "Fatkun Batch Aflaai Image"
+},
+"default_title_desc": {
+"message": "ShortKey: Alt + Z"
+},
+"description": {
+"message": "'N nuttige en eenvoudige beeld af te laai extension.You kan filtreer deur 'n besluit of 'n skakel."
+},
+"do_not_show_again": {
+"message": "Ek weet dit, nie hierdie dialoog nie meer wys."
+},
+"donate": {
+"message": "skenk"
+},
+"export_btn": {
+"message": "uitvoer"
+},
+"export_close": {
+"message": "Naby"
+},
+"export_format": {
+"message": "formaat"
+},
+"export_format_tips": {
+"message": "Jy kan hierdie veranderlikes gebruik: {GEEN} beteken volgorde numberï¼\u003e {link} beteken lêerskakel"
+},
+"export_link": {
+"message": "skakel uitvoer"
+},
+"filter_link": {
+"message": "Filter deur skakel"
+},
+"five_stars": {
+"message": "5 sterre koers"
+},
+"height": {
+"message": "Hoogte"
+},
+"height_short": {
+"message": "min Hoogte"
+},
+"inverse": {
+"message": "Toggle"
+},
+"min_display": {
+"message": "Max Side"
+},
+"more_options": {
+"message": "meer opsies"
+},
+"not_rename": {
+"message": "nie hernoem"
+},
+"open_multiple_page": {
+"message": "Oop multi bladsy?"
+},
+"open_multiple_page_action": {
+"message": "oop bladsy"
+},
+"open_multiple_page_tips": {
+"message": "Laat multi-rye URLs en wildcard karakter. "
+},
+"popup_tips": {
+"message": "Kort Sleutel: Alt + Z"
+},
+"process_end": {
+"message": "beelde"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "beeld kry resolusie"
+},
+"rename_by_this_format": {
+"message": "Hernoem gebaseer op"
+},
+"rename_tips": {
+"message": "Jy kan hierdie veranderlikes gebruik: {GEEN} beteken volgorde numberï¼\u003e {EXT} beteken uitgebreide naam"
+},
+"right_click_to_open": {
+"message": "(Regs-kliek om oop te maak en te kontroleer instellings)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Save"
+},
+"save_image": {
+"message": "Stoor prent"
+},
+"save_tips": {
+"message": "\"Vra waar om elke lêer te red voordat die aflaai van\" opsie in Chrome Downlods Setting.Otherwise, baie baie bevestiging vensters stroom."
+},
+"save_tips_cancel": {
+"message": "kanselleer"
+},
+"save_tips_do_not_check": {
+"message": "MOENIE KIES"
+},
+"save_tips_done": {
+"message": "Stoor prent"
+},
+"save_tips_open_setting": {
+"message": "Oop Instellings Page"
+},
+"settings": {
+"message": "instellings"
+},
+"settings_add_rules": {
+"message": "reëls Voeg"
+},
+"settings_already_save": {
+"message": "Instelling gestoor."
+},
+"settings_collect_one_page": {
+"message": "Versamel om op bladsy"
+},
+"settings_download": {
+"message": "Chrome laai Kader"
+},
+"settings_import_rules": {
+"message": "reëls invoer"
+},
+"settings_min_display": {
+"message": "Standaard min resolusie"
+},
+"settings_rule_delete": {
+"message": "verwyder"
+},
+"settings_rule_example": {
+"message": "heers byvoorbeeld"
+},
+"settings_rule_example_title2": {
+"message": "Reël ondersteuning Gereelde uitdrukking"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "Reël beeld URL-patroon"
+},
+"settings_rule_last_update_time": {
+"message": "Last update:"
+},
+"settings_rule_last_update_time_none": {
+"message": "Geen"
+},
+"settings_rule_name": {
+"message": "reël Naam"
+},
+"settings_rule_test": {
+"message": "toets"
+},
+"settings_rule_url_replace_code": {
+"message": "Image URL vervang kode"
+},
+"settings_rules_empty": {
+"message": "leë"
+},
+"settings_save_folder": {
+"message": "red gids naam (vir Ctrl + S)"
+},
+"settings_save_use_fixed_name": {
+"message": "gebruik vaste naam"
+},
+"settings_save_use_title": {
+"message": "gebruik webwerf titel"
+},
+"settings_show_website": {
+"message": "Wys skakel"
+},
+"settings_simple": {
+"message": "normale Instellings"
+},
+"settings_special_support": {
+"message": "spesiale ondersteuning"
+},
+"settings_special_support_desc": {
+"message": "gemeenskaplike Reël"
+},
+"settings_update": {
+"message": "Nou op datum bring"
+},
+"settings_use_shortcut_key": {
+"message": "Gebruik Kort Sleutel: Alt + Z"
+},
+"settings_user_rule_desc": {
+"message": "Custom reëls"
+},
+"sort": {
+"message": "Sorteer"
+},
+"sort_big_first": {
+"message": "Big image eerste"
+},
+"sort_normal": {
+"message": "Sorteer volgens werf"
+},
+"sort_small_first": {
+"message": "Klein beeld eerste"
+},
+"switch_view": {
+"message": "skakel View"
+},
+"update_declaration": {
+"message": "Hierdie uitbreiding verwys sommige kode van zzllrr se \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e Ä ° ¹ A\u003e ¾å® ¢ \u003c/a\u003e"
+},
+"update_description": {
+"message": "1 Engelse vertaling \u003cbr /\u003e 2 Chrome aflaai instellings tooltips opgedateer"
+},
+"update_title": {
+"message": "Fatkun Batch Aflaai Image weergawe 1.8.3"
+},
+"width": {
+"message": "wydte"
+},
+"width_short": {
+"message": "min Breedte"
+}
+}

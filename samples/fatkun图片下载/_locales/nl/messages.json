@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "dit Tab"
+},
+"ad1_extension_desc": {
+"message": "Lagere prijs automatisch finder, Discount vinder, Prijs filter om te winkelen."
+},
+"ad1_extension_name": {
+"message": "Feng Money Saving Master"
+},
+"advise": {
+"message": "blog"
+},
+"aimg_tooltip": {
+"message": "Klik op de afbeelding om het vinkje of cheque"
+},
+"all_tab": {
+"message": "alle Tabs"
+},
+"apply": {
+"message": "Van toepassing zijn"
+},
+"chrome_download_settings_url": {
+"message": "Vragen waar een bestand op te slaan voordat het downloaden"
+},
+"default_title": {
+"message": "Fatkun Batch Download Afbeelding"
+},
+"default_title_desc": {
+"message": "Shortkey: Alt + Z"
+},
+"description": {
+"message": "Een handig en eenvoudig beeld downloaden extension.You kunt filteren op resolutie of link."
+},
+"do_not_show_again": {
+"message": "Ik weet het, dit dialoogvenster niet meer te laten zien."
+},
+"donate": {
+"message": "schenken"
+},
+"export_btn": {
+"message": "Exporteren"
+},
+"export_close": {
+"message": "Dichtbij"
+},
+"export_format": {
+"message": "formaat"
+},
+"export_format_tips": {
+"message": "U kunt deze variabelen te gebruiken: {} NO staat voor een reeks numberï¼\u003e {LINK} betekent afbeeldingslink"
+},
+"export_link": {
+"message": "koppeling export"
+},
+"filter_link": {
+"message": "Filter op koppeling"
+},
+"five_stars": {
+"message": "5 sterren rate"
+},
+"height": {
+"message": "Hoogte"
+},
+"height_short": {
+"message": "min Hoogte"
+},
+"inverse": {
+"message": "toggle"
+},
+"min_display": {
+"message": "Max Side"
+},
+"more_options": {
+"message": "Meer opties"
+},
+"not_rename": {
+"message": "niet hernoemen"
+},
+"open_multiple_page": {
+"message": "Open meerdere pagina's?"
+},
+"open_multiple_page_action": {
+"message": "Open pagina"
+},
+"open_multiple_page_tips": {
+"message": "Laat multi-rijen urls en wildcard karakter. "
+},
+"popup_tips": {
+"message": "Short Key: Alt + Z"
+},
+"process_end": {
+"message": "afbeeldingen"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "beeld krijgen van resolutie"
+},
+"rename_by_this_format": {
+"message": "Hernoemen gebaseerd op"
+},
+"rename_tips": {
+"message": "U kunt deze variabelen te gebruiken: {} NO staat voor een reeks numberï¼\u003e {EXT} betekent een verlengde naam"
+},
+"right_click_to_open": {
+"message": "(Klik met de rechtermuisknop te openen en te controleren instellingen)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Save"
+},
+"save_image": {
+"message": "Afbeelding opslaan"
+},
+"save_tips": {
+"message": "\"Vragen waar een bestand op te slaan voordat het downloaden\" optie in Chrome Downlods Setting.Otherwise, vele bevestigingsdialogen kudde."
+},
+"save_tips_cancel": {
+"message": "Annuleer"
+},
+"save_tips_do_not_check": {
+"message": "DO NOT SELECT"
+},
+"save_tips_done": {
+"message": "Afbeelding opslaan"
+},
+"save_tips_open_setting": {
+"message": "Open Instellingen Pagina"
+},
+"settings": {
+"message": "instellingen"
+},
+"settings_add_rules": {
+"message": "regels toe te voegen"
+},
+"settings_already_save": {
+"message": "Instelling opgeslagen."
+},
+"settings_collect_one_page": {
+"message": "Verzamelen op pagina"
+},
+"settings_download": {
+"message": "Chrome Downloads Instelling"
+},
+"settings_import_rules": {
+"message": "invoerregels"
+},
+"settings_min_display": {
+"message": "Default min resolutie"
+},
+"settings_rule_delete": {
+"message": "Verwijder"
+},
+"settings_rule_example": {
+"message": "regel voorbeeld"
+},
+"settings_rule_example_title2": {
+"message": "Regel ondersteuning reguliere expressie"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "Regel het URL-patroon"
+},
+"settings_rule_last_update_time": {
+"message": "Laatste update:"
+},
+"settings_rule_last_update_time_none": {
+"message": "Geen"
+},
+"settings_rule_name": {
+"message": "Regelnaam"
+},
+"settings_rule_test": {
+"message": "Proef"
+},
+"settings_rule_url_replace_code": {
+"message": "Afbeelding url vervang code"
+},
+"settings_rules_empty": {
+"message": "Leeg"
+},
+"settings_save_folder": {
+"message": "opslaan map naam (Ctrl + S)"
+},
+"settings_save_use_fixed_name": {
+"message": "Gebruik vaste naam"
+},
+"settings_save_use_title": {
+"message": "gebruik website titel"
+},
+"settings_show_website": {
+"message": "Toon Link"
+},
+"settings_simple": {
+"message": "normale Instellingen"
+},
+"settings_special_support": {
+"message": "speciale steun"
+},
+"settings_special_support_desc": {
+"message": "Common Rule"
+},
+"settings_update": {
+"message": "Update nu"
+},
+"settings_use_shortcut_key": {
+"message": "Gebruik sneltoets: Alt + Z"
+},
+"settings_user_rule_desc": {
+"message": "aangepaste regels"
+},
+"sort": {
+"message": "Soort"
+},
+"sort_big_first": {
+"message": "Grote afbeelding eerste"
+},
+"sort_normal": {
+"message": "Sorteren op website"
+},
+"sort_small_first": {
+"message": "Kleine afbeelding eerste"
+},
+"switch_view": {
+"message": "Switch View"
+},
+"update_declaration": {
+"message": "Deze uitbreiding wordt verwezen wat code van zzllrr's \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e å ° ä¹ å\u003e ¾å® ¢ \u003c/a\u003e"
+},
+"update_description": {
+"message": "1 vertaling Engels \u003cbr /\u003e 2 Chrome instellingen ophalen tooltips bijgewerkt"
+},
+"update_title": {
+"message": "Fatkun Batch Download afbeelding versie 1.8.3"
+},
+"width": {
+"message": "Breedte"
+},
+"width_short": {
+"message": "min Breedte"
+}
+}

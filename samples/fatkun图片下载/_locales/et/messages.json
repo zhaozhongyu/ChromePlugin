@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "See Tab"
+},
+"ad1_extension_desc": {
+"message": "Madalam hind automaatselt leidja, Discount leidja, Hind filtri uudised."
+},
+"ad1_extension_name": {
+"message": "Feng Money Saving Master"
+},
+"advise": {
+"message": "blogi"
+},
+"aimg_tooltip": {
+"message": "Kliki pildil, et lülita või vaadake"
+},
+"all_tab": {
+"message": "Kõik kaardid"
+},
+"apply": {
+"message": "kehtima"
+},
+"chrome_download_settings_url": {
+"message": "Palu, et päästa enne iga faili allalaadimist"
+},
+"default_title": {
+"message": "Fatkun Partii Lae Pilt"
+},
+"default_title_desc": {
+"message": "ShortKey: Alt + Z"
+},
+"description": {
+"message": "Kasulikuks ja lihtsa pildi alla extension.You saab filtreerida resolutsiooni või link."
+},
+"do_not_show_again": {
+"message": "Ma tean, et see ei näita seda enam dialoogi."
+},
+"donate": {
+"message": "annetama"
+},
+"export_btn": {
+"message": "eksport"
+},
+"export_close": {
+"message": "Sulge"
+},
+"export_format": {
+"message": "vorming"
+},
+"export_format_tips": {
+"message": "Võite kasutada neid muutujaid: {NO} tähendab, jada numberï¼\u003e {link} tähendab, pildi link"
+},
+"export_link": {
+"message": "ekspordi link"
+},
+"filter_link": {
+"message": "Filtreeri link"
+},
+"five_stars": {
+"message": "5 tärni määra"
+},
+"height": {
+"message": "kõrgus"
+},
+"height_short": {
+"message": "min kõrgus"
+},
+"inverse": {
+"message": "Lülitab"
+},
+"min_display": {
+"message": "max külg"
+},
+"more_options": {
+"message": "Veel valikuid"
+},
+"not_rename": {
+"message": "Mitte ümber"
+},
+"open_multiple_page": {
+"message": "Avatud mitme lehekülje?"
+},
+"open_multiple_page_action": {
+"message": "Avatud lehele"
+},
+"open_multiple_page_tips": {
+"message": "Laske multi-rida id ja üldine märk. "
+},
+"popup_tips": {
+"message": "Lühike Key: Alt + Z"
+},
+"process_end": {
+"message": "pildid"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "pilti saada resolutsiooni"
+},
+"rename_by_this_format": {
+"message": "Nimeta põhineb"
+},
+"rename_tips": {
+"message": "Võite kasutada neid muutujaid: {NO} tähendab, jada numberï¼\u003e {EXT} tähendab pikema nime"
+},
+"right_click_to_open": {
+"message": "(Paremklõps avada ja vaadata seaded)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Salvesta"
+},
+"save_image": {
+"message": "Salvesta pilt"
+},
+"save_tips": {
+"message": "\"Küsi, kuhu see salvestada enne iga faili allalaadimist\" valik Chrome'i Downlods Setting.Otherwise, palju palju kinnitust dialoogid kari."
+},
+"save_tips_cancel": {
+"message": "tühistama"
+},
+"save_tips_do_not_check": {
+"message": "Ärge valige"
+},
+"save_tips_done": {
+"message": "Salvesta pilt"
+},
+"save_tips_open_setting": {
+"message": "Avatud Seaded Page"
+},
+"settings": {
+"message": "Seaded"
+},
+"settings_add_rules": {
+"message": "Lisa reeglid"
+},
+"settings_already_save": {
+"message": "Seadistus on salvestatud."
+},
+"settings_collect_one_page": {
+"message": "Koguda kuni leheküljel"
+},
+"settings_download": {
+"message": "Chrome Downloads Setting"
+},
+"settings_import_rules": {
+"message": "Import reeglid"
+},
+"settings_min_display": {
+"message": "Vaikimisi min resolutsiooni"
+},
+"settings_rule_delete": {
+"message": "kustutama"
+},
+"settings_rule_example": {
+"message": "Eeskiri näiteks"
+},
+"settings_rule_example_title2": {
+"message": "Reegel tugi regulaaravaldiste"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "Reegel pildi url muster"
+},
+"settings_rule_last_update_time": {
+"message": "Viimane uuendus:"
+},
+"settings_rule_last_update_time_none": {
+"message": "mitte ükski"
+},
+"settings_rule_name": {
+"message": "Reegel Nimi"
+},
+"settings_rule_test": {
+"message": "test"
+},
+"settings_rule_url_replace_code": {
+"message": "Pilt url asendada koodi"
+},
+"settings_rules_empty": {
+"message": "Tühi"
+},
+"settings_save_folder": {
+"message": "salvestada kausta nimi (Ctrl + S)"
+},
+"settings_save_use_fixed_name": {
+"message": "kasutada fikseeritud nime"
+},
+"settings_save_use_title": {
+"message": "kasutada kodulehel pealkiri"
+},
+"settings_show_website": {
+"message": "Näita link"
+},
+"settings_simple": {
+"message": "Tavaline seaded"
+},
+"settings_special_support": {
+"message": "erilist toetust"
+},
+"settings_special_support_desc": {
+"message": "Üldise reegli"
+},
+"settings_update": {
+"message": "Uuendage kohe"
+},
+"settings_use_shortcut_key": {
+"message": "Kasutage Lühike Key: Alt + Z"
+},
+"settings_user_rule_desc": {
+"message": "Custom reeglid"
+},
+"sort": {
+"message": "sort"
+},
+"sort_big_first": {
+"message": "Big pildi esimene"
+},
+"sort_normal": {
+"message": "Sorteeri site"
+},
+"sort_small_first": {
+"message": "Väike pilt esimesel"
+},
+"switch_view": {
+"message": "Lülita Vaata"
+},
+"update_declaration": {
+"message": "See laiend viidatud mõned kood zzllrr \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e å ° à¹ å\u003e ¾å® ¢ \u003c/a\u003e"
+},
+"update_description": {
+"message": "1 inglise keelde \u003cbr /\u003e 2 Chrome'i allalaadimine seaded Kohtspikritel uuendatud"
+},
+"update_title": {
+"message": "Fatkun Partii Lae Pilt versioon 1.8.3"
+},
+"width": {
+"message": "laius"
+},
+"width_short": {
+"message": "min Laius"
+}
+}

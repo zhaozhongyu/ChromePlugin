@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "Esta guia"
+},
+"ad1_extension_desc": {
+"message": "Preço mais baixo automaticamente finder, Finder do disconto, filtro do preço para comprar."
+},
+"ad1_extension_name": {
+"message": "Feng Money Saving Master"
+},
+"advise": {
+"message": "Blog"
+},
+"aimg_tooltip": {
+"message": "Clique em Imagem para desmarcar ou verificar"
+},
+"all_tab": {
+"message": "Todas as guias"
+},
+"apply": {
+"message": "Aplique"
+},
+"chrome_download_settings_url": {
+"message": "Perguntar onde salvar cada arquivo antes de fazer o download"
+},
+"default_title": {
+"message": "Fatkun Batch Download da imagem"
+},
+"default_title_desc": {
+"message": "Atalho: Alt + Z"
+},
+"description": {
+"message": "Uma extensão de download de imagem útil e simples.Você pode filtrar por resolução ou link."
+},
+"do_not_show_again": {
+"message": "Eu sei, não mostrar mais este diálogo."
+},
+"donate": {
+"message": "Doar"
+},
+"export_btn": {
+"message": "Exportar"
+},
+"export_close": {
+"message": "Fechar"
+},
+"export_format": {
+"message": "formato"
+},
+"export_format_tips": {
+"message": "Você pode usar essas variáveis: {NO} significa número de seqüência ¼\u003e {LINK} significa link de imagem"
+},
+"export_link": {
+"message": "Exportar link"
+},
+"filter_link": {
+"message": "Filtrar por link"
+},
+"five_stars": {
+"message": "5 estrelas tarifa"
+},
+"height": {
+"message": "Altura"
+},
+"height_short": {
+"message": "Altura mínima"
+},
+"inverse": {
+"message": "Alternar"
+},
+"min_display": {
+"message": "Lado máximo"
+},
+"more_options": {
+"message": "Mais opções"
+},
+"not_rename": {
+"message": "Não renomear"
+},
+"open_multiple_page": {
+"message": "Abrir várias páginas?"
+},
+"open_multiple_page_action": {
+"message": "Abrir página"
+},
+"open_multiple_page_tips": {
+"message": "Permitir url multi-linhas e caractere curinga. "
+},
+"popup_tips": {
+"message": "Tecla curta: Alt + Z"
+},
+"process_end": {
+"message": "Imagens"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "Imagem obtendo resolução"
+},
+"rename_by_this_format": {
+"message": "Renomear com base em"
+},
+"rename_tips": {
+"message": "Você pode usar essas variáveis: {NO} significa número de seqüência ¼\u003e {EXT} significa nome estendido"
+},
+"right_click_to_open": {
+"message": "(Clique com o botão direito do mouse para abrir e verificar as configurações)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Salvar"
+},
+"save_image": {
+"message": "Salvar imagem"
+},
+"save_tips": {
+"message": "\"Pergunte onde salvar cada arquivo antes de baixar\" opção no Chrome Downlods Setting.Otherwise, muitos muitos diálogos de confirmação rebanho."
+},
+"save_tips_cancel": {
+"message": "Cancelar"
+},
+"save_tips_do_not_check": {
+"message": "NÃO SELECIONE"
+},
+"save_tips_done": {
+"message": "Salvar imagem"
+},
+"save_tips_open_setting": {
+"message": "Página Abrir Definições"
+},
+"settings": {
+"message": "Configurações"
+},
+"settings_add_rules": {
+"message": "Adicionar regras"
+},
+"settings_already_save": {
+"message": "Configuração guardada."
+},
+"settings_collect_one_page": {
+"message": "Coletar para na página"
+},
+"settings_download": {
+"message": "Configuração de Downloads do Chrome"
+},
+"settings_import_rules": {
+"message": "Regras de importação"
+},
+"settings_min_display": {
+"message": "Resolução mínima padrão"
+},
+"settings_rule_delete": {
+"message": "Excluir"
+},
+"settings_rule_example": {
+"message": "Exemplo de regra"
+},
+"settings_rule_example_title2": {
+"message": "Suporte à regra Expressão regular"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "Padrão de url de imagem de regra"
+},
+"settings_rule_last_update_time": {
+"message": "Última atualização:"
+},
+"settings_rule_last_update_time_none": {
+"message": "Nenhum"
+},
+"settings_rule_name": {
+"message": "Nome da regra"
+},
+"settings_rule_test": {
+"message": "Teste"
+},
+"settings_rule_url_replace_code": {
+"message": "URL da imagem substituir o código"
+},
+"settings_rules_empty": {
+"message": "Vazio"
+},
+"settings_save_folder": {
+"message": "Salvar o nome da pasta (para Ctrl + S)"
+},
+"settings_save_use_fixed_name": {
+"message": "Use nome fixo"
+},
+"settings_save_use_title": {
+"message": "Usar o título do site"
+},
+"settings_show_website": {
+"message": "Mostrar link"
+},
+"settings_simple": {
+"message": "Configurações normais"
+},
+"settings_special_support": {
+"message": "Suporte especial"
+},
+"settings_special_support_desc": {
+"message": "Regra Comum"
+},
+"settings_update": {
+"message": "Atualizar agora"
+},
+"settings_use_shortcut_key": {
+"message": "Usar tecla curta: Alt + Z"
+},
+"settings_user_rule_desc": {
+"message": "Regras personalizadas"
+},
+"sort": {
+"message": "Ordenar"
+},
+"sort_big_first": {
+"message": "Primeira imagem grande"
+},
+"sort_normal": {
+"message": "Classificar por site"
+},
+"sort_small_first": {
+"message": "Primeira imagem pequena"
+},
+"switch_view": {
+"message": "Alterar visualização"
+},
+"update_declaration": {
+"message": "Esta extensão referenciou algum código do \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e å ° ä¹ å\u003e ¾å® ¢ \u003c/a\u003e do zzllrr"
+},
+"update_description": {
+"message": "1 tradução em inglês \u003cbr /\u003e 2 dicas de ferramentas de download do Chrome atualizadas"
+},
+"update_title": {
+"message": "Fatkun Batch Descarregar imagem versão 1.8.3"
+},
+"width": {
+"message": "Largura"
+},
+"width_short": {
+"message": "Largura mínima"
+}
+}

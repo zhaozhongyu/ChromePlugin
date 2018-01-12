@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "Tas Tab"
+},
+"ad1_extension_desc": {
+"message": "Zemākas cenas automātiski finder, Discount finder, Cena filtru, lai iepirktos."
+},
+"ad1_extension_name": {
+"message": "Feng Money Saving Master"
+},
+"advise": {
+"message": "blog"
+},
+"aimg_tooltip": {
+"message": "Uzklikšķiniet Image atzīmēšanu vai pārbaudīt"
+},
+"all_tab": {
+"message": "Visas cilnes"
+},
+"apply": {
+"message": "pieteikties"
+},
+"chrome_download_settings_url": {
+"message": "Jautāt, kur saglabāt ikvienu failu pirms lejuplādēšanas"
+},
+"default_title": {
+"message": "Fatkun Partijas Download Image"
+},
+"default_title_desc": {
+"message": "Shortkey: Alt + Z"
+},
+"description": {
+"message": "Noderīgs un vienkāršs attēlu lejupielādes extension.You var filtrēt ar izšķirtspēju vai saiti."
+},
+"do_not_show_again": {
+"message": "Es zinu, tas, nerādīt šo dialogu vairāk."
+},
+"donate": {
+"message": "ziedot"
+},
+"export_btn": {
+"message": "eksports"
+},
+"export_close": {
+"message": "aizvērt"
+},
+"export_format": {
+"message": "formāts"
+},
+"export_format_tips": {
+"message": "Jūs varat izmantot šos mainīgos: {NO} nozīmē secība numberï¼\u003e {LINK} nozīmē attēla saiti"
+},
+"export_link": {
+"message": "eksporta saite"
+},
+"filter_link": {
+"message": "Atlasīt pēc saiti"
+},
+"five_stars": {
+"message": "5 zvaigznes likme"
+},
+"height": {
+"message": "augstums"
+},
+"height_short": {
+"message": "min augstums"
+},
+"inverse": {
+"message": "Pārslēgt"
+},
+"min_display": {
+"message": "Max Side"
+},
+"more_options": {
+"message": "Papildu opcijas"
+},
+"not_rename": {
+"message": "nav pārdēvēt"
+},
+"open_multiple_page": {
+"message": "Atvērt vairāku lapu?"
+},
+"open_multiple_page_action": {
+"message": "Atvērt lapu"
+},
+"open_multiple_page_tips": {
+"message": "Atļaut vairāku rindas URL un aizstājējzīmi. "
+},
+"popup_tips": {
+"message": "Short Key: Alt + Z"
+},
+"process_end": {
+"message": "images"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "attēls kļūst izšķirtspēja"
+},
+"rename_by_this_format": {
+"message": "Pārdēvēt pamatojoties uz"
+},
+"rename_tips": {
+"message": "Jūs varat izmantot šos mainīgos: {NO} nozīmē kārtas numberï¼\u003e {EXT} nozīmē pagarināts nosaukums"
+},
+"right_click_to_open": {
+"message": "(Peles labo pogu noklikšķiniet, lai atvērtu un pārbaudiet iestatījumus)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Saglabāt"
+},
+"save_image": {
+"message": "Saglabāt attēlu"
+},
+"save_tips": {
+"message": "\"Jautāt, kur saglabāt ikvienu failu pirms lejuplādēšanas\" opciju Chrome Downlods Setting.Otherwise, daudzi daudzi apstiprinājumu dialogs ganāmpulka."
+},
+"save_tips_cancel": {
+"message": "atcelt"
+},
+"save_tips_do_not_check": {
+"message": "Neizvēlieties"
+},
+"save_tips_done": {
+"message": "Saglabāt attēlu"
+},
+"save_tips_open_setting": {
+"message": "Atvērt Settings Page"
+},
+"settings": {
+"message": "Iestatījumi"
+},
+"settings_add_rules": {
+"message": "Pievienot noteikumus"
+},
+"settings_already_save": {
+"message": "Iestatījums ir saglabāts."
+},
+"settings_collect_one_page": {
+"message": "Savākt uz lpp"
+},
+"settings_download": {
+"message": "Chrome lejupielādes Setting"
+},
+"settings_import_rules": {
+"message": "ievešanas noteikumi"
+},
+"settings_min_display": {
+"message": "Default min izšķirtspēja"
+},
+"settings_rule_delete": {
+"message": "izdzēst"
+},
+"settings_rule_example": {
+"message": "Reglamenta piemēru"
+},
+"settings_rule_example_title2": {
+"message": "Noteikums atbalsts Regulāro izteiksmju"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "Noteikums image url modelis"
+},
+"settings_rule_last_update_time": {
+"message": "Pēdējā atjaunošana:"
+},
+"settings_rule_last_update_time_none": {
+"message": "neviens"
+},
+"settings_rule_name": {
+"message": "noteikums Name"
+},
+"settings_rule_test": {
+"message": "pārbaude"
+},
+"settings_rule_url_replace_code": {
+"message": "Image url nomainīt kodu"
+},
+"settings_rules_empty": {
+"message": "tukšs"
+},
+"settings_save_folder": {
+"message": "saglabāt mapes nosaukumu (Ctrl + S)"
+},
+"settings_save_use_fixed_name": {
+"message": "izmantot fiksētu vārdu"
+},
+"settings_save_use_title": {
+"message": "izmantošana mājas lapā virsraksts"
+},
+"settings_show_website": {
+"message": "Rādīt saite"
+},
+"settings_simple": {
+"message": "Normal iestatījumi"
+},
+"settings_special_support": {
+"message": "Īpašs atbalsts"
+},
+"settings_special_support_desc": {
+"message": "kopīgs noteikums"
+},
+"settings_update": {
+"message": "Atjaunināt tagad"
+},
+"settings_use_shortcut_key": {
+"message": "Izmantot Short atslēga: Alt + Z"
+},
+"settings_user_rule_desc": {
+"message": "Custom noteikumi"
+},
+"sort": {
+"message": "šķirot"
+},
+"sort_big_first": {
+"message": "Big image pirmais"
+},
+"sort_normal": {
+"message": "Kārtot pēc vietas"
+},
+"sort_small_first": {
+"message": "Mazs attēls pirmais"
+},
+"switch_view": {
+"message": "Switch Apskatīt"
+},
+"update_declaration": {
+"message": "Šis paplašinājums atsauce kādu kodu zzllrr \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e å ° ä¹ å\u003e ¾å® ¢ \u003c/a\u003e"
+},
+"update_description": {
+"message": "1 Angļu tulkošanas \u003cbr /\u003e 2 Chrome lejupielādē iestatījumi padomus atjaunināti"
+},
+"update_title": {
+"message": "Fatkun Partijas Download Image versija 1.8.3"
+},
+"width": {
+"message": "platums"
+},
+"width_short": {
+"message": "min platums"
+}
+}

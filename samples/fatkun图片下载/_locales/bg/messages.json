@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "Това Tab"
+},
+"ad1_extension_desc": {
+"message": "Най-ниска цена автоматично търсач, търсач отстъпка, Цена филтър за пазаруване."
+},
+"ad1_extension_name": {
+"message": "Фън пестене на пари магистър"
+},
+"advise": {
+"message": "блог"
+},
+"aimg_tooltip": {
+"message": "Кликнете на изображението, за да я премахнете или проверете"
+},
+"all_tab": {
+"message": "Всички Tabs"
+},
+"apply": {
+"message": "Приложи"
+},
+"chrome_download_settings_url": {
+"message": "Попитайте къде да спаси всеки файл, преди да изтеглите"
+},
+"default_title": {
+"message": "Fatkun Batch Изтегляне на снимката"
+},
+"default_title_desc": {
+"message": "ShortKey: Alt + Z"
+},
+"description": {
+"message": "Един полезен и лесен за сваляне на изображения extension.You да филтрирате по резолюция или линк."
+},
+"do_not_show_again": {
+"message": "Знам го, не се показва диалогов повече."
+},
+"donate": {
+"message": "Дарете"
+},
+"export_btn": {
+"message": "износ"
+},
+"export_close": {
+"message": "Близо"
+},
+"export_format": {
+"message": "формат"
+},
+"export_format_tips": {
+"message": "Можете да използвате тези променливи: {NO} означава последователност numberï¼\u003e {LINK} означава връзка изображение"
+},
+"export_link": {
+"message": "връзка Export"
+},
+"filter_link": {
+"message": "Филтър по връзка"
+},
+"five_stars": {
+"message": "5 звезди скорост"
+},
+"height": {
+"message": "височина"
+},
+"height_short": {
+"message": "Min Височина"
+},
+"inverse": {
+"message": "щифт"
+},
+"min_display": {
+"message": "Max Side"
+},
+"more_options": {
+"message": "Повече опций"
+},
+"not_rename": {
+"message": "Не преименуване"
+},
+"open_multiple_page": {
+"message": "Open мулти страница?"
+},
+"open_multiple_page_action": {
+"message": "Open страница"
+},
+"open_multiple_page_tips": {
+"message": "Оставя мулти-редове URL адреси и маска характер. "
+},
+"popup_tips": {
+"message": "Кратко Key: Alt + Z"
+},
+"process_end": {
+"message": "снимки"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "изображение получаване резолюция"
+},
+"rename_by_this_format": {
+"message": "Преименуване на базата на"
+},
+"rename_tips": {
+"message": "Можете да използвате тези променливи: {NO} означава последователност numberï¼\u003e {EXT} означава продължителен име"
+},
+"right_click_to_open": {
+"message": "(Щракнете с десния бутон, за да отворите и проверете настройките)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Save"
+},
+"save_image": {
+"message": "Запазването на изображението"
+},
+"save_tips": {
+"message": "\"Попитайте къде да спаси всеки файл, преди да изтеглите\" опция в Chrome Downlods Setting.Otherwise, много много диалози потвърждение роят."
+},
+"save_tips_cancel": {
+"message": "Отказ"
+},
+"save_tips_do_not_check": {
+"message": "Не избирайте"
+},
+"save_tips_done": {
+"message": "Запазването на изображението"
+},
+"save_tips_open_setting": {
+"message": "Open Настройки Page"
+},
+"settings": {
+"message": "Настройки"
+},
+"settings_add_rules": {
+"message": "Добави правила"
+},
+"settings_already_save": {
+"message": "Настройката е запазена."
+},
+"settings_collect_one_page": {
+"message": "Съберете се на страница"
+},
+"settings_download": {
+"message": "Chrome Downloads Setting"
+},
+"settings_import_rules": {
+"message": "правила за внос"
+},
+"settings_min_display": {
+"message": "Default резолюция мин"
+},
+"settings_rule_delete": {
+"message": "Изтрий"
+},
+"settings_rule_example": {
+"message": "правило пример"
+},
+"settings_rule_example_title2": {
+"message": "Правило подкрепа регулярен израз"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "Правило модел URL на изображението"
+},
+"settings_rule_last_update_time": {
+"message": "Последна актуализация:"
+},
+"settings_rule_last_update_time_none": {
+"message": "Нито един"
+},
+"settings_rule_name": {
+"message": "Име на правилото"
+},
+"settings_rule_test": {
+"message": "Тест"
+},
+"settings_rule_url_replace_code": {
+"message": "URL на снимката замени код"
+},
+"settings_rules_empty": {
+"message": "празен"
+},
+"settings_save_folder": {
+"message": "спаси папка име (за Ctrl + S)"
+},
+"settings_save_use_fixed_name": {
+"message": "използвате фиксирано име"
+},
+"settings_save_use_title": {
+"message": "заглавие употреба сайт"
+},
+"settings_show_website": {
+"message": "Покажи връзката"
+},
+"settings_simple": {
+"message": "Нормални Settings"
+},
+"settings_special_support": {
+"message": "Специална подкрепа"
+},
+"settings_special_support_desc": {
+"message": "Общата правило"
+},
+"settings_update": {
+"message": "Актуализирайте сега"
+},
+"settings_use_shortcut_key": {
+"message": "Използвайте кратки Key: Alt + Z"
+},
+"settings_user_rule_desc": {
+"message": "правила по поръчка"
+},
+"sort": {
+"message": "Вид"
+},
+"sort_big_first": {
+"message": "Big изображение първи"
+},
+"sort_normal": {
+"message": "Сортиране по сайта"
+},
+"sort_small_first": {
+"message": "Малък изображение първи"
+},
+"switch_view": {
+"message": "Превключете View"
+},
+"update_declaration": {
+"message": "Това разширение съотнесени някакъв код на \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e å zzllrr му ° Â¹ A\u003e ¾å® ¢ \u003c/a\u003e"
+},
+"update_description": {
+"message": "1 английски превод \u003cbr /\u003e 2 изтегляне на настройките на браузъра пояснения обновяват"
+},
+"update_title": {
+"message": "Fatkun Batch Изтегляне на снимката версия 1.8.3"
+},
+"width": {
+"message": "широчина"
+},
+"width_short": {
+"message": "Min Ширина"
+}
+}

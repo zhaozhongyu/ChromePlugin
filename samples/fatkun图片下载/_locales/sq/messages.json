@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "Kjo Tab"
+},
+"ad1_extension_desc": {
+"message": "çmim më të ulët automatikisht finder, Discount finder, filter Çmimi për Shopping."
+},
+"ad1_extension_name": {
+"message": "Master Feng Ruajtja Money"
+},
+"advise": {
+"message": "blog"
+},
+"aimg_tooltip": {
+"message": "Kliko imazhin për të zgjidhni ose të kontrolloni"
+},
+"all_tab": {
+"message": "Të gjitha Tabs"
+},
+"apply": {
+"message": "aplikoni"
+},
+"chrome_download_settings_url": {
+"message": "Pyetni se ku për të ruajtur çdo fotografi para shkarkimit"
+},
+"default_title": {
+"message": "Fatkun Batch Download Image"
+},
+"default_title_desc": {
+"message": "ShortKey: Alt + Z"
+},
+"description": {
+"message": "Një dobishme dhe të thjeshtë image download extension.You mund të filtruar nga rezoluta ose lidhje."
+},
+"do_not_show_again": {
+"message": "Unë e di se, nuk e tregojnë këtë dialog më."
+},
+"donate": {
+"message": "dhuroj"
+},
+"export_btn": {
+"message": "eksport"
+},
+"export_close": {
+"message": "afër"
+},
+"export_format": {
+"message": "format"
+},
+"export_format_tips": {
+"message": "Ju mund të përdorni këto ndryshore: {JO} do të thotë rend numberï¼\u003e {LINK} nënkupton lidhjen e imazhit"
+},
+"export_link": {
+"message": "lidhje të eksportit"
+},
+"filter_link": {
+"message": "Filtro sipas lidhjes"
+},
+"five_stars": {
+"message": "5 yje norma"
+},
+"height": {
+"message": "lartësi"
+},
+"height_short": {
+"message": "Min Lartësia"
+},
+"inverse": {
+"message": "kunj"
+},
+"min_display": {
+"message": "Max Side"
+},
+"more_options": {
+"message": "Me shume opsione"
+},
+"not_rename": {
+"message": "jo riemërtoj"
+},
+"open_multiple_page": {
+"message": "Open faqe multi?"
+},
+"open_multiple_page_action": {
+"message": "faqe e hapur"
+},
+"open_multiple_page_tips": {
+"message": "Lejo multi-rreshta urls dhe karakter wildcard. "
+},
+"popup_tips": {
+"message": "Key shkurtër: Alt + Z"
+},
+"process_end": {
+"message": "images"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "image marrë rezolutë"
+},
+"rename_by_this_format": {
+"message": "Rename bazuar në"
+},
+"rename_tips": {
+"message": "Ju mund të përdorni këto ndryshore: {JO} do të thotë rend numberï¼\u003e {Ext} do të thotë emrin e zgjatur"
+},
+"right_click_to_open": {
+"message": "(Djathtas-klikoni për të hapur dhe për të kontrolluar parametrat)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Save"
+},
+"save_image": {
+"message": "Ruani imazhin"
+},
+"save_tips": {
+"message": "\"Pyet ku për të ruajtur çdo fotografi para shkarkimit\" opsion në Chrome Downlods Setting.Otherwise, shumë shumë dialogs konfirmimit dynden."
+},
+"save_tips_cancel": {
+"message": "anuloj"
+},
+"save_tips_do_not_check": {
+"message": "MOS ZGJIDH"
+},
+"save_tips_done": {
+"message": "Ruani imazhin"
+},
+"save_tips_open_setting": {
+"message": "Open Settings Faqe"
+},
+"settings": {
+"message": "Cilësimet"
+},
+"settings_add_rules": {
+"message": "Shto rregullat"
+},
+"settings_already_save": {
+"message": "Cilësimi ruajtur."
+},
+"settings_collect_one_page": {
+"message": "Mblidhni të në faqen"
+},
+"settings_download": {
+"message": "Chrome Downloads Setting"
+},
+"settings_import_rules": {
+"message": "rregullat e importit"
+},
+"settings_min_display": {
+"message": "Rezoluta Default min"
+},
+"settings_rule_delete": {
+"message": "fshij"
+},
+"settings_rule_example": {
+"message": "Rregulli shembull"
+},
+"settings_rule_example_title2": {
+"message": "Mbështetja Rregulli rregullt Expression"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "Rregulli model image url"
+},
+"settings_rule_last_update_time": {
+"message": "Përditësimi i fundit:"
+},
+"settings_rule_last_update_time_none": {
+"message": "Asnje"
+},
+"settings_rule_name": {
+"message": "Rregulli Emri"
+},
+"settings_rule_test": {
+"message": "provë"
+},
+"settings_rule_url_replace_code": {
+"message": "Image url zëvendësuar kodin"
+},
+"settings_rules_empty": {
+"message": "bosh"
+},
+"settings_save_folder": {
+"message": "të ruajtur emrin e dosje (për Ctrl + S)"
+},
+"settings_save_use_fixed_name": {
+"message": "përdorin emrin fikse"
+},
+"settings_save_use_title": {
+"message": "Titulli Përdorimi i internetit"
+},
+"settings_show_website": {
+"message": "Trego lidhje"
+},
+"settings_simple": {
+"message": "Cilësimet normal"
+},
+"settings_special_support": {
+"message": "mbështetje të veçantë"
+},
+"settings_special_support_desc": {
+"message": "Rregulla të zakonshme"
+},
+"settings_update": {
+"message": "Update tani"
+},
+"settings_use_shortcut_key": {
+"message": "Përdorni Key shkurtër: Alt + Z"
+},
+"settings_user_rule_desc": {
+"message": "rregullat doganore"
+},
+"sort": {
+"message": "lloj"
+},
+"sort_big_first": {
+"message": "image Big parë"
+},
+"sort_normal": {
+"message": "Renditur nga faqja"
+},
+"sort_small_first": {
+"message": "image Small parë"
+},
+"switch_view": {
+"message": "Kaloni Shiko"
+},
+"update_declaration": {
+"message": "Ky zgjerim i referohet një kod të një \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e zzllrr së ° ä¹ å\u003e ¾å® ¢ \u003c/a\u003e"
+},
+"update_description": {
+"message": "1 përkthim English \u003cbr /\u003e 2 Chrome shkarkimit settings Tooltips përditësuar"
+},
+"update_title": {
+"message": "Fatkun Batch Download Image version 1.8.3"
+},
+"width": {
+"message": "gjerësi"
+},
+"width_short": {
+"message": "Min Gjerësia"
+}
+}

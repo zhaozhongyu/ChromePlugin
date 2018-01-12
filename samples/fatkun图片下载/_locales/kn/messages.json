@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "ಈ ಟ್ಯಾಬ್"
+},
+"ad1_extension_desc": {
+"message": "ಲೋವರ್ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಶೋಧಕ ಬೆಲೆ, ಡಿಸ್ಕೌಂಟ್ ಫೈಂಡರ್, ಶಾಪಿಂಗ್ ಬೆಲೆ ಫಿಲ್ಟರ್."
+},
+"ad1_extension_name": {
+"message": "ಫೆಂಗ್ ಮನಿ ಉಳಿಸಲಾಗುತ್ತಿದೆ ಮಾಸ್ಟರ್"
+},
+"advise": {
+"message": "ಬ್ಲಾಗ್"
+},
+"aimg_tooltip": {
+"message": "ಗುರುತಿಸಬೇಡಿ ಅಥವಾ ಚೆಕ್ ಚಿತ್ರವನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ"
+},
+"all_tab": {
+"message": "ಎಲ್ಲಾ ಟ್ಯಾಬ್ಗಳನ್ನು"
+},
+"apply": {
+"message": "ಅನ್ವಯಿಸು"
+},
+"chrome_download_settings_url": {
+"message": "ಡೌನ್ಲೋಡ್ ಮಾಡುವ ಮೊದಲು ಪ್ರತಿ ಫೈಲ್ ಅನ್ನು ಎಲ್ಲಿ ಉಳಿಸಬೇಕೆಂದು ಕೇಳು"
+},
+"default_title": {
+"message": "Fatkun ಬ್ಯಾಚ್ ಡೌನ್ಲೋಡ್ ಚಿತ್ರ"
+},
+"default_title_desc": {
+"message": "ShortKey: Alt + Z ಗೆ"
+},
+"description": {
+"message": "ಒಂದು ಉಪಯುಕ್ತ ಮತ್ತು ಸರಳ ಚಿತ್ರ ಡೌನ್ಲೋಡ್ extension.You ರೆಸಲ್ಯೂಶನ್ ಅಥವಾ ಲಿಂಕ್ ಮೂಲಕ ಫಿಲ್ಟರ್ ಮಾಡಬಹುದು."
+},
+"do_not_show_again": {
+"message": "ನಾನು, ಯಾವುದೇ ಹೆಚ್ಚು ಈ ಸಂವಾದ ತೋರಿಸಲು ತಿಳಿದಿದೆ."
+},
+"donate": {
+"message": "ಡಿಕ್ಷನರಿ"
+},
+"export_btn": {
+"message": "ರಫ್ತು"
+},
+"export_close": {
+"message": "ಮುಚ್ಚಿ"
+},
+"export_format": {
+"message": "ರೂಪದಲ್ಲಿ"
+},
+"export_format_tips": {
+"message": "ಈ ಅಸ್ಥಿರ ಬಳಸಬಹುದು: {ಯಾವುದೇ} ಅರ್ಥ ಅನುಕ್ರಮ numberï¼\u003e {ಲಿಂಕ್} ಇಮೇಜ್ ಲಿಂಕ್ ಅರ್ಥ"
+},
+"export_link": {
+"message": "ರಫ್ತು ಲಿಂಕ್"
+},
+"filter_link": {
+"message": "ಲಿಂಕ್ ಮೂಲಕ ಫಿಲ್ಟರ್"
+},
+"five_stars": {
+"message": "5 ನಕ್ಷತ್ರಗಳು ದರ"
+},
+"height": {
+"message": "ಎತ್ತರ"
+},
+"height_short": {
+"message": "ನಿಮಿಷ ಎತ್ತರ"
+},
+"inverse": {
+"message": "ಟಾಗಲ್"
+},
+"min_display": {
+"message": "ಮ್ಯಾಕ್ಸ್ ಸೈಡ್"
+},
+"more_options": {
+"message": "ಇನ್ನಷ್ಟು ಆಯ್ಕೆಗಳು"
+},
+"not_rename": {
+"message": "ಮರುಹೆಸರಿಸಲಾಗಲಿಲ್ಲ"
+},
+"open_multiple_page": {
+"message": "ಓಪನ್ ಬಹು ಪುಟ?"
+},
+"open_multiple_page_action": {
+"message": "ಓಪನ್ ಪುಟ"
+},
+"open_multiple_page_tips": {
+"message": "ಬಹು ಸಾಲುಗಳನ್ನು URL ಗಳು ಮತ್ತು ನಮೂನ ಅಕ್ಷರ ಅನುಮತಿಸಿ. "
+},
+"popup_tips": {
+"message": "ಸಣ್ಣ ಕೀ: Alt + Z ಗೆ"
+},
+"process_end": {
+"message": "ಚಿತ್ರಗಳನ್ನು"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "ಚಿತ್ರ ಪಡೆಯುವಲ್ಲಿ ರೆಸಲ್ಯೂಶನ್"
+},
+"rename_by_this_format": {
+"message": "ಮರುಹೆಸರಿಸು ಆಧಾರಿತ ಮೇಲೆ"
+},
+"rename_tips": {
+"message": "ಈ ಅಸ್ಥಿರ ಬಳಸಬಹುದು: {ಯಾವುದೇ} ಅರ್ಥ ಅನುಕ್ರಮ numberï¼\u003e {EXT} ಅರ್ಥ ವಿಸ್ತೃತ ಹೆಸರು"
+},
+"right_click_to_open": {
+"message": "(ತೆರೆಯಲು ಮತ್ತು ಸೆಟ್ಟಿಂಗ್ಗಳನ್ನು ಪರಿಶೀಲಿಸಿ ಬಲ ಕ್ಲಿಕ್)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "ಉಳಿಸಿ"
+},
+"save_image": {
+"message": "ಚಿತ್ರವನ್ನು ಉಳಿಸು"
+},
+"save_tips": {
+"message": "ಕ್ರೋಮ್ Downlods Setting.Otherwise ಆಯ್ಕೆಯನ್ನು \"ಡೌನ್ಲೋಡ್ ಮಾಡುವ ಮೊದಲು ಪ್ರತಿ ಫೈಲ್ ಅನ್ನು ಎಲ್ಲಿ ಉಳಿಸಬೇಕೆಂದು ಕೇಳು\""
+},
+"save_tips_cancel": {
+"message": "ರದ್ದು"
+},
+"save_tips_do_not_check": {
+"message": "ಆರಿಸಬೇಡಿ"
+},
+"save_tips_done": {
+"message": "ಚಿತ್ರವನ್ನು ಉಳಿಸು"
+},
+"save_tips_open_setting": {
+"message": "ಓಪನ್ ಸೆಟ್ಟಿಂಗ್ಗಳು ಪುಟ"
+},
+"settings": {
+"message": "ಸೆಟ್ಟಿಂಗ್ಗಳು"
+},
+"settings_add_rules": {
+"message": "ನಿಯಮಗಳು ಸೇರಿಸಿ"
+},
+"settings_already_save": {
+"message": "ಸೆಟ್ಟಿಂಗ್ ಉಳಿಸಲಾಗಿದೆ."
+},
+"settings_collect_one_page": {
+"message": "ಪುಟದಲ್ಲಿ ಸಂಗ್ರಹಿಸಿ"
+},
+"settings_download": {
+"message": "ಕ್ರೋಮ್ ಡೌನ್ಲೋಡ್ಗಳು ಸೆಟ್ಟಿಂಗ್"
+},
+"settings_import_rules": {
+"message": "ಆಮದು ನಿಯಮಗಳನ್ನು"
+},
+"settings_min_display": {
+"message": "ಡೀಫಾಲ್ಟ್ ನಿಮಿಷ ರೆಸಲ್ಯೂಶನ್"
+},
+"settings_rule_delete": {
+"message": "ಅಳಿಸಿ"
+},
+"settings_rule_example": {
+"message": "ಉದಾಹರಣೆಗೆ ರೂಲ್"
+},
+"settings_rule_example_title2": {
+"message": "ರೂಲ್ ಬೆಂಬಲ ರೂಢಿಗತಎಕ್ಸ್ಪ್ರೆಶನ್"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "ರೂಲ್ ಇಮೇಜ್ URL ಮಾದರಿ"
+},
+"settings_rule_last_update_time": {
+"message": "ಕೊನೆಯ ನವೀಕರಣ:"
+},
+"settings_rule_last_update_time_none": {
+"message": "ಯಾವುದೂ"
+},
+"settings_rule_name": {
+"message": "ರೂಲ್ ಹೆಸರು"
+},
+"settings_rule_test": {
+"message": "ಟೆಸ್ಟ್"
+},
+"settings_rule_url_replace_code": {
+"message": "ಇಮೇಜ್ URL ಕೋಡ್ ಬದಲಿಗೆ"
+},
+"settings_rules_empty": {
+"message": "ಖಾಲಿ"
+},
+"settings_save_folder": {
+"message": "ಉಳಿಸಲು ಫೋಲ್ಡರ್ ಹೆಸರು (Ctrl + S ಅನ್ನು ಫಾರ್)"
+},
+"settings_save_use_fixed_name": {
+"message": "ಸ್ಥಿರ ಹೆಸರನ್ನು ಬಳಸಿ"
+},
+"settings_save_use_title": {
+"message": "ಬಳಕೆ ವೆಬ್ಸೈಟ್ ಶೀರ್ಷಿಕೆ"
+},
+"settings_show_website": {
+"message": "ಲಿಂಕ್ ತೋರಿಸು"
+},
+"settings_simple": {
+"message": "ಸಾಧಾರಣ ಸೆಟ್ಟಿಂಗ್ಗಳು"
+},
+"settings_special_support": {
+"message": "ವಿಶೇಷ ಬೆಂಬಲ"
+},
+"settings_special_support_desc": {
+"message": "ಸಾಮಾನ್ಯ ನಿಯಮ"
+},
+"settings_update": {
+"message": "ಈಗ ನವೀಕರಿಸಿ"
+},
+"settings_use_shortcut_key": {
+"message": "ಸಣ್ಣ ಕೀ ಬಳಸಿ: Alt + Z ಗೆ"
+},
+"settings_user_rule_desc": {
+"message": "ಕಸ್ಟಮ್ ನಿಯಮಗಳು"
+},
+"sort": {
+"message": "ವಿಂಗಡಿಸಿ"
+},
+"sort_big_first": {
+"message": "ಬಿಗ್ ಚಿತ್ರ ಮೊದಲ"
+},
+"sort_normal": {
+"message": "ಸೈಟ್ ವಿಂಗಡಿಸಿ"
+},
+"sort_small_first": {
+"message": "ಸಣ್ಣ ಚಿತ್ರ ಮೊದಲ"
+},
+"switch_view": {
+"message": "ಸ್ವಿಚ್ ವೀಕ್ಷಿಸಿ"
+},
+"update_declaration": {
+"message": "ಈ ವಿಸ್ತರಣೆಯು zzllrr ನ \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e ಎ ಕೆಲವು ಕೋಡ್ ° ä¹ ಒಂದು\u003e ¾å® ¢ \u003c/a\u003e ಉಲ್ಲೇಖ"
+},
+"update_description": {
+"message": "1 ಇಂಗ್ಲೀಷ್ ಅನುವಾದ \u003cbr /\u003e 2 Chrome ಡೌನ್ಲೋಡ್ ಸೆಟ್ಟಿಂಗ್ಗಳನ್ನು ಅಪ್ಡೇಟ್ಗೊಳಿಸಲಾಗಿದೆ ಸಾಧನಸಲಹೆಗಳಲ್ಲಿ"
+},
+"update_title": {
+"message": "Fatkun ಬ್ಯಾಚ್ ಡೌನ್ಲೋಡ್ ಚಿತ್ರ ಆವೃತ್ತಿ 1.8.3"
+},
+"width": {
+"message": "ಅಗಲ"
+},
+"width_short": {
+"message": "ನಿಮಿಷ ಅಗಲ"
+}
+}

@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "Ta Tab"
+},
+"ad1_extension_desc": {
+"message": "Nižja cena samodejno finder, Popust finder, Cena filter za nakupovanje."
+},
+"ad1_extension_name": {
+"message": "Feng Money Saving Master"
+},
+"advise": {
+"message": "blog"
+},
+"aimg_tooltip": {
+"message": "Klikni na sliko da počistite ali preverite"
+},
+"all_tab": {
+"message": "Vse Tabs"
+},
+"apply": {
+"message": "Uporabi"
+},
+"chrome_download_settings_url": {
+"message": "Vprašaj, kam shraniti vsako datoteko pred prenosom"
+},
+"default_title": {
+"message": "Fatkun Serija Prenos slike"
+},
+"default_title_desc": {
+"message": "ShortKey: Alt + Z"
+},
+"description": {
+"message": "Koristen in enostaven prenos slik extension.You lahko filtrirate s sklepom ali povezavo."
+},
+"do_not_show_again": {
+"message": "Vem, da ne kažejo to pogovorno okno več."
+},
+"donate": {
+"message": "Donate"
+},
+"export_btn": {
+"message": "izvoz"
+},
+"export_close": {
+"message": "Zapri"
+},
+"export_format": {
+"message": "format"
+},
+"export_format_tips": {
+"message": "Lahko uporabite te spremenljivke: {NE} pomeni zaporedje numberï¼\u003e {LINK} pomeni sliko s povezavo"
+},
+"export_link": {
+"message": "Export povezava"
+},
+"filter_link": {
+"message": "Filter by povezave"
+},
+"five_stars": {
+"message": "Stopnja 5 zvezdic"
+},
+"height": {
+"message": "Višina"
+},
+"height_short": {
+"message": "min višina"
+},
+"inverse": {
+"message": "Toggle"
+},
+"min_display": {
+"message": "Max Side"
+},
+"more_options": {
+"message": "več možnosti"
+},
+"not_rename": {
+"message": "ni preimenovanje"
+},
+"open_multiple_page": {
+"message": "Odpri več strani?"
+},
+"open_multiple_page_action": {
+"message": "Odpri stran"
+},
+"open_multiple_page_tips": {
+"message": "Dovoli multi-vrstic url in nadomestni znak. "
+},
+"popup_tips": {
+"message": "Kratek Key: Alt + Z"
+},
+"process_end": {
+"message": "slike"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "slika dobili ločljivost"
+},
+"rename_by_this_format": {
+"message": "Preimenovanje, ki temelji na"
+},
+"rename_tips": {
+"message": "Lahko uporabite te spremenljivke: {NE} pomeni zaporedno numberï¼\u003e {EXT} pomeni razširjeno ime"
+},
+"right_click_to_open": {
+"message": "(Desni klik za odpiranje in preverite nastavitve)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Shrani"
+},
+"save_image": {
+"message": "Shranite sliko"
+},
+"save_tips": {
+"message": "\"Vprašajte kam shraniti vsako datoteko pred prenosom\" možnost v Chrome Downlods Setting.Otherwise, veliko veliko potrditvena pogovorna jate."
+},
+"save_tips_cancel": {
+"message": "Prekliči"
+},
+"save_tips_do_not_check": {
+"message": "Ne izberite"
+},
+"save_tips_done": {
+"message": "Shranite sliko"
+},
+"save_tips_open_setting": {
+"message": "Odpri stran nastavitev"
+},
+"settings": {
+"message": "Nastavitve"
+},
+"settings_add_rules": {
+"message": "Dodaj pravila"
+},
+"settings_already_save": {
+"message": "Nastavitev je shranjena."
+},
+"settings_collect_one_page": {
+"message": "Zberite, da na strani"
+},
+"settings_download": {
+"message": "Chrome Prenosi Nastavitev"
+},
+"settings_import_rules": {
+"message": "pravila za uvoz"
+},
+"settings_min_display": {
+"message": "Privzeta ločljivost min"
+},
+"settings_rule_delete": {
+"message": "Brisanje"
+},
+"settings_rule_example": {
+"message": "Pravilo primer"
+},
+"settings_rule_example_title2": {
+"message": "Pravilo podpora Regular Expression"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "Pravilo URL slike vzorec"
+},
+"settings_rule_last_update_time": {
+"message": "Zadnja posodobitev:"
+},
+"settings_rule_last_update_time_none": {
+"message": "Noben"
+},
+"settings_rule_name": {
+"message": "pravilo Ime"
+},
+"settings_rule_test": {
+"message": "Test"
+},
+"settings_rule_url_replace_code": {
+"message": "url slike zamenjati kodo"
+},
+"settings_rules_empty": {
+"message": "Prazno"
+},
+"settings_save_folder": {
+"message": "shranjevanje mape ime (na Ctrl + S)"
+},
+"settings_save_use_fixed_name": {
+"message": "uporabljajo fiksno ime"
+},
+"settings_save_use_title": {
+"message": "Naslov spletne strani uporaba"
+},
+"settings_show_website": {
+"message": "Pokaži povezave"
+},
+"settings_simple": {
+"message": "običajne nastavitve"
+},
+"settings_special_support": {
+"message": "Posebna podpora"
+},
+"settings_special_support_desc": {
+"message": "Skupno pravilo"
+},
+"settings_update": {
+"message": "Posodobi zdaj"
+},
+"settings_use_shortcut_key": {
+"message": "Uporabite Kratek Ključ: Alt + Z"
+},
+"settings_user_rule_desc": {
+"message": "pravila po meri"
+},
+"sort": {
+"message": "Razvrsti"
+},
+"sort_big_first": {
+"message": "Velika slika najprej"
+},
+"sort_normal": {
+"message": "Razvrsti po mestu"
+},
+"sort_small_first": {
+"message": "Mala slika najprej"
+},
+"switch_view": {
+"message": "preklopite pogled"
+},
+"update_declaration": {
+"message": "Ta razširitev navaja neko kodo zzllrr \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e å ° ä¹ å\u003e ¾å® ¢ \u003c/a\u003e"
+},
+"update_description": {
+"message": "1 translation angleščina \u003cbr /\u003e 2 prenašanje nastavitev Chrome Tooltips posodobljene"
+},
+"update_title": {
+"message": "Fatkun Serija Verzija Slika 1.8.3"
+},
+"width": {
+"message": "Širina"
+},
+"width_short": {
+"message": "min širina"
+}
+}

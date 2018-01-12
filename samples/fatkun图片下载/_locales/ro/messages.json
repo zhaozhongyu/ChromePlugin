@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "această filă"
+},
+"ad1_extension_desc": {
+"message": "preț mai mic automat căutare, Reducere căutare, filtru de preț pentru cumpărături."
+},
+"ad1_extension_name": {
+"message": "Maestru Feng bani de economisire"
+},
+"advise": {
+"message": "blogul"
+},
+"aimg_tooltip": {
+"message": "Faceți clic pe imagine pentru a verifica sau debifați"
+},
+"all_tab": {
+"message": "toate filele"
+},
+"apply": {
+"message": "aplica"
+},
+"chrome_download_settings_url": {
+"message": "Adresați-vă în cazul în care să salvați fiecare fișier înainte de a descărca"
+},
+"default_title": {
+"message": "Lot Fatkun Download Image"
+},
+"default_title_desc": {
+"message": "Shortkey: Alt + Z"
+},
+"description": {
+"message": "O descărcare utilă și simplă imagine extension.You poate filtra printr-o rezoluție sau link-ul."
+},
+"do_not_show_again": {
+"message": "Știu că, nu arată acest dialog mai."
+},
+"donate": {
+"message": "Dona"
+},
+"export_btn": {
+"message": "Export"
+},
+"export_close": {
+"message": "Închide"
+},
+"export_format": {
+"message": "format"
+},
+"export_format_tips": {
+"message": "Puteți folosi aceste variabile: {NO} înseamnă secvența numberï¼\u003e {LINK} înseamnă link-ul de imagine"
+},
+"export_link": {
+"message": "link-ul de export"
+},
+"filter_link": {
+"message": "Filtru de link-ul"
+},
+"five_stars": {
+"message": "rata de 5 stele"
+},
+"height": {
+"message": "Înălţime"
+},
+"height_short": {
+"message": "min Inaltime"
+},
+"inverse": {
+"message": "Comutare"
+},
+"min_display": {
+"message": "max Side"
+},
+"more_options": {
+"message": "Mai multe opțiuni"
+},
+"not_rename": {
+"message": "nu redenumiți"
+},
+"open_multiple_page": {
+"message": "Deschideți pagina cu mai multe?"
+},
+"open_multiple_page_action": {
+"message": "Deschideți pagina"
+},
+"open_multiple_page_tips": {
+"message": "Se lasă mai multe rânduri de URL-uri și caractere wildcard. "
+},
+"popup_tips": {
+"message": "Scurt-cheie: Alt + Z"
+},
+"process_end": {
+"message": "imagini"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "imagine obtinerea de rezolutie"
+},
+"rename_by_this_format": {
+"message": "Redenumire bazat pe"
+},
+"rename_tips": {
+"message": "Puteți folosi aceste variabile: {NO} înseamnă secvența numberï¼\u003e {EXT} înseamnă numele extins"
+},
+"right_click_to_open": {
+"message": "(Faceți clic dreapta pentru a deschide și verificați setările)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Salvați"
+},
+"save_image": {
+"message": "Salvează imaginea"
+},
+"save_tips": {
+"message": "\"Întreabă-mă unde să salvați fiecare fișier înainte de a descărca\" opțiune în Chrome Downlods Setting.Otherwise, multe, multe dialoguri de confirmare efectiv."
+},
+"save_tips_cancel": {
+"message": "Anulare"
+},
+"save_tips_do_not_check": {
+"message": "NU SELECT"
+},
+"save_tips_done": {
+"message": "Salvează imaginea"
+},
+"save_tips_open_setting": {
+"message": "Deschideți pagina de setări"
+},
+"settings": {
+"message": "setările"
+},
+"settings_add_rules": {
+"message": "adăuga reguli"
+},
+"settings_already_save": {
+"message": "Setarea a fost salvată."
+},
+"settings_collect_one_page": {
+"message": "Colecta la pagina"
+},
+"settings_download": {
+"message": "Crom Descărcări Setare"
+},
+"settings_import_rules": {
+"message": "normele de import"
+},
+"settings_min_display": {
+"message": "Rezoluția implicită min"
+},
+"settings_rule_delete": {
+"message": "Șterge"
+},
+"settings_rule_example": {
+"message": "exemplu exclude"
+},
+"settings_rule_example_title2": {
+"message": "sprijin regula Expresie regulată"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "Regula model imagine de adresă URL"
+},
+"settings_rule_last_update_time": {
+"message": "Ultima actualizare:"
+},
+"settings_rule_last_update_time_none": {
+"message": "Nici unul"
+},
+"settings_rule_name": {
+"message": "regula Nume"
+},
+"settings_rule_test": {
+"message": "Test"
+},
+"settings_rule_url_replace_code": {
+"message": "URL-ul de imagine pentru a înlocui codul"
+},
+"settings_rules_empty": {
+"message": "Gol"
+},
+"settings_save_folder": {
+"message": "memora nume de dosar (pentru Ctrl + S)"
+},
+"settings_save_use_fixed_name": {
+"message": "utilizați nume fix"
+},
+"settings_save_use_title": {
+"message": "Denumirea de utilizare site"
+},
+"settings_show_website": {
+"message": "Afișează link-ul"
+},
+"settings_simple": {
+"message": "Setări normale"
+},
+"settings_special_support": {
+"message": "sprijin special"
+},
+"settings_special_support_desc": {
+"message": "Regula comună"
+},
+"settings_update": {
+"message": "Actualizează acum"
+},
+"settings_use_shortcut_key": {
+"message": "Cheie utilizați Scurt: Alt + Z"
+},
+"settings_user_rule_desc": {
+"message": "reguli personalizate"
+},
+"sort": {
+"message": "Fel"
+},
+"sort_big_first": {
+"message": "Imaginea mare întâi"
+},
+"sort_normal": {
+"message": "Sortați în funcție de site"
+},
+"sort_small_first": {
+"message": "Imagine întâi la scară mică"
+},
+"switch_view": {
+"message": "Vizualizare comutator"
+},
+"update_declaration": {
+"message": "Această extensie de referință un cod de å href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e \u003ca zzllrr lui ° Â¹ å\u003e ¾å® ¢ \u003c/a\u003e"
+},
+"update_description": {
+"message": "1 traducere engleză \u003cbr /\u003e 2 setări pentru descărcarea Chrome tooltips actualizate"
+},
+"update_title": {
+"message": "Fatkun Lot Download Image versiunea 1.8.3"
+},
+"width": {
+"message": "Lăţime"
+},
+"width_short": {
+"message": "min Lățime"
+}
+}

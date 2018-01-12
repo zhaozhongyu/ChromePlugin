@@ -1,0 +1,94 @@
+﻿[
+{
+    "site": "topit.me",
+    "srcPattern": "http://.{2,}.topit.me/.*",
+    "replaceRule": "'@'.replace(/[/][mst][/]/g,'/l/').replace(/[mst][.]jpg/g,'l.jpg').replace(/[/][mst]/g,'/l')"
+}
+,
+{
+    "site": "新浪微博",
+    "srcPattern": "http://.*[.]sinaimg[.]cn/.*",
+    "replaceRule": "'@'.replace(/[/]small[/]/, '/large/').replace(/[/]square[/]/, '/large/').replace(/[/]thumbnail[/]/, '/large/').replace(/[/]bmiddle[/]/, '/large/').replace(/[/]thumb[\\d]*[/]/, '/large/').replace(/[/]mw[\\d]+[/]/, '/large/')"
+}
+,
+{
+    "site": "QQ相册/空间",
+    "srcPattern": "https?://.*[.]photo[.]store[.]qq[.]com/.*",
+    "replaceRule": "'@'.replace(/[/]m[/]/, '/o/').replace(/&w=[\\d]+&h=[\\d]+/, '')"
+}
+,
+{
+    "site": "QQ相册2",
+    "srcPattern": "https?://group[.]store[.]qq[.]com/.*",
+    "replaceRule": "'@'.replace(/[/]400$/, '/800').replace(/[/]200$/, '/800').replace(/[/]100$/, '/800')"
+},
+{
+    "site": "百度图趣",
+    "srcPattern": "https?://hiphotos[.]baidu[.]com/.*",
+    "replaceRule": "'@'.replace(/[/]abpic[/]/, '/pic/').replace(/[/]pin[/]w=[\\d]+[/].+[/]/, '/pin/pic/item/')"
+}
+,
+{
+    "site": "豆瓣相册",
+    "srcPattern": "https?://img[\\d]*[.]douban[.]com/.*",
+    "replaceRule": "'@'.replace(/[/]thumb[/]/, '/photo/').replace(/[/]albumicon[/]/, '/photo/')"
+}
+,
+{
+    "site": "花瓣",
+    "srcPattern": "https?://img[.]hb[.]aicdn[.]com/.*",
+    "replaceRule": "'@'.replace(/_fw[\\d]+[w]*$/, '')"
+}
+,
+{
+    "site": "Flickr",
+    "srcPattern": ".*[.]staticflickr[.]com.*",
+    "replaceRule": "'@'.replace(/_[ms]\\.jpg$/, '_b.jpg')"
+}
+,
+{
+    "site": "Google+",
+    "srcPattern": "http.*lh.*\\.googleusercontent\\.com.*",
+    "replaceRule": "'@'.replace(/[/]w\\d+-h\\d+(-n)*-k[/]/, '/s1600/')"
+},
+{
+    "site": "迅雷方舟",
+    "srcPattern": "http.*\\.xlpan\\.kanimg\\.com.*",
+    "replaceRule": "'@'.replace(/&s=.*[\\d]+.*$/, '&s=1600')"
+},
+{
+    "site": "poco.cn",
+    "srcPattern": "http.*image[\\d]*-c.poco.cn.*",
+    "replaceRule": "'@'.replace(/_\\d{3}.jpg$/, '.jpg')"
+},
+{
+    "site": "pconline太平洋摄影",
+    "srcPattern": "http.*.pconline.com.cn.*",
+    "replaceRule": "'@'.replace(/_mthumb.jpg$/, '.jpg').replace(/_thumb.jpg$/, '.jpg')"
+},
+{
+    "site": "美丽说",
+    "srcPattern": "(http.*[.]meilishuo[.]net.*)|(http.*[.]meiliworks[.]com.*)",
+    "replaceRule": "'@'.replace(/[/]l[/]/, '/_o/').replace(/[/]r[/]/, '/_o/')"
+},
+{
+    "site": "蘑菇街",
+    "srcPattern": "http://.*[.]mogujie[.]cn/.*",
+    "replaceRule": "'@'.replace(/_[\\d]{3}x[\\d]+.jpg$/, '_468x468.jpg')"
+},
+{
+    "site": "又拍网",
+    "srcPattern": "http://photo.yupoo.com/.*.jpg",
+    "replaceRule": "'@'.replace(/(square.jpg$)|(fw200.jpg$)/, 'medish.jpg')"
+},
+{
+    "site": "hao123美图",
+    "srcPattern": "http.*img.*[.]hao123[.]com.*",
+    "replaceRule": "'@'.replace(/_310$/, '_0')"
+},
+{
+    "site": "pinterest",
+    "srcPattern": "http://.*[.]pinimg[.]com/.*.jpg",
+    "replaceRule": "'@'.replace(/[/]2([\\d]+)x[/]/, '/7$1x/')"
+}
+]

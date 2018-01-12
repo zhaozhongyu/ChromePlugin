@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "Fitxa honek"
+},
+"ad1_extension_desc": {
+"message": "Behe prezioa automatikoki bilatzailea, Discount bilatzailea, prezioa Erosketak iragazkia."
+},
+"ad1_extension_name": {
+"message": "Feng Dirua Aurrezteko Master"
+},
+"advise": {
+"message": "Bloga"
+},
+"aimg_tooltip": {
+"message": "Egin klik irudia desmarkatu edo egiaztatu"
+},
+"all_tab": {
+"message": "Tabs guztiak"
+},
+"apply": {
+"message": "Aplikatu"
+},
+"chrome_download_settings_url": {
+"message": "Galdetu non deskargatu aurretik, fitxategi bakoitzaren gorde"
+},
+"default_title": {
+"message": "Fatkun Batch Deskarga Image"
+},
+"default_title_desc": {
+"message": "ShortKey: Alt + Z"
+},
+"description": {
+"message": "erabilgarria eta erraza irudi download An extension.You ahal bereizmen edo link arabera iragazi."
+},
+"do_not_show_again": {
+"message": "Ezagutzen nuen, ez elkarrizketa honek erakusten du gehiago."
+},
+"donate": {
+"message": "Dohaintzan"
+},
+"export_btn": {
+"message": "Export"
+},
+"export_close": {
+"message": "Itxi"
+},
+"export_format": {
+"message": "formatuan"
+},
+"export_format_tips": {
+"message": "aldagai hauek erabili ahal izango duzu: {NO} esan nahi sekuentzia numberï¼\u003e {LINK} irudi lotura esan"
+},
+"export_link": {
+"message": "Export esteka"
+},
+"filter_link": {
+"message": "Filter link arabera"
+},
+"five_stars": {
+"message": "5 stars tasa"
+},
+"height": {
+"message": "Altuera"
+},
+"height_short": {
+"message": "Min Altuera"
+},
+"inverse": {
+"message": "toggle"
+},
+"min_display": {
+"message": "Max Side"
+},
+"more_options": {
+"message": "Aukerak gehiago"
+},
+"not_rename": {
+"message": "Ez izenez aldatu"
+},
+"open_multiple_page": {
+"message": "Open multi orria?"
+},
+"open_multiple_page_action": {
+"message": "Open orria"
+},
+"open_multiple_page_tips": {
+"message": "Onartu multi-ilarek urls eta komodin. "
+},
+"popup_tips": {
+"message": "Gakoa Short: Alt + Z"
+},
+"process_end": {
+"message": "irudiak"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "irudia bereizmen lortzean"
+},
+"rename_by_this_format": {
+"message": "Berrizendatu oinarritutako"
+},
+"rename_tips": {
+"message": "aldagai hauek erabili ahal izango duzu: {NO} esan nahi sekuentzia numberï¼\u003e {} EXT izen hedatua esan"
+},
+"right_click_to_open": {
+"message": "(Right-click ireki eta ezarpenak egiaztatu)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Save"
+},
+"save_image": {
+"message": "Gorde irudia"
+},
+"save_tips": {
+"message": "\"Galdetu non deskargatu aurretik, fitxategi bakoitzaren gorde\" aukera Chrome Downlods Setting.Otherwise ere, asko berrespena elkarrizketa-koadroak asko artaldea."
+},
+"save_tips_cancel": {
+"message": "Utzi"
+},
+"save_tips_do_not_check": {
+"message": "Ez aukeratu"
+},
+"save_tips_done": {
+"message": "Gorde irudia"
+},
+"save_tips_open_setting": {
+"message": "Ireki Ezarpenak Page"
+},
+"settings": {
+"message": "Ezarpenak"
+},
+"settings_add_rules": {
+"message": "Gehitu arauak"
+},
+"settings_already_save": {
+"message": "Ezarpenak gorde."
+},
+"settings_collect_one_page": {
+"message": "orrian Bildu"
+},
+"settings_download": {
+"message": "Chrome Downloads Entorno"
+},
+"settings_import_rules": {
+"message": "Inportatu arauak"
+},
+"settings_min_display": {
+"message": "min bereizmen Default"
+},
+"settings_rule_delete": {
+"message": "ezabatu"
+},
+"settings_rule_example": {
+"message": "araua adibidez"
+},
+"settings_rule_example_title2": {
+"message": "Araua laguntza Esapide"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "Araua Irudiaren URL eredua"
+},
+"settings_rule_last_update_time": {
+"message": "Azken eguneratzea:"
+},
+"settings_rule_last_update_time_none": {
+"message": "Bat ere ez"
+},
+"settings_rule_name": {
+"message": "Araua izena"
+},
+"settings_rule_test": {
+"message": "Test"
+},
+"settings_rule_url_replace_code": {
+"message": "Image url ordezkatu kodea"
+},
+"settings_rules_empty": {
+"message": "Empty"
+},
+"settings_save_folder": {
+"message": "gordetzeko karpeta name (Ctrl + S)"
+},
+"settings_save_use_fixed_name": {
+"message": "erabili izen finko"
+},
+"settings_save_use_title": {
+"message": "Erabilera web izenburua"
+},
+"settings_show_website": {
+"message": "Erakutsi esteka"
+},
+"settings_simple": {
+"message": "Ezarpenak normal"
+},
+"settings_special_support": {
+"message": "laguntza bereziak"
+},
+"settings_special_support_desc": {
+"message": "Araua Common"
+},
+"settings_update": {
+"message": "Eguneratu orain"
+},
+"settings_use_shortcut_key": {
+"message": "Erabili Key Short: Alt + Z"
+},
+"settings_user_rule_desc": {
+"message": "arau pertsonalizatua"
+},
+"sort": {
+"message": "Sort"
+},
+"sort_big_first": {
+"message": "Big irudiaren lehen"
+},
+"sort_normal": {
+"message": "Sort by gune"
+},
+"sort_small_first": {
+"message": "irudia Small lehen"
+},
+"switch_view": {
+"message": "Aldatu ikuspegia"
+},
+"update_declaration": {
+"message": "Luzapen hau erreferentziatzen zzllrr en \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e baten kodea batzuk º ä¹ å\u003e ¾å® ¢ \u003c/a\u003e"
+},
+"update_description": {
+"message": "1 English itzulpen \u003cbr /\u003e 2 Chrome ezarpenak deskargatzeari argibiderik eguneratua"
+},
+"update_title": {
+"message": "Fatkun Batch Deskarga Image 1.8.3 bertsioa"
+},
+"width": {
+"message": "Zabalera"
+},
+"width_short": {
+"message": "Min Zabalera"
+}
+}

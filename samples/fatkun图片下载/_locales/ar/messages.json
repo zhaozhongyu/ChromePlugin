@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "هذا تبويب"
+},
+"ad1_extension_desc": {
+"message": "انخفاض سعر مكتشف تلقائيا، الخصم مكتشف، الأسعار مرشح للتسوق."
+},
+"ad1_extension_name": {
+"message": "فنغ توفير المال ماستر"
+},
+"advise": {
+"message": "مدونة"
+},
+"aimg_tooltip": {
+"message": "اضغط على الصورة لإلغاء أو مراجعة"
+},
+"all_tab": {
+"message": "جميع علامات التبويب"
+},
+"apply": {
+"message": "تطبيق"
+},
+"chrome_download_settings_url": {
+"message": "السؤال عن مكان حفظ الملفات قبل التحميل"
+},
+"default_title": {
+"message": "دفعة Fatkun تحميل صورة"
+},
+"default_title_desc": {
+"message": "ShortKey: على Alt + Z"
+},
+"description": {
+"message": "ومفيدة وبسيطة صورة تحميل extension.You يمكن تصفية بموجب قرار أو الارتباط."
+},
+"do_not_show_again": {
+"message": "وأنا أعلم أنه، لا تظهر هذا الحوار أي أكثر من ذلك."
+},
+"donate": {
+"message": "تبرع"
+},
+"export_btn": {
+"message": "تصدير"
+},
+"export_close": {
+"message": "قريب"
+},
+"export_format": {
+"message": "شكل"
+},
+"export_format_tips": {
+"message": "يمكنك استخدام هذه المتغيرات: {لا} يعني تسلسل numberï¼\u003e {رابط} يعني رابط الصورة"
+},
+"export_link": {
+"message": "رابط تصدير"
+},
+"filter_link": {
+"message": "مرشح عن طريق وصلة"
+},
+"five_stars": {
+"message": "معدل 5 نجوم"
+},
+"height": {
+"message": "ارتفاع"
+},
+"height_short": {
+"message": "مين الطول"
+},
+"inverse": {
+"message": "تبديل"
+},
+"min_display": {
+"message": "ماكس الجانبية"
+},
+"more_options": {
+"message": "خيارات أخرى"
+},
+"not_rename": {
+"message": "لا إعادة تسمية"
+},
+"open_multiple_page": {
+"message": "فتح صفحة متعددة؟"
+},
+"open_multiple_page_action": {
+"message": "صفحة مفتوحة"
+},
+"open_multiple_page_tips": {
+"message": "السماح متعددة الصفوف-عناوين وحرف البدل. "
+},
+"popup_tips": {
+"message": "مفتاح قصيرة: على Alt + Z"
+},
+"process_end": {
+"message": "صور"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "صورة قرار الحصول على"
+},
+"rename_by_this_format": {
+"message": "إعادة تسمية على أساس"
+},
+"rename_tips": {
+"message": "يمكنك استخدام هذه المتغيرات: {لا} يعني تسلسل numberï¼\u003e {EXT} يعني اسم موسعة"
+},
+"right_click_to_open": {
+"message": "(انقر بزر الماوس الأيمن لفتح وفحص إعدادات)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "حفظ"
+},
+"save_image": {
+"message": "احفظ الصورة"
+},
+"save_tips": {
+"message": "\"اسأل مكان حفظ الملفات قبل التحميل\" الخيار في كروم Downlods Setting.Otherwise، الكثير الكثير من الحوارات تأكيدا قطيع."
+},
+"save_tips_cancel": {
+"message": "إلغاء"
+},
+"save_tips_do_not_check": {
+"message": "لم تقم بتحديد"
+},
+"save_tips_done": {
+"message": "احفظ الصورة"
+},
+"save_tips_open_setting": {
+"message": "افتح إعدادات الصفحة"
+},
+"settings": {
+"message": "إعدادات"
+},
+"settings_add_rules": {
+"message": "إضافة قواعد"
+},
+"settings_already_save": {
+"message": "الإعداد المحفوظة."
+},
+"settings_collect_one_page": {
+"message": "جمع إليه في الصفحة"
+},
+"settings_download": {
+"message": "إعداد الكروم التحميل"
+},
+"settings_import_rules": {
+"message": "قواعد استيراد"
+},
+"settings_min_display": {
+"message": "قرار دقيقة افتراضي"
+},
+"settings_rule_delete": {
+"message": "حذف"
+},
+"settings_rule_example": {
+"message": "حكم سبيل المثال"
+},
+"settings_rule_example_title2": {
+"message": "دعم حكم التعبير منتظم"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "حكم نمط رابط الصورة"
+},
+"settings_rule_last_update_time": {
+"message": "اخر تحديث:"
+},
+"settings_rule_last_update_time_none": {
+"message": "لا شيء"
+},
+"settings_rule_name": {
+"message": "اسم القاعدة"
+},
+"settings_rule_test": {
+"message": "اختبار"
+},
+"settings_rule_url_replace_code": {
+"message": "رابط الصورة استبدال متاحة"
+},
+"settings_rules_empty": {
+"message": "فارغة"
+},
+"settings_save_folder": {
+"message": "حفظ اسم مجلد (على السيطرة + S)"
+},
+"settings_save_use_fixed_name": {
+"message": "استخدام اسم ثابت"
+},
+"settings_save_use_title": {
+"message": "عنوان استخدام الموقع"
+},
+"settings_show_website": {
+"message": "مشاهدة الرابط"
+},
+"settings_simple": {
+"message": "الإعدادات العادية"
+},
+"settings_special_support": {
+"message": "دعم خاص"
+},
+"settings_special_support_desc": {
+"message": "القاعدة المشتركة"
+},
+"settings_update": {
+"message": "تحديث الان"
+},
+"settings_use_shortcut_key": {
+"message": "استخدام مفتاح قصير: على Alt + Z"
+},
+"settings_user_rule_desc": {
+"message": "قواعد العرف"
+},
+"sort": {
+"message": "فرز"
+},
+"sort_big_first": {
+"message": "صورة كبيرة لأول مرة"
+},
+"sort_normal": {
+"message": "فرز حسب الموقع"
+},
+"sort_small_first": {
+"message": "صورة صغيرة لأول مرة"
+},
+"switch_view": {
+"message": "تغيير طريقة"
+},
+"update_declaration": {
+"message": "هذا التمديد المشار بعض رمز ل\u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk؟hl=zh_cn\"\u003e zzllrr لدرجة à¹ A\u003e ¾å® ¢ \u003c/A\u003e"
+},
+"update_description": {
+"message": "1 ترجمة إنجليزي \u003cbr /\u003e 2 كروم تحميل إعدادات تلميحات تجديد"
+},
+"update_title": {
+"message": "Fatkun دفعة تحميل صورة نسخة 1.8.3"
+},
+"width": {
+"message": "عرض"
+},
+"width_short": {
+"message": "دقيقة العرض"
+}
+}

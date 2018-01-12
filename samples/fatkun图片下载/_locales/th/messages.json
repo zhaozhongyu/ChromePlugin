@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "แท็บนี้"
+},
+"ad1_extension_desc": {
+"message": "ราคาที่ต่ำกว่า Finder โดยอัตโนมัติ Finder ส่วนลดกรองราคาสำหรับการช็อปปิ้ง"
+},
+"ad1_extension_name": {
+"message": "ฮประหยัดเงินปริญญาโท"
+},
+"advise": {
+"message": "บล็อก"
+},
+"aimg_tooltip": {
+"message": "คลิกที่ภาพเพื่อยกเลิกการเลือกหรือตรวจสอบ"
+},
+"all_tab": {
+"message": "แท็บทั้งหมด"
+},
+"apply": {
+"message": "ใช้"
+},
+"chrome_download_settings_url": {
+"message": "สอบถามที่เก็บไฟล์ก่อนดาวน์โหลด"
+},
+"default_title": {
+"message": "Fatkun ชุดการดาวน์โหลดภาพ"
+},
+"default_title_desc": {
+"message": "ShortKey: Alt + Z"
+},
+"description": {
+"message": "ประโยชน์และง่ายดาวน์โหลดภาพ extension.You สามารถกรองโดยมติหรือการเชื่อมโยง"
+},
+"do_not_show_again": {
+"message": "ฉันรู้ว่ามันไม่ได้แสดงโต้ตอบนี้ใด ๆ เพิ่มเติม"
+},
+"donate": {
+"message": "บริจาค"
+},
+"export_btn": {
+"message": "ส่งออก"
+},
+"export_close": {
+"message": "ปิด"
+},
+"export_format": {
+"message": "รูป"
+},
+"export_format_tips": {
+"message": "คุณสามารถใช้ตัวแปรเหล่านี้: {NO} หมายถึงลำดับnumberï¼\u003e {link} หมายถึงการเชื่อมโยงภาพ"
+},
+"export_link": {
+"message": "การเชื่อมโยงการส่งออก"
+},
+"filter_link": {
+"message": "กรองตามลิงค์"
+},
+"five_stars": {
+"message": "อัตรา 5 ดาว"
+},
+"height": {
+"message": "ความสูง"
+},
+"height_short": {
+"message": "นาทีความสูง"
+},
+"inverse": {
+"message": "ข้อศอก"
+},
+"min_display": {
+"message": "ด้านแม็กซ์"
+},
+"more_options": {
+"message": "ตัวเลือกเพิ่มเติม"
+},
+"not_rename": {
+"message": "ไม่ได้เปลี่ยนชื่อ"
+},
+"open_multiple_page": {
+"message": "หลายหน้าเปิด?"
+},
+"open_multiple_page_action": {
+"message": "เปิดหน้าเว็บ"
+},
+"open_multiple_page_tips": {
+"message": "อนุญาตให้ URL ที่หลายแถวและอักขระตัวแทน "
+},
+"popup_tips": {
+"message": "คีย์สั้น: Alt + Z"
+},
+"process_end": {
+"message": "ภาพ"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "ภาพที่ได้รับความละเอียด"
+},
+"rename_by_this_format": {
+"message": "ขึ้นอยู่กับการเปลี่ยนชื่อ"
+},
+"rename_tips": {
+"message": "คุณสามารถใช้ตัวแปรเหล่านี้: {NO} หมายถึงลำดับnumberï¼\u003e {EXT} หมายถึงชื่อขยาย"
+},
+"right_click_to_open": {
+"message": "(คลิกขวาเพื่อเปิดและตรวจสอบการตั้งค่า)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "ประหยัด"
+},
+"save_image": {
+"message": "บันทึกภาพ"
+},
+"save_tips": {
+"message": "\"สอบถามที่เก็บไฟล์ก่อนดาวน์โหลด\" ตัวเลือกใน Chrome Downlods Setting.Otherwise หลายฝูงแกะกล่องโต้ตอบการยืนยันจำนวนมาก"
+},
+"save_tips_cancel": {
+"message": "ยกเลิก"
+},
+"save_tips_do_not_check": {
+"message": "ไม่ได้เลือก"
+},
+"save_tips_done": {
+"message": "บันทึกภาพ"
+},
+"save_tips_open_setting": {
+"message": "เปิดหน้าการตั้งค่า"
+},
+"settings": {
+"message": "การตั้งค่า"
+},
+"settings_add_rules": {
+"message": "เพิ่มกฎ"
+},
+"settings_already_save": {
+"message": "การตั้งค่าที่บันทึกไว้"
+},
+"settings_collect_one_page": {
+"message": "เก็บบนหน้า"
+},
+"settings_download": {
+"message": "การตั้งค่า Chrome ดาวน์โหลด"
+},
+"settings_import_rules": {
+"message": "กฎระเบียบการนำเข้า"
+},
+"settings_min_display": {
+"message": "ความละเอียดต่ำสุดเริ่มต้น"
+},
+"settings_rule_delete": {
+"message": "ลบ"
+},
+"settings_rule_example": {
+"message": "กฎข้อที่ยกตัวอย่างเช่น"
+},
+"settings_rule_example_title2": {
+"message": "สนับสนุนกฎนิพจน์ปกติ"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "กฎรูปแบบภาพ URL"
+},
+"settings_rule_last_update_time": {
+"message": "การปรับปรุงครั้งล่าสุด:"
+},
+"settings_rule_last_update_time_none": {
+"message": "ไม่มี"
+},
+"settings_rule_name": {
+"message": "ชื่อกฎ"
+},
+"settings_rule_test": {
+"message": "ทดสอบ"
+},
+"settings_rule_url_replace_code": {
+"message": "URL ของภาพแทนรหัส"
+},
+"settings_rules_empty": {
+"message": "ว่างเปล่า"
+},
+"settings_save_folder": {
+"message": "บันทึกชื่อโฟลเดอร์ (สำหรับ Ctrl + S)"
+},
+"settings_save_use_fixed_name": {
+"message": "คงใช้ชื่อ"
+},
+"settings_save_use_title": {
+"message": "ชื่อใช้งานเว็บไซต์"
+},
+"settings_show_website": {
+"message": "แสดงการเชื่อมโยง"
+},
+"settings_simple": {
+"message": "การตั้งค่าปกติ"
+},
+"settings_special_support": {
+"message": "การสนับสนุนเป็นพิเศษ"
+},
+"settings_special_support_desc": {
+"message": "กฎข้อที่พบบ่อย"
+},
+"settings_update": {
+"message": "อัปเดตในขณะนี้"
+},
+"settings_use_shortcut_key": {
+"message": "ใช้คีย์สั้น: Alt + Z"
+},
+"settings_user_rule_desc": {
+"message": "กฎที่กำหนดเอง"
+},
+"sort": {
+"message": "ประเภท"
+},
+"sort_big_first": {
+"message": "ภาพใหญ่ครั้งแรก"
+},
+"sort_normal": {
+"message": "เรียงตามเว็บไซต์"
+},
+"sort_small_first": {
+"message": "ภาพขนาดเล็กก่อน"
+},
+"switch_view": {
+"message": "สลับมุมมอง"
+},
+"update_declaration": {
+"message": "ส่วนขยายนี้อ้างอิงรหัสบางส่วนของ zzllrr เป็น \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e °เน A\u003e ¾å®¢ \u003c/a\u003e"
+},
+"update_description": {
+"message": "1 ภาษาอังกฤษแปล \u003cbr /\u003e 2 Chrome การตั้งค่าการดาวน์โหลดคำแนะนำเครื่องมือการปรับปรุง"
+},
+"update_title": {
+"message": "Fatkun ชุดการดาวน์โหลดภาพเวอร์ชัน 1.8.3"
+},
+"width": {
+"message": "ความกว้าง"
+},
+"width_short": {
+"message": "นาทีความกว้าง"
+}
+}

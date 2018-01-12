@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "aquesta Tab"
+},
+"ad1_extension_desc": {
+"message": "Un preu baix de forma automàtica cercador, cercador de descompte, filtre de preus de compres."
+},
+"ad1_extension_name": {
+"message": "Mestre de Feng per estalviar diners"
+},
+"advise": {
+"message": "el blog"
+},
+"aimg_tooltip": {
+"message": "Feu clic a la imatge per que marquis o"
+},
+"all_tab": {
+"message": "tots aquí"
+},
+"apply": {
+"message": "aplicar"
+},
+"chrome_download_settings_url": {
+"message": "Pregunta on abans de la descàrrega"
+},
+"default_title": {
+"message": "Lot Fatkun Descarregar Imatge"
+},
+"default_title_desc": {
+"message": "ShortKey: Alt + Z"
+},
+"description": {
+"message": "Una descàrrega útil i senzilla imatge extension.You pot filtrar per resolució o enllaç."
+},
+"do_not_show_again": {
+"message": "Sé que, no mostra aquest quadre de diàleg més."
+},
+"donate": {
+"message": "Donar"
+},
+"export_btn": {
+"message": "exportació"
+},
+"export_close": {
+"message": "a prop"
+},
+"export_format": {
+"message": "format"
+},
+"export_format_tips": {
+"message": "Pot servir aquests paràmetres: {NO} vol dir que la seqüència numberï¼\u003e {LINK} significa enllaç d'imatge"
+},
+"export_link": {
+"message": "enllaç Exporta"
+},
+"filter_link": {
+"message": "Filtrar per enllaç"
+},
+"five_stars": {
+"message": "taxa de 5 estrelles"
+},
+"height": {
+"message": "alçada"
+},
+"height_short": {
+"message": "alçada min"
+},
+"inverse": {
+"message": "palanca"
+},
+"min_display": {
+"message": "Max Side"
+},
+"more_options": {
+"message": "Més opcions"
+},
+"not_rename": {
+"message": "no canviï el nom"
+},
+"open_multiple_page": {
+"message": "Obrir diverses pàgines?"
+},
+"open_multiple_page_action": {
+"message": "Obrir la pàgina"
+},
+"open_multiple_page_tips": {
+"message": "Permetre diversos files URL i caràcter comodí. "
+},
+"popup_tips": {
+"message": "Clau curta: Alt + Z"
+},
+"process_end": {
+"message": "imatges"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "aconseguir resolució d'imatge"
+},
+"rename_by_this_format": {
+"message": "Canviar el nom basat en"
+},
+"rename_tips": {
+"message": "Pot servir aquests paràmetres: {NO} significa seqüència numberï¼\u003e {EXT} vol dir nom estès"
+},
+"right_click_to_open": {
+"message": "(Feu clic per obrir i comprovar la configuració)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Desar"
+},
+"save_image": {
+"message": "Guardar imatge"
+},
+"save_tips": {
+"message": "\"Pregunta on abans de la descàrrega\" opció en Chrome Downlods Setting.Otherwise, molts molts diàlegs de confirmació ramat."
+},
+"save_tips_cancel": {
+"message": "Cancel · lar"
+},
+"save_tips_do_not_check": {
+"message": "no seleccioneu"
+},
+"save_tips_done": {
+"message": "Guardar imatge"
+},
+"save_tips_open_setting": {
+"message": "Per obrir Configuració de Pàgina"
+},
+"settings": {
+"message": "ajustos"
+},
+"settings_add_rules": {
+"message": "Afegir regles"
+},
+"settings_already_save": {
+"message": "Es va guardar la configuració."
+},
+"settings_collect_one_page": {
+"message": "Reunir la pàgina"
+},
+"settings_download": {
+"message": "Descàrregues crom Marc"
+},
+"settings_import_rules": {
+"message": "Les normes d'importació"
+},
+"settings_min_display": {
+"message": "La resolució per defecte min"
+},
+"settings_rule_delete": {
+"message": "esborrar"
+},
+"settings_rule_example": {
+"message": "regla exemple"
+},
+"settings_rule_example_title2": {
+"message": "Regla de suport d'expressions regulars"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "Regla patró d'imatge URL"
+},
+"settings_rule_last_update_time": {
+"message": "Darrera actualització:"
+},
+"settings_rule_last_update_time_none": {
+"message": "cap"
+},
+"settings_rule_name": {
+"message": "Nom de la regla"
+},
+"settings_rule_test": {
+"message": "prova"
+},
+"settings_rule_url_replace_code": {
+"message": "URL de la imatge reemplaçar codi"
+},
+"settings_rules_empty": {
+"message": "Buit"
+},
+"settings_save_folder": {
+"message": "salvar nom de la carpeta (per Ctrl + S)"
+},
+"settings_save_use_fixed_name": {
+"message": "usar el nom fix"
+},
+"settings_save_use_title": {
+"message": "Títol d'ús del lloc web"
+},
+"settings_show_website": {
+"message": "Mostra l'enllaç"
+},
+"settings_simple": {
+"message": "ajustos normals"
+},
+"settings_special_support": {
+"message": "suport especial"
+},
+"settings_special_support_desc": {
+"message": "regla comuna"
+},
+"settings_update": {
+"message": "Actualitzar ara"
+},
+"settings_use_shortcut_key": {
+"message": "Utilitzeu Clau curta: Alt + Z"
+},
+"settings_user_rule_desc": {
+"message": "Les regles personalitzades"
+},
+"sort": {
+"message": "espècie"
+},
+"sort_big_first": {
+"message": "Imatge de la gran primera"
+},
+"sort_normal": {
+"message": "Ordenar per lloc"
+},
+"sort_small_first": {
+"message": "Una imatge petita primera"
+},
+"switch_view": {
+"message": "canviar vista"
+},
+"update_declaration": {
+"message": "Aquesta extensió fa referència a un codi d'un \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e de zzllrr ° ä¹ a\u003e ¾å® ¢ \u003c/a\u003e"
+},
+"update_description": {
+"message": "1 traducció Anglès \u003cbr /\u003e 2 configuració de descàrrega de Chrome informació sobre eines actualitzades"
+},
+"update_title": {
+"message": "Fatkun lots descarregar la versió 1.8.3 Imatge"
+},
+"width": {
+"message": "ample"
+},
+"width_short": {
+"message": "amplada min"
+}
+}

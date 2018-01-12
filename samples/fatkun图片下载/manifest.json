@@ -1,0 +1,35 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": "icon-small.png",
+      "default_popup": "popup.html",
+      "default_title": "__MSG_default_title____MSG_default_title_desc__"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "js/jQuery.js","js/content.js" ],
+      "matches": [ "\u003Call_urls\u003E" ]
+   }
+    ],
+   "content_security_policy": "script-src 'self' https://www.google-analytics.com https://ssl.google-analytics.com; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "homepage_url": "https://chrome.google.com/webstore/detail/nnjjahlikiabnchcpehcpkdeckfgnohf",
+   "icons": {
+      "128": "icon.png",
+      "32": "icon-small.png"
+   },
+   "manifest_version": 2,
+   "name": "__MSG_default_title__",
+   "offline_enabled": true,
+   "options_page": "options.html",
+   "permissions": [ "downloads", "webRequest","webRequestBlocking", "tabs", "\u003Call_urls\u003E" ],
+   "sandbox": {
+      "pages": [ "sandbox.html" ]
+   },
+   "version": "2.16"
+}

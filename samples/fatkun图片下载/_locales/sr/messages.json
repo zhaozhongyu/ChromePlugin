@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "ову картицу"
+},
+"ad1_extension_desc": {
+"message": "Нижа цена аутоматски тражило, попуст тражило, Цена филтер за куповину."
+},
+"ad1_extension_name": {
+"message": "Фенг Штедња мастер"
+},
+"advise": {
+"message": "блог"
+},
+"aimg_tooltip": {
+"message": "Кликните на слику да поништите или провери"
+},
+"all_tab": {
+"message": "Алл Табс"
+},
+"apply": {
+"message": "Применити"
+},
+"chrome_download_settings_url": {
+"message": "Питам где да сачувате сваку датотеку пре преузимања"
+},
+"default_title": {
+"message": "Фаткун Серија Довнлоад Филе"
+},
+"default_title_desc": {
+"message": "СхортКеи: Алт + З"
+},
+"description": {
+"message": "Корисна и једноставна слика за преузимање ектенсион.Иоу могу филтрирати по резолуцији или везу."
+},
+"do_not_show_again": {
+"message": "Знам да, не показује овај дијалог више."
+},
+"donate": {
+"message": "поклонити"
+},
+"export_btn": {
+"message": "извоз"
+},
+"export_close": {
+"message": "близу"
+},
+"export_format": {
+"message": "формат"
+},
+"export_format_tips": {
+"message": "Можете користити ове променљиве: {НЕ} значи низ нумбери¼\u003e {линк} значи Имаге Линк"
+},
+"export_link": {
+"message": "Извоз Линк"
+},
+"filter_link": {
+"message": "Филтер за линк"
+},
+"five_stars": {
+"message": "5 Звездице стопа"
+},
+"height": {
+"message": "висина"
+},
+"height_short": {
+"message": "мин Висина"
+},
+"inverse": {
+"message": "тоггле"
+},
+"min_display": {
+"message": "мак сиде"
+},
+"more_options": {
+"message": "Више опција"
+},
+"not_rename": {
+"message": "не преименовање"
+},
+"open_multiple_page": {
+"message": "Отворено више страна?"
+},
+"open_multiple_page_action": {
+"message": "опен страна"
+},
+"open_multiple_page_tips": {
+"message": "Дозволите мулти-редни УРЛ адресе и џокер карактер. "
+},
+"popup_tips": {
+"message": "Кратка Кључ: Алт + З"
+},
+"process_end": {
+"message": "слике"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "слика се резолуција"
+},
+"rename_by_this_format": {
+"message": "Преименовати на основу"
+},
+"rename_tips": {
+"message": "Можете користити ове променљиве: {НЕ} значи секвенце нумбери¼\u003e {ЕКСТ} значи продужени име"
+},
+"right_click_to_open": {
+"message": "(Десни клик за отварање и проверите подешавања)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "саве"
+},
+"save_image": {
+"message": "Сачували слику"
+},
+"save_tips": {
+"message": "\"Питајте где да сачувате сваку датотеку пре преузимања\" опцију у Цхроме Довнлодс Сеттинг.Отхервисе, многе многе потврде дијалози стадо."
+},
+"save_tips_cancel": {
+"message": "отказати"
+},
+"save_tips_do_not_check": {
+"message": "Немојте да изаберете"
+},
+"save_tips_done": {
+"message": "Сачували слику"
+},
+"save_tips_open_setting": {
+"message": "Отвори подешавања Страница"
+},
+"settings": {
+"message": "Подешавања"
+},
+"settings_add_rules": {
+"message": "Адд правила"
+},
+"settings_already_save": {
+"message": "Подешавање је сачувано."
+},
+"settings_collect_one_page": {
+"message": "Прикупити на на страни"
+},
+"settings_download": {
+"message": "Цхроме преузимања Постављање"
+},
+"settings_import_rules": {
+"message": "импорт правила"
+},
+"settings_min_display": {
+"message": "Уобичајено мин Ресолутион"
+},
+"settings_rule_delete": {
+"message": "избрисати"
+},
+"settings_rule_example": {
+"message": "Правило пример"
+},
+"settings_rule_example_title2": {
+"message": "Правило подршка Регулар Екпрессион"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "Правило слика УРЛ образац"
+},
+"settings_rule_last_update_time": {
+"message": "Ласт упдате:"
+},
+"settings_rule_last_update_time_none": {
+"message": "Ниједан"
+},
+"settings_rule_name": {
+"message": "pravilo Име"
+},
+"settings_rule_test": {
+"message": "тест"
+},
+"settings_rule_url_replace_code": {
+"message": "УРЛ слике заменити код"
+},
+"settings_rules_empty": {
+"message": "празан"
+},
+"settings_save_folder": {
+"message": "саве фолдера име (за Цтрл + С)"
+},
+"settings_save_use_fixed_name": {
+"message": "користити фиксну име"
+},
+"settings_save_use_title": {
+"message": "Употреба Вебсите Титле"
+},
+"settings_show_website": {
+"message": "схов Линк"
+},
+"settings_simple": {
+"message": "Нормал Подешавања"
+},
+"settings_special_support": {
+"message": "Посебна подршка"
+},
+"settings_special_support_desc": {
+"message": "zajednička правила"
+},
+"settings_update": {
+"message": "Ажурирање сада"
+},
+"settings_use_shortcut_key": {
+"message": "Користите кратке Кеи: Алт + З"
+},
+"settings_user_rule_desc": {
+"message": "Цустом правила"
+},
+"sort": {
+"message": "Врста"
+},
+"sort_big_first": {
+"message": "Велика слика први"
+},
+"sort_normal": {
+"message": "Сортирај по сајту"
+},
+"sort_small_first": {
+"message": "Мала слика први"
+},
+"switch_view": {
+"message": "Свитцх Виев"
+},
+"update_declaration": {
+"message": "Ово проширење означен неки код ззллрр је \u003cа хреф=\"хттп://цхроме.гоогле.цом/вебсторе/детаил/гфјхимхкјмиппхнаминннњпнлнееплк?хл=зх_цн\"\u003e интернете ° а¹ не\u003e ¾а® ¢ \u003c/а\u003e"
+},
+"update_description": {
+"message": "1 енглески превод \u003cбр /\u003e 2 Цхроме довнлоадинг подешавања Тоолтипс ажуриран"
+},
+"update_title": {
+"message": "Фаткун Серија Довнлоад Филе верзија 1.8.3"
+},
+"width": {
+"message": "ширина"
+},
+"width_short": {
+"message": "мин Ширина"
+}
+}

@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "Ova kartica"
+},
+"ad1_extension_desc": {
+"message": "Niža cijena automatski tražilo, Popust tražilo, Cijena filter za shopping."
+},
+"ad1_extension_name": {
+"message": "Feng Štednja Master"
+},
+"advise": {
+"message": "blog"
+},
+"aimg_tooltip": {
+"message": "Kliknite na sliku za označite ili odznačite"
+},
+"all_tab": {
+"message": "Sve Kartice"
+},
+"apply": {
+"message": "primijeniti"
+},
+"chrome_download_settings_url": {
+"message": "Pitaj gdje spremiti svaku datoteku prije preuzimanja"
+},
+"default_title": {
+"message": "Fatkun Batch Preuzimanje slike"
+},
+"default_title_desc": {
+"message": "ShortKey: Alt + Z"
+},
+"description": {
+"message": "Koristan i jednostavan za preuzimanje slika extension.You možete filtrirati po rezolucije ili link."
+},
+"do_not_show_again": {
+"message": "Znam da to ne pokazati taj dijalog više."
+},
+"donate": {
+"message": "darovati"
+},
+"export_btn": {
+"message": "Izvoz"
+},
+"export_close": {
+"message": "Blizu"
+},
+"export_format": {
+"message": "format"
+},
+"export_format_tips": {
+"message": "Možete koristiti ove varijable: {NO} znači slijed numberï¼\u003e {link} znači vezu slike"
+},
+"export_link": {
+"message": "Izvoz veza"
+},
+"filter_link": {
+"message": "Filtriraj po vezu"
+},
+"five_stars": {
+"message": "5 zvjezdica stopa"
+},
+"height": {
+"message": "Visina"
+},
+"height_short": {
+"message": "min Visina"
+},
+"inverse": {
+"message": "žabica"
+},
+"min_display": {
+"message": "Max Side"
+},
+"more_options": {
+"message": "Više mogućnosti"
+},
+"not_rename": {
+"message": "ne preimenovati"
+},
+"open_multiple_page": {
+"message": "Otvorena više stranica?"
+},
+"open_multiple_page_action": {
+"message": "Otvori stranicu"
+},
+"open_multiple_page_tips": {
+"message": "Dopusti multi-retke URL-ove i zamjenski znak. "
+},
+"popup_tips": {
+"message": "Kratki Ključ: Alt + Z"
+},
+"process_end": {
+"message": "slika"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "uzimajući razlučivost slike"
+},
+"rename_by_this_format": {
+"message": "Promjena naziva na temelju"
+},
+"rename_tips": {
+"message": "Možete koristiti ove varijable: {NO} znači slijed numberï¼\u003e {EXT} znači produženi ime"
+},
+"right_click_to_open": {
+"message": "(Desni klik za otvaranje i provjerite postavke)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Uštedjeti"
+},
+"save_image": {
+"message": "Spremiti sliku"
+},
+"save_tips": {
+"message": "\"Pitaj gdje spremiti svaku datoteku prije preuzimanja\" opciju u Chrome Downlods Setting.Otherwise, mnogo mnogo potvrdu dijaloge stadu."
+},
+"save_tips_cancel": {
+"message": "Otkazati"
+},
+"save_tips_do_not_check": {
+"message": "Nemojte odabrati"
+},
+"save_tips_done": {
+"message": "Spremiti sliku"
+},
+"save_tips_open_setting": {
+"message": "Otvoreno Postavke stranice"
+},
+"settings": {
+"message": "Postavke"
+},
+"settings_add_rules": {
+"message": "Dodaj pravila"
+},
+"settings_already_save": {
+"message": "Postavka je spremljena."
+},
+"settings_collect_one_page": {
+"message": "Prikupiti se na stranici"
+},
+"settings_download": {
+"message": "Chrome preuzimanja postavki"
+},
+"settings_import_rules": {
+"message": "pravila uvoz"
+},
+"settings_min_display": {
+"message": "Zadana rezolucija min"
+},
+"settings_rule_delete": {
+"message": "Izbrisati"
+},
+"settings_rule_example": {
+"message": "primjer pravila"
+},
+"settings_rule_example_title2": {
+"message": "Pravilo podrška Regular Expression"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "Pravilo image URL obrazac"
+},
+"settings_rule_last_update_time": {
+"message": "Zadnje ažuriranje:"
+},
+"settings_rule_last_update_time_none": {
+"message": "nijedan"
+},
+"settings_rule_name": {
+"message": "Ime pravila"
+},
+"settings_rule_test": {
+"message": "Test"
+},
+"settings_rule_url_replace_code": {
+"message": "URL slike zamijeniti kôd"
+},
+"settings_rules_empty": {
+"message": "Prazan"
+},
+"settings_save_folder": {
+"message": "spremanje mape naziv (Ctrl + S)"
+},
+"settings_save_use_fixed_name": {
+"message": "koristiti fiksnu ime"
+},
+"settings_save_use_title": {
+"message": "Naslov korištenje web stranice"
+},
+"settings_show_website": {
+"message": "Prikaži vezu"
+},
+"settings_simple": {
+"message": "Normalno Postavke"
+},
+"settings_special_support": {
+"message": "Posebna podrška"
+},
+"settings_special_support_desc": {
+"message": "Zajednička pravila"
+},
+"settings_update": {
+"message": "Ažurirati sada"
+},
+"settings_use_shortcut_key": {
+"message": "Koristite kratke Ključ: Alt + Z"
+},
+"settings_user_rule_desc": {
+"message": "Prilagođena pravila"
+},
+"sort": {
+"message": "Vrsta"
+},
+"sort_big_first": {
+"message": "Prva velika slika"
+},
+"sort_normal": {
+"message": "Poredaj po licu"
+},
+"sort_small_first": {
+"message": "Prvi Mala slika"
+},
+"switch_view": {
+"message": "Prebacivanje prikaza"
+},
+"update_declaration": {
+"message": "Ovo proširenje spominje neki kodeks zzllrr \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e Å ° ä¹ a\u003e ¾å® ¢ \u003c/a\u003e"
+},
+"update_description": {
+"message": "1 engleski prijevod \u003cbr /\u003e 2 krom preuzimanje postavki Kratki opisi ažurirane"
+},
+"update_title": {
+"message": "Fatkun Batch Download verzija 1.8.3 slike"
+},
+"width": {
+"message": "Širina"
+},
+"width_short": {
+"message": "min Širina"
+}
+}

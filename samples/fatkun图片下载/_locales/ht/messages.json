@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "sa a Contenu"
+},
+"ad1_extension_desc": {
+"message": "Lower pri otomatikman Chèche, Rabè Chèche, Pri filtre pou Shopping."
+},
+"ad1_extension_name": {
+"message": "Feng Lajan ekonomize Mèt"
+},
+"advise": {
+"message": "blog"
+},
+"aimg_tooltip": {
+"message": "Klike sou Imaj dezaktive oswa tcheke"
+},
+"all_tab": {
+"message": "tout Tabs"
+},
+"apply": {
+"message": "Aplike"
+},
+"chrome_download_settings_url": {
+"message": "Mande kote pou konsève pou chak dosye anvan Téléchargez"
+},
+"default_title": {
+"message": "Fatkun pakèt Download Imaj"
+},
+"default_title_desc": {
+"message": "ShortKey: Alt Z"
+},
+"description": {
+"message": "An image download itil ak senp extension.You kapab filtre pa rezolisyon oswa lyen."
+},
+"do_not_show_again": {
+"message": "Mwen konnen li, pa montre dyalòg sa a ankò."
+},
+"donate": {
+"message": "Donate"
+},
+"export_btn": {
+"message": "Export"
+},
+"export_close": {
+"message": "Close"
+},
+"export_format": {
+"message": "fòma"
+},
+"export_format_tips": {
+"message": "Ou kapab sèvi ak varyab sa yo: {NO} vle di sekans numberï¼\u003e {LINK} vle di lyen imaj"
+},
+"export_link": {
+"message": "lyen Export"
+},
+"filter_link": {
+"message": "Filtre pa lyen"
+},
+"five_stars": {
+"message": "5 zetwal to"
+},
+"height": {
+"message": "Tay"
+},
+"height_short": {
+"message": "Min Tay"
+},
+"inverse": {
+"message": "baskil"
+},
+"min_display": {
+"message": "Max Side"
+},
+"more_options": {
+"message": "plis Opsyon"
+},
+"not_rename": {
+"message": "Pa chanje non"
+},
+"open_multiple_page": {
+"message": "Louvri milti paj?"
+},
+"open_multiple_page_action": {
+"message": "louvri paj"
+},
+"open_multiple_page_tips": {
+"message": "Pèmèt milti-ranje urls ak karaktè generic. "
+},
+"popup_tips": {
+"message": "Kout kle: Alt Z"
+},
+"process_end": {
+"message": "imaj"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "imaj ap resevwa rezolisyon"
+},
+"rename_by_this_format": {
+"message": "Chanje non ki baze sou"
+},
+"rename_tips": {
+"message": "Ou kapab sèvi ak varyab sa yo: {NO} vle di sekans numberï¼\u003e {EXT} vle di Non pwolonje"
+},
+"right_click_to_open": {
+"message": "(Dwa-klike sou yo ouvè epi tcheke anviwònman)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Save"
+},
+"save_image": {
+"message": "Save Imaj"
+},
+"save_tips": {
+"message": "\"Mande kote pou konsève pou chak dosye anvan Téléchargez\" opsyon nan Chrome Downlods Setting.Otherwise, anpil anpil dyalòg konfimasyon bann mouton."
+},
+"save_tips_cancel": {
+"message": "Anile"
+},
+"save_tips_do_not_check": {
+"message": "PA CHWAZI"
+},
+"save_tips_done": {
+"message": "Save Imaj"
+},
+"save_tips_open_setting": {
+"message": "Louvri Anviwònman Page"
+},
+"settings": {
+"message": "anviwònman"
+},
+"settings_add_rules": {
+"message": "ajoute règ"
+},
+"settings_already_save": {
+"message": "Anviwònman sove."
+},
+"settings_collect_one_page": {
+"message": "Kolekte a sou paj"
+},
+"settings_download": {
+"message": "Chrome Downloads Anviwònman"
+},
+"settings_import_rules": {
+"message": "règ Import"
+},
+"settings_min_display": {
+"message": "Default rezolisyon min"
+},
+"settings_rule_delete": {
+"message": "Debarase m de"
+},
+"settings_rule_example": {
+"message": "règ egzanp"
+},
+"settings_rule_example_title2": {
+"message": "Règ sipò regilye Ekspresyon"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "Règ imaj url modèl"
+},
+"settings_rule_last_update_time": {
+"message": "Dènyé aktyalizasyon:"
+},
+"settings_rule_last_update_time_none": {
+"message": "Okenn"
+},
+"settings_rule_name": {
+"message": "Non règ"
+},
+"settings_rule_test": {
+"message": "Tès"
+},
+"settings_rule_url_replace_code": {
+"message": "Imaj url ranplase Kòd"
+},
+"settings_rules_empty": {
+"message": "Vide"
+},
+"settings_save_folder": {
+"message": "sove katab Non (pou Ctrl S)"
+},
+"settings_save_use_fixed_name": {
+"message": "sèvi ak non fiks"
+},
+"settings_save_use_title": {
+"message": "tit itilize sit entènèt"
+},
+"settings_show_website": {
+"message": "Montre lyen"
+},
+"settings_simple": {
+"message": "Anviwònman nòmal"
+},
+"settings_special_support": {
+"message": "sipò espesyal"
+},
+"settings_special_support_desc": {
+"message": "Komen Règ"
+},
+"settings_update": {
+"message": "mete ajou kounye a"
+},
+"settings_use_shortcut_key": {
+"message": "Sèvi ak Kout kle: Alt Z"
+},
+"settings_user_rule_desc": {
+"message": "règ Custom"
+},
+"sort": {
+"message": "Sòt"
+},
+"sort_big_first": {
+"message": "Big imaj premye"
+},
+"sort_normal": {
+"message": "Triye pa sit"
+},
+"sort_small_first": {
+"message": "Ti imaj premye"
+},
+"switch_view": {
+"message": "chanje view"
+},
+"update_declaration": {
+"message": "Ekstansyon sa a referans kèk kòd nan å \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e zzllrr a ° ä¹ å\u003e ¾å® ¢ \u003c/a\u003e"
+},
+"update_description": {
+"message": "1 angle tradiksyon \u003cbr /\u003e 2 Chrome Téléchargez anviwònman bul mete ajou"
+},
+"update_title": {
+"message": "Fatkun pakèt Download Imaj vèsyon 1.8.3"
+},
+"width": {
+"message": "Lajè"
+},
+"width_short": {
+"message": "Min Lajè"
+}
+}

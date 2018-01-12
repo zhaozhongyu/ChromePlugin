@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "ეს Tab"
+},
+"ad1_extension_desc": {
+"message": "იაფად ავტომატურად მონახეთ ფასდაკლება მონახეთ ფასი filter ვაჭრობა."
+},
+"ad1_extension_name": {
+"message": "Feng ფულის დაზოგვა ოსტატი"
+},
+"advise": {
+"message": "წაკითხვა"
+},
+"aimg_tooltip": {
+"message": "დააწკაპუნეთ გამოსახულება მონიშვნის მოხსნა ან შემოწმება"
+},
+"all_tab": {
+"message": "ყველა ჩანართის"
+},
+"apply": {
+"message": "მიმართვა"
+},
+"chrome_download_settings_url": {
+"message": "ვთხოვ, სადაც თითოეულ ფაილს ადრე ჩამოტვირთვის"
+},
+"default_title": {
+"message": "Fatkun Batch ჩამოტვირთვა Image"
+},
+"default_title_desc": {
+"message": "ShortKey: Alt + Z"
+},
+"description": {
+"message": "სასარგებლო და მარტივი გამოსახულების ჩამოტვირთვა extension.You შეუძლია გაფილტროს გარჩევადობა ან ბმული."
+},
+"do_not_show_again": {
+"message": "ვიცი, არ ჩანს, ამ დიალოგში ნებისმიერი სხვა."
+},
+"donate": {
+"message": "შემოწირულობა"
+},
+"export_btn": {
+"message": "ექსპორტი"
+},
+"export_close": {
+"message": "Close"
+},
+"export_format": {
+"message": "ფორმატი"
+},
+"export_format_tips": {
+"message": "თქვენ შეგიძლიათ გამოიყენოთ ეს ცვლადები: {NO} ნიშნავს თანმიმდევრობით numberï¼\u003e {LINK} ნიშნავს სურათის ბმული"
+},
+"export_link": {
+"message": "ექსპორტი ლინკი"
+},
+"filter_link": {
+"message": "გაფილტრე ლინკი"
+},
+"five_stars": {
+"message": "5 ვარსკვლავი კურსი"
+},
+"height": {
+"message": "სიმაღლე"
+},
+"height_short": {
+"message": "min სიმაღლე"
+},
+"inverse": {
+"message": "Toggle"
+},
+"min_display": {
+"message": "Max Side"
+},
+"more_options": {
+"message": "მეტი არჩევანი"
+},
+"not_rename": {
+"message": "არ გადაარქვათ"
+},
+"open_multiple_page": {
+"message": "ღია მრავალ გვერდზე?"
+},
+"open_multiple_page_action": {
+"message": "ღია გვერდი"
+},
+"open_multiple_page_tips": {
+"message": "ნება მრავალ რიგები მისამართები და wildcard ხასიათი. "
+},
+"popup_tips": {
+"message": "შემოკლებული ძირითადი: Alt + Z"
+},
+"process_end": {
+"message": "სურათები"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "სურათის მიღების გაფართოება"
+},
+"rename_by_this_format": {
+"message": "გადარქმევა საფუძველზე"
+},
+"rename_tips": {
+"message": "თქვენ შეგიძლიათ გამოიყენოთ ეს ცვლადები: {NO} ნიშნავს თანმიმდევრობით numberï¼\u003e {EXT} ნიშნავს გაფართოებული სახელი"
+},
+"right_click_to_open": {
+"message": "(მარჯვენა ღილაკით გახსნა და შემოწმება პარამეტრები)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "გადარჩენა"
+},
+"save_image": {
+"message": "Save Image"
+},
+"save_tips": {
+"message": "\"ჰკითხეთ, სადაც თითოეულ ფაილს ადრე ჩამოტვირთვის\" ვარიანტის Chrome Downlods Setting.Otherwise, ბევრი დადასტურება დიალოგის ფარა."
+},
+"save_tips_cancel": {
+"message": "გაუქმება"
+},
+"save_tips_do_not_check": {
+"message": "ნუ აირჩიეთ"
+},
+"save_tips_done": {
+"message": "Save Image"
+},
+"save_tips_open_setting": {
+"message": "Open დაყენებები გვერდი"
+},
+"settings": {
+"message": "პარამეტრები"
+},
+"settings_add_rules": {
+"message": "სანიშნეს წესები"
+},
+"settings_already_save": {
+"message": "პარამეტრი შენახულია."
+},
+"settings_collect_one_page": {
+"message": "შეაგროვოს გვერდზე"
+},
+"settings_download": {
+"message": "Chrome გადმოწერა Setting"
+},
+"settings_import_rules": {
+"message": "იმპორტის წესები"
+},
+"settings_min_display": {
+"message": "Default min გაფართოება"
+},
+"settings_rule_delete": {
+"message": "წაშლა"
+},
+"settings_rule_example": {
+"message": "რეგლამენტის მაგალითად"
+},
+"settings_rule_example_title2": {
+"message": "წესი მხარდაჭერა რეგულარული გამოხატვის"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "წესი სურათის url ნიმუში"
+},
+"settings_rule_last_update_time": {
+"message": "ბოლო განახლება:"
+},
+"settings_rule_last_update_time_none": {
+"message": "არცერთი"
+},
+"settings_rule_name": {
+"message": "წესი სახელი"
+},
+"settings_rule_test": {
+"message": "ტესტი"
+},
+"settings_rule_url_replace_code": {
+"message": "სურათის url შეცვლის კოდი"
+},
+"settings_rules_empty": {
+"message": "Empty"
+},
+"settings_save_folder": {
+"message": "გადარჩენა საქაღალდის სახელი (Ctrl + S)"
+},
+"settings_save_use_fixed_name": {
+"message": "გამოიყენოთ ფიქსირებული სახელი"
+},
+"settings_save_use_title": {
+"message": "გამოვიყენოთ საიტი სათაური"
+},
+"settings_show_website": {
+"message": "შოუ ბმული"
+},
+"settings_simple": {
+"message": "ნორმალური პარამეტრები"
+},
+"settings_special_support": {
+"message": "სპეციალური მხარდაჭერა"
+},
+"settings_special_support_desc": {
+"message": "საერთო წესის"
+},
+"settings_update": {
+"message": "ახლა განახლება"
+},
+"settings_use_shortcut_key": {
+"message": "გამოყენების მოკლე ძირითადი: Alt + Z"
+},
+"settings_user_rule_desc": {
+"message": "საბაჟო წესების"
+},
+"sort": {
+"message": "დალაგება"
+},
+"sort_big_first": {
+"message": "დიდი გამოსახულება პირველი"
+},
+"sort_normal": {
+"message": "Sort by საიტი"
+},
+"sort_small_first": {
+"message": "პატარა სურათი პირველი"
+},
+"switch_view": {
+"message": "გადასვლა ნახვა"
+},
+"update_declaration": {
+"message": "ეს გაფართოება მითითებული ზოგიერთი კოდი zzllrr ის \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e Â ° â¹ A\u003e ¾å® ¢ \u003c/a\u003e"
+},
+"update_description": {
+"message": "1 ინგლისური თარგმანი \u003cbr /\u003e 2 Chrome ჩამოტვირთვის პარამეტრები რჩევებს მხრიდან"
+},
+"update_title": {
+"message": "Fatkun Batch ჩამოტვირთვა Image ვერსია 1.8.3"
+},
+"width": {
+"message": "სიგანე"
+},
+"width_short": {
+"message": "Min სიგანე"
+}
+}

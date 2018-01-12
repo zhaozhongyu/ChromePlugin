@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "Tab ini"
+},
+"ad1_extension_desc": {
+"message": "harga yang lebih rendah secara automatik finder, Diskaun finder, penapis Harga untuk membeli-belah."
+},
+"ad1_extension_name": {
+"message": "Feng Wang Simpanan Master"
+},
+"advise": {
+"message": "blog"
+},
+"aimg_tooltip": {
+"message": "Klik Imej untuk memberi tanda cek atau daftar"
+},
+"all_tab": {
+"message": "semua Tab"
+},
+"apply": {
+"message": "memohon"
+},
+"chrome_download_settings_url": {
+"message": "Bertanya di mana untuk menyimpan setiap fail sebelum memuat turun"
+},
+"default_title": {
+"message": "Batch Fatkun Muat turun Image"
+},
+"default_title_desc": {
+"message": "ShortKey: Alt + Z"
+},
+"description": {
+"message": "An muat turun imej yang berguna dan mudah extension.You boleh menapis mengikut ketetapan atau link."
+},
+"do_not_show_again": {
+"message": "Aku tahu, tidak menunjukkan dialog ini lagi."
+},
+"donate": {
+"message": "Donate"
+},
+"export_btn": {
+"message": "Eksport"
+},
+"export_close": {
+"message": "Tutup"
+},
+"export_format": {
+"message": "format"
+},
+"export_format_tips": {
+"message": "Anda boleh menggunakan pembolehubah ini: {NO} bermakna urutan numberï¼\u003e {LINK} bermakna pautan imej"
+},
+"export_link": {
+"message": "link Eksport"
+},
+"filter_link": {
+"message": "Pilih pautan"
+},
+"five_stars": {
+"message": "kadar 5 bintang"
+},
+"height": {
+"message": "Tinggi"
+},
+"height_short": {
+"message": "min Tinggi"
+},
+"inverse": {
+"message": "Toggle"
+},
+"min_display": {
+"message": "Max Side"
+},
+"more_options": {
+"message": "lebih Banyak Pilihan"
+},
+"not_rename": {
+"message": "tidak menamakan semula"
+},
+"open_multiple_page": {
+"message": "halaman berbilang terbuka?"
+},
+"open_multiple_page_action": {
+"message": "halaman terbuka"
+},
+"open_multiple_page_tips": {
+"message": "Benarkan berbilang baris url dan aksara bebas. "
+},
+"popup_tips": {
+"message": "Key pendek: Alt + Z"
+},
+"process_end": {
+"message": "imej"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "imej mendapat resolusi"
+},
+"rename_by_this_format": {
+"message": "Nama semula berdasarkan"
+},
+"rename_tips": {
+"message": "Anda boleh menggunakan pembolehubah ini: {NO} bermakna urutan numberï¼\u003e {EXT} bermakna nama diluaskan"
+},
+"right_click_to_open": {
+"message": "(Klik kanan untuk membuka dan memeriksa tetapan)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Simpan"
+},
+"save_image": {
+"message": "Menyimpan imej"
+},
+"save_tips": {
+"message": "\"Tanyakan tempat untuk menyimpan setiap fail sebelum memuat turun\" dalam Chrome Downlods Setting.Otherwise, banyak banyak dialog pengesahan berduyun-duyun."
+},
+"save_tips_cancel": {
+"message": "Batal"
+},
+"save_tips_do_not_check": {
+"message": "JANGAN PILIH"
+},
+"save_tips_done": {
+"message": "Menyimpan imej"
+},
+"save_tips_open_setting": {
+"message": "Buka Tetapan Page"
+},
+"settings": {
+"message": "Tetapan"
+},
+"settings_add_rules": {
+"message": "menambah peraturan"
+},
+"settings_already_save": {
+"message": "Tetapan disimpan."
+},
+"settings_collect_one_page": {
+"message": "Kumpulkan untuk di halaman"
+},
+"settings_download": {
+"message": "Chrome Muat turun Menetapkan"
+},
+"settings_import_rules": {
+"message": "peraturan import"
+},
+"settings_min_display": {
+"message": "resolusi min lalai"
+},
+"settings_rule_delete": {
+"message": "Padam"
+},
+"settings_rule_example": {
+"message": "Peraturan contoh"
+},
+"settings_rule_example_title2": {
+"message": "Peraturan sokongan Ungkapan Biasa"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "Peraturan corak imej url"
+},
+"settings_rule_last_update_time": {
+"message": "Kemaskini terakhir:"
+},
+"settings_rule_last_update_time_none": {
+"message": "Tiada"
+},
+"settings_rule_name": {
+"message": "peraturan Nama"
+},
+"settings_rule_test": {
+"message": "ujian"
+},
+"settings_rule_url_replace_code": {
+"message": "url imej menggantikan kod"
+},
+"settings_rules_empty": {
+"message": "kosong"
+},
+"settings_save_folder": {
+"message": "menyimpan nama folder (untuk Ctrl + S)"
+},
+"settings_save_use_fixed_name": {
+"message": "menggunakan nama tetap"
+},
+"settings_save_use_title": {
+"message": "tajuk penggunaan laman web"
+},
+"settings_show_website": {
+"message": "Show link"
+},
+"settings_simple": {
+"message": "Tetapan normal"
+},
+"settings_special_support": {
+"message": "sokongan khas"
+},
+"settings_special_support_desc": {
+"message": "Peraturan Bersama"
+},
+"settings_update": {
+"message": "Mengemas kini sekarang"
+},
+"settings_use_shortcut_key": {
+"message": "Gunakan Key pendek: Alt + Z"
+},
+"settings_user_rule_desc": {
+"message": "peraturan adat"
+},
+"sort": {
+"message": "jenis"
+},
+"sort_big_first": {
+"message": "imej besar pertama"
+},
+"sort_normal": {
+"message": "Sort oleh laman web"
+},
+"sort_small_first": {
+"message": "imej kecil pertama"
+},
+"switch_view": {
+"message": "Tukar Lihat"
+},
+"update_declaration": {
+"message": "Sambungan ini dirujuk beberapa kod \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e å zzllrr ini ° ä¹ å\u003e ¾å® ¢ \u003c/a\u003e"
+},
+"update_description": {
+"message": "1 penterjemahan Bahasa Inggeris \u003cbr /\u003e 2 Chrome tetapan memuat turun petua dikemaskini"
+},
+"update_title": {
+"message": "Fatkun Batch Muat turun Image versi 1.8.3"
+},
+"width": {
+"message": "lebar"
+},
+"width_short": {
+"message": "min Lebar"
+}
+}

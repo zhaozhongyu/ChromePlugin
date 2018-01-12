@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "Tab hii"
+},
+"ad1_extension_desc": {
+"message": "bei ya chini moja kwa moja finder, Discount finder, Bei filter kwa Shopping."
+},
+"ad1_extension_name": {
+"message": "Feng Fedha Kuokoa Master"
+},
+"advise": {
+"message": "blog"
+},
+"aimg_tooltip": {
+"message": "Bofya Image uncheck au kuangalia"
+},
+"all_tab": {
+"message": "Vichupo Vyote"
+},
+"apply": {
+"message": "kuomba"
+},
+"chrome_download_settings_url": {
+"message": "Kuuliza mahali pa kuhifadhi kila faili kabla ya kupakua"
+},
+"default_title": {
+"message": "Fatkun Kundi Download Image"
+},
+"default_title_desc": {
+"message": "ShortKey: Alt + Z"
+},
+"description": {
+"message": "muhimu na rahisi picha download extension.You zinaweza kuchuja kwa azimio au kiungo."
+},
+"do_not_show_again": {
+"message": "Najua, si kuonyesha dialog hii tena."
+},
+"donate": {
+"message": "kuchangia"
+},
+"export_btn": {
+"message": "Export"
+},
+"export_close": {
+"message": "karibu"
+},
+"export_format": {
+"message": "format"
+},
+"export_format_tips": {
+"message": "Unaweza kutumia vigezo hivi: {NO} ina maana mlolongo numberï¼\u003e {LINK} ina maana picha kiungo"
+},
+"export_link": {
+"message": "Export kiungo"
+},
+"filter_link": {
+"message": "Chuja kwa kiungo"
+},
+"five_stars": {
+"message": "kiwango cha nyota 5"
+},
+"height": {
+"message": "urefu"
+},
+"height_short": {
+"message": "Min Urefu"
+},
+"inverse": {
+"message": "Toggle"
+},
+"min_display": {
+"message": "Max Side"
+},
+"more_options": {
+"message": "Chaguzi zaidi"
+},
+"not_rename": {
+"message": "si kubadili jina"
+},
+"open_multiple_page": {
+"message": "Open mbalimbali ukurasa?"
+},
+"open_multiple_page_action": {
+"message": "Open ukurasa"
+},
+"open_multiple_page_tips": {
+"message": "Kuruhusu mbalimbali safu urls na tabia wildcard. "
+},
+"popup_tips": {
+"message": "Short Muhimu: Alt + Z"
+},
+"process_end": {
+"message": "picha"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "picha kupata azimio"
+},
+"rename_by_this_format": {
+"message": "Rename msingi"
+},
+"rename_tips": {
+"message": "Unaweza kutumia vigezo hivi: {NO} ina maana mlolongo numberï¼\u003e {EXT} ina maana jina kupanuliwa"
+},
+"right_click_to_open": {
+"message": "(Haki-click kufungua na kuangalia mazingira)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Save"
+},
+"save_image": {
+"message": "Save Image"
+},
+"save_tips": {
+"message": "\"Ombeni mahali pa kuhifadhi kila faili kabla ya kupakua\" chaguo katika Chrome Downlods Setting.Otherwise, wengi wengi uthibitisho dialogs wakiingia."
+},
+"save_tips_cancel": {
+"message": "kufuta"
+},
+"save_tips_do_not_check": {
+"message": "DO NOT CHAGUA"
+},
+"save_tips_done": {
+"message": "Save Image"
+},
+"save_tips_open_setting": {
+"message": "Open Settings Kwanza"
+},
+"settings": {
+"message": "mazingira"
+},
+"settings_add_rules": {
+"message": "Kuongeza sheria"
+},
+"settings_already_save": {
+"message": "Mipangilio imehifadhiwa."
+},
+"settings_collect_one_page": {
+"message": "Kukusanya kwa kwenye ukurasa"
+},
+"settings_download": {
+"message": "Chrome Downloads Kuweka"
+},
+"settings_import_rules": {
+"message": "sheria Import"
+},
+"settings_min_display": {
+"message": "Default min azimio"
+},
+"settings_rule_delete": {
+"message": "kufuta"
+},
+"settings_rule_example": {
+"message": "kutawala mfano"
+},
+"settings_rule_example_title2": {
+"message": "Utawala msaada Mara kwa mara Kujieleza"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "Utawala picha url mfano"
+},
+"settings_rule_last_update_time": {
+"message": "Mwisho update:"
+},
+"settings_rule_last_update_time_none": {
+"message": "hakuna"
+},
+"settings_rule_name": {
+"message": "Jina utawala"
+},
+"settings_rule_test": {
+"message": "mtihani"
+},
+"settings_rule_url_replace_code": {
+"message": "Image url kuchukua nafasi ya kificho"
+},
+"settings_rules_empty": {
+"message": "tupu"
+},
+"settings_save_folder": {
+"message": "kuokoa jina folder (kwa Ctrl + S)"
+},
+"settings_save_use_fixed_name": {
+"message": "kutumia jina fasta"
+},
+"settings_save_use_title": {
+"message": "title matumizi ya tovuti"
+},
+"settings_show_website": {
+"message": "show kiungo"
+},
+"settings_simple": {
+"message": "Mazingira ya kawaida"
+},
+"settings_special_support": {
+"message": "msaada maalum"
+},
+"settings_special_support_desc": {
+"message": "Utawala kawaida"
+},
+"settings_update": {
+"message": "Mwisho sasa"
+},
+"settings_use_shortcut_key": {
+"message": "Matumizi Short Muhimu: Alt + Z"
+},
+"settings_user_rule_desc": {
+"message": "sheria desturi"
+},
+"sort": {
+"message": "aina"
+},
+"sort_big_first": {
+"message": "Big taswira ya kwanza"
+},
+"sort_normal": {
+"message": "Panga kwa tovuti"
+},
+"sort_small_first": {
+"message": "Ndogo taswira ya kwanza"
+},
+"switch_view": {
+"message": "kubadili View"
+},
+"update_declaration": {
+"message": "ugani hii inatazamwa baadhi ya kanuni za zzllrr ya \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e a ° ä¹ a\u003e ¾å® ¢ \u003c/a\u003e"
+},
+"update_description": {
+"message": "1 Kiingereza \u003cbr /\u003e 2 Chrome mazingira ya kupakua tooltips updated"
+},
+"update_title": {
+"message": "Fatkun Kundi Download Image version 1.8.3"
+},
+"width": {
+"message": "upana"
+},
+"width_short": {
+"message": "Min upana"
+}
+}

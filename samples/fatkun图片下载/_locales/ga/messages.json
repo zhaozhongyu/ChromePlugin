@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "seo Tab"
+},
+"ad1_extension_desc": {
+"message": "praghas níos ísle aimsitheoir huathoibríoch, Lascaine aimsitheoir, scagaire Praghas Siopadóireacht."
+},
+"ad1_extension_name": {
+"message": "Feng Airgead Shábháil Master"
+},
+"advise": {
+"message": "blog"
+},
+"aimg_tooltip": {
+"message": "Cliceáil Íomhá chun Díthiceáil nó seiceáil"
+},
+"all_tab": {
+"message": "Gach Tabs"
+},
+"apply": {
+"message": "Cuir iarratas isteach"
+},
+"chrome_download_settings_url": {
+"message": "Iarr nuair a shábháil gach comhad roimh a íoslódáil"
+},
+"default_title": {
+"message": "Baisc Fatkun Íosluchtaigh Íomhá"
+},
+"default_title_desc": {
+"message": "ShortKey: Alt + Z"
+},
+"description": {
+"message": "Íomhá íoslódáil úsáideach agus simplí extension.You scagaire le rún nó ar an nasc."
+},
+"do_not_show_again": {
+"message": "Tá a fhios agam é, ní taispeáin an dialóg seo a thuilleadh."
+},
+"donate": {
+"message": "Síntiúis"
+},
+"export_btn": {
+"message": "Easpórtáil"
+},
+"export_close": {
+"message": "Dún"
+},
+"export_format": {
+"message": "formáid"
+},
+"export_format_tips": {
+"message": "Is féidir leat úsáid na hathróga: {NO} ciallaíonn\u003e Ciallaíonn ord numberï¼ {LINK} nasc íomhá"
+},
+"export_link": {
+"message": "nasc Easpórtáil"
+},
+"filter_link": {
+"message": "Scag de réir link"
+},
+"five_stars": {
+"message": "Ráta 5 réiltín"
+},
+"height": {
+"message": "airde"
+},
+"height_short": {
+"message": "Min Airde"
+},
+"inverse": {
+"message": "Scoránaigh"
+},
+"min_display": {
+"message": "Max Taobh"
+},
+"more_options": {
+"message": "More Roghanna"
+},
+"not_rename": {
+"message": "Gan athainmniú"
+},
+"open_multiple_page": {
+"message": "leathanach il Oscailte?"
+},
+"open_multiple_page_action": {
+"message": "leathanach Oscail"
+},
+"open_multiple_page_tips": {
+"message": "Ceadaigh il-sraitheanna URLanna agus carachtar saoróg. "
+},
+"popup_tips": {
+"message": "Gearr Eochair: Alt + Z"
+},
+"process_end": {
+"message": "íomhánna"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "íomhá réiteach ag fáil"
+},
+"rename_by_this_format": {
+"message": "Athainmnigh bunaithe ar"
+},
+"rename_tips": {
+"message": "Is féidir leat úsáid na hathróga: {NO} ciallaíonn seicheamh numberï¼\u003e {EXT} ciallaíonn ainm leathnaithe"
+},
+"right_click_to_open": {
+"message": "(Deaschliceáil a oscailt agus suímh seiceáil)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Sábháil"
+},
+"save_image": {
+"message": "Sábháil Íomhá"
+},
+"save_tips": {
+"message": "\"Iarr nuair a shábháil gach comhad roimh a íoslódáil\" rogha i Chrome Downlods Setting.Otherwise, flock go leor dialóga deimhniú leor."
+},
+"save_tips_cancel": {
+"message": "Cealaigh"
+},
+"save_tips_do_not_check": {
+"message": "NÁ SELECT"
+},
+"save_tips_done": {
+"message": "Sábháil Íomhá"
+},
+"save_tips_open_setting": {
+"message": "Oscail Socruithe Leathanach"
+},
+"settings": {
+"message": "Socruithe"
+},
+"settings_add_rules": {
+"message": "Cuir rialacha"
+},
+"settings_already_save": {
+"message": "AG SOCRÚ shábháil."
+},
+"settings_collect_one_page": {
+"message": "Bailigh ar leathanach"
+},
+"settings_download": {
+"message": "Íoslódálacha Chrome Socrú"
+},
+"settings_import_rules": {
+"message": "rialacha Iompórtáil"
+},
+"settings_min_display": {
+"message": "Taifeach Réamhshocraithe min"
+},
+"settings_rule_delete": {
+"message": "Scrios"
+},
+"settings_rule_example": {
+"message": "Riail sampla"
+},
+"settings_rule_example_title2": {
+"message": "tacaíocht Riail Slonn"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "Riail patrún image url"
+},
+"settings_rule_last_update_time": {
+"message": "Nuashonrú is déanaí:"
+},
+"settings_rule_last_update_time_none": {
+"message": "Ar bith"
+},
+"settings_rule_name": {
+"message": "riail Ainm"
+},
+"settings_rule_test": {
+"message": "Scrúdú"
+},
+"settings_rule_url_replace_code": {
+"message": "Image url ionad cód"
+},
+"settings_rules_empty": {
+"message": "folamh"
+},
+"settings_save_folder": {
+"message": "shábháil ainm an fhillteáin (do Ctrl + S)"
+},
+"settings_save_use_fixed_name": {
+"message": "úsáid ainm seasta"
+},
+"settings_save_use_title": {
+"message": "Teideal gréasáin úsáid"
+},
+"settings_show_website": {
+"message": "Taispeáin link"
+},
+"settings_simple": {
+"message": "Socruithe gnáth"
+},
+"settings_special_support": {
+"message": "tacaíocht speisialta"
+},
+"settings_special_support_desc": {
+"message": "Riail Common"
+},
+"settings_update": {
+"message": "Nuashonraigh anois"
+},
+"settings_use_shortcut_key": {
+"message": "Úsáid Gearr Eochair: Alt + Z"
+},
+"settings_user_rule_desc": {
+"message": "rialacha Saincheaptha"
+},
+"sort": {
+"message": "Sórtáil"
+},
+"sort_big_first": {
+"message": "Big image dtús"
+},
+"sort_normal": {
+"message": "Sórtáil de réir an suíomh"
+},
+"sort_small_first": {
+"message": "image Beaga dtús"
+},
+"switch_view": {
+"message": "Athraigh View"
+},
+"update_declaration": {
+"message": "An síneadh tagairt éigin gcód zzllrr ar å \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e ° ä¹ å\u003e ¾å® ¢ \u003c/a\u003e"
+},
+"update_description": {
+"message": "1 aistriúchán Béarla \u003cbr /\u003e 2 Chrome suímh íoslódáil Leideanna nuashonrú"
+},
+"update_title": {
+"message": "Fatkun Baisc Íosluchtaigh Íomhá Leagan 1.8.3"
+},
+"width": {
+"message": "leithead"
+},
+"width_short": {
+"message": "Min Leithead"
+}
+}

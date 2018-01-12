@@ -1,0 +1,248 @@
+{
+"active_tab": {
+"message": "Tab này"
+},
+"ad1_extension_desc": {
+"message": "Hạ giá tự động tìm, Giảm finder, Giá lọc cho mua sắm."
+},
+"ad1_extension_name": {
+"message": "Feng tiết kiệm tiền bạc Thạc sĩ"
+},
+"advise": {
+"message": "Blog"
+},
+"aimg_tooltip": {
+"message": "Click vào hình để bỏ chọn hoặc chọn"
+},
+"all_tab": {
+"message": "Tất cả các Tab"
+},
+"apply": {
+"message": "Ứng dụng"
+},
+"chrome_download_settings_url": {
+"message": "Hỏi vị trí lưu từng file trước khi tải về"
+},
+"default_title": {
+"message": "Hàng loạt Fatkun Download Image"
+},
+"default_title_desc": {
+"message": "ShortKey: Alt + Z"
+},
+"description": {
+"message": "Một hình ảnh tải hữu ích và đơn giản extension.You thể lọc theo độ phân giải hoặc liên kết."
+},
+"do_not_show_again": {
+"message": "Tôi biết điều đó, không hiển thị hộp thoại này nữa."
+},
+"donate": {
+"message": "tặng"
+},
+"export_btn": {
+"message": "Xuất khẩu"
+},
+"export_close": {
+"message": "Gần"
+},
+"export_format": {
+"message": "định dạng"
+},
+"export_format_tips": {
+"message": "Bạn có thể sử dụng các biến: {NO} có nghĩa là chuỗi numberï¼\u003e {LINK} có nghĩa là liên kết hình ảnh"
+},
+"export_link": {
+"message": "liên kết Xuất"
+},
+"filter_link": {
+"message": "Lọc theo liên kết"
+},
+"five_stars": {
+"message": "tỷ lệ 5 sao"
+},
+"height": {
+"message": "Chiều cao"
+},
+"height_short": {
+"message": "min Chiều cao"
+},
+"inverse": {
+"message": "Chuyển đổi"
+},
+"min_display": {
+"message": "Max Side"
+},
+"more_options": {
+"message": "Lựa chọn khác"
+},
+"not_rename": {
+"message": "không đổi tên"
+},
+"open_multiple_page": {
+"message": "trang đa mở?"
+},
+"open_multiple_page_action": {
+"message": "mở trang"
+},
+"open_multiple_page_tips": {
+"message": "Cho phép nhiều hàng url và ký tự đại diện. "
+},
+"popup_tips": {
+"message": "Key tắt: Alt + Z"
+},
+"process_end": {
+"message": "hình ảnh"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "nhận được độ phân giải hình ảnh"
+},
+"rename_by_this_format": {
+"message": "Đổi tên dựa trên"
+},
+"rename_tips": {
+"message": "Bạn có thể sử dụng các biến: {NO} có nghĩa là chuỗi numberï¼\u003e {EXT} có nghĩa là tên mở rộng"
+},
+"right_click_to_open": {
+"message": "(Nhấp chuột phải để mở và kiểm tra các thiết lập)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Tiết kiệm"
+},
+"save_image": {
+"message": "Lưu hình ảnh"
+},
+"save_tips": {
+"message": "\"Hỏi vị trí lưu từng file trước khi tải\" trong Chrome Downlods Setting.Otherwise, nhiều nhiều hộp thoại xác nhận đổ."
+},
+"save_tips_cancel": {
+"message": "hủy bỏ"
+},
+"save_tips_do_not_check": {
+"message": "KHÔNG CHỌN"
+},
+"save_tips_done": {
+"message": "Lưu hình ảnh"
+},
+"save_tips_open_setting": {
+"message": "Mở Settings trang"
+},
+"settings": {
+"message": "Cài đặt"
+},
+"settings_add_rules": {
+"message": "Thêm quy tắc"
+},
+"settings_already_save": {
+"message": "Đã lưu cài đặt."
+},
+"settings_collect_one_page": {
+"message": "Collect để trên trang"
+},
+"settings_download": {
+"message": "Chrome Downloads Setting"
+},
+"settings_import_rules": {
+"message": "quy định nhập khẩu"
+},
+"settings_min_display": {
+"message": "độ phân giải tối thiểu mặc định"
+},
+"settings_rule_delete": {
+"message": "Xóa bỏ"
+},
+"settings_rule_example": {
+"message": "Rule dụ"
+},
+"settings_rule_example_title2": {
+"message": "hỗ trợ quy tắc Regular Expression"
+},
+"settings_rule_imageUrl_pattern": {
+"message": "Quy tắc mẫu url hình ảnh"
+},
+"settings_rule_last_update_time": {
+"message": "Cập nhật cuối cùng:"
+},
+"settings_rule_last_update_time_none": {
+"message": "không ai"
+},
+"settings_rule_name": {
+"message": "Tên Quy tắc"
+},
+"settings_rule_test": {
+"message": "Thử nghiệm"
+},
+"settings_rule_url_replace_code": {
+"message": "Hình ảnh url thay thế mã"
+},
+"settings_rules_empty": {
+"message": "Trống"
+},
+"settings_save_folder": {
+"message": "lưu tên thư mục (Ctrl + S)"
+},
+"settings_save_use_fixed_name": {
+"message": "sử dụng tên cố định"
+},
+"settings_save_use_title": {
+"message": "tiêu đề sử dụng trang web"
+},
+"settings_show_website": {
+"message": "Hiện liên kết"
+},
+"settings_simple": {
+"message": "Cài đặt bình thường"
+},
+"settings_special_support": {
+"message": "hỗ trợ đặc biệt"
+},
+"settings_special_support_desc": {
+"message": "Quy tắc chung"
+},
+"settings_update": {
+"message": "Cập nhật bây giờ"
+},
+"settings_use_shortcut_key": {
+"message": "Sử dụng phím tắt: Alt + Z"
+},
+"settings_user_rule_desc": {
+"message": "quy tắc tùy chỉnh"
+},
+"sort": {
+"message": "loại"
+},
+"sort_big_first": {
+"message": "Big hình ảnh đầu tiên"
+},
+"sort_normal": {
+"message": "Sắp xếp theo trang web"
+},
+"sort_small_first": {
+"message": "hình ảnh nhỏ đầu tiên"
+},
+"switch_view": {
+"message": "chuyển Xem"
+},
+"update_declaration": {
+"message": "Phần mở rộng này tham khảo một số mã của å \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e zzllrr của ° ä¹ å\u003e ¾å® ¢ \u003c/a\u003e"
+},
+"update_description": {
+"message": "1 bản dịch tiếng Anh \u003cbr /\u003e 2 cài đặt tải Chrome tooltips cập nhật"
+},
+"update_title": {
+"message": "Fatkun Batch Download hình ảnh phiên bản 1.8.3"
+},
+"width": {
+"message": "Chiều rộng"
+},
+"width_short": {
+"message": "min Width"
+}
+}
